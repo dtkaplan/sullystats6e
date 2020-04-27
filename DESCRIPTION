@@ -10,6 +10,7 @@ Description: Micheal Sullivan has collected hundreds of data sets
     files.  Data sets named in the  format S10_2_35 refer to specific
     chapters in the sixth edition  of Informed Decisions Using Data with 
     the number following the S  giving the chapter number.
+Depends: R (>= 3.5.0)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
