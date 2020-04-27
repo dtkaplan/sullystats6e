@@ -1,0 +1,6 @@
+Response	Frequency
+More than 1 hour a day	377
+Up to 1 hour a day	192
+A few times a week	132
+A few times a month	81
+Never	243

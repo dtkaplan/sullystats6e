@@ -1,0 +1,6 @@
+Response	Frequency
+Never	125
+Rarely	324
+Sometimes	552
+Most of the time	1257
+Always	2518

@@ -1,0 +1,7 @@
+City	Family Income ($1000)	Commute Time (min)
+Woodridge, IL	83	27.1
+Urbandale, ID	82	17.0
+La Palma, CA	86	26.9
+Friendswood, TX	90	26.0
+Suwanee, GA	101	32.1
+Somers, CT	83	22.6

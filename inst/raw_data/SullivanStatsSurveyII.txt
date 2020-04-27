@@ -1,0 +1,135 @@
+Response_id Gender Age Education "Tax.Rate" GenderIncomeInequality MinWageOpinion MinWageAmount "Political.Philosophy" Text RetirementDollars RetirementAge DeathAge
+290408 Female 19 "Some College" 10 No Yes 10 Moderate Yes 1200000 65 90
+290410 Female 18 "Some College" 10 Yes Yes 9 Conservative No 350000 61 105
+290412 Female 21 "Some College" 10 Yes Yes 9.5 Liberal Yes 1000000 60 90
+290413 Female 42 "Some College" 20 Yes No "" Moderate No 200000 65 100
+290414 Female 21 "Some College" 20 No No "" Moderate No 500000 62 80
+290415 Female 18 "Some College" 15 No No "" Moderate No 1000000 62 85
+290416 Female 24 "Some College" 15 Yes Yes 9.5 Moderate No 1000000 57 105
+290418 Female 18 "Some College" 15 Yes Yes 10 Moderate No 1000000 75 95
+290419 Female 19 "Some College" 3 Yes Yes 10 Moderate Yes 200000 60 85
+290420 Male 19 "Some College" 5 No No "" Liberal No 500000 60 80
+290421 Male 19 "Some College" 23 Yes Yes 9 Conservative No 700000 70 90
+290422 Male 18 "High School Diploma" 10 No Yes 10 Moderate Yes 500000 58 80
+290424 Female 26 "Some College" 0 Yes Yes 11 Moderate No 300000 50 90
+290425 Male 20 "Some College" 20 Yes Yes 10.5 Liberal Yes 200000 65 100
+290426 Female 25 "Some College" 10 No Yes 9 Moderate No 500000 50 87
+290428 Female 24 "Some College" 0 No Yes 8.25 Conservative Yes 750000 50 80
+290429 Female 18 "Some College" 7 Yes Yes 12 Conservative Yes 300000 65 83
+290432 Female 21 "Some College" 20 No No "" Moderate No 2000000 65 100
+290433 Female 18 "Some College" 14 Yes Yes 10 Conservative Yes 100000 65 90
+290434 Female 35 "Some College" 15 Yes Yes 12 Conservative No 2000000 62 80
+290435 Female 20 "Some College" 20 No No "" Liberal No 1000000 70 95
+290436 Male 37 "Some College" 15 Yes Yes 15 Moderate No 1500000 65 80
+290438 Male 21 "Some College" 9 No Yes 15 Liberal No 250000 60 108
+290445 Female 26 "Some College" 15 Yes Yes 10.5 Moderate No 250000 60 100
+292008 Female 22 "Some College" 5 Yes No "" Moderate No 900000 65 100
+292010 Female 19 "Some College" 15 No Yes 12 Liberal No 1750000 70 95
+292093 Female 46 "Bachelor's Degree" 15 Yes Yes 10 Moderate Yes 2500000 50 90
+292102 Male 21 "Some College" 5 No Yes 10 Liberal No 100000 60 105
+292162 Female 35 "Some College" 17 No Yes 9 Moderate No 125000 70 102
+292166 Female 45 "Graduate or Professional Degree" 25 Yes Yes 10 Moderate Yes 2000000 65 85
+292171 Female 46 "Bachelor's Degree" 15 Yes No "" Moderate Yes 1500000 70 80
+292177 Female 46 "Graduate or Professional Degree" 20 Yes Yes 10 Liberal Yes 1000000 65 90
+292181 Female 47 "Bachelor's Degree" 10 Yes Yes 15 Moderate No 5000000 60 85
+292183 Male 21 "Some College" 10 No Yes 11.5 Liberal No 1250000 60 100
+292185 Female 56 "Bachelor's Degree" 17 Yes Yes 11 Moderate Yes 3000000 80 80
+292234 Female 20 "Some College" 2 Yes Yes 10 Moderate Yes 4000000 55 90
+292241 Male 19 "Some College" 1 Yes Yes 10 Conservative Yes 100000 60 80
+292277 Male 31 "Some College" 15 Yes Yes 12 Liberal No 500000 65 80
+292279 Female 26 "Bachelor's Degree" 2 No Yes 9 Moderate Yes 750000 60 90
+292340 Female 37 "Graduate or Professional Degree" 10 Yes Yes 12 Moderate Yes 1000000 60 105
+292528 Female 48 "Graduate or Professional Degree" 15 Yes Yes 8 Moderate No 250000 65 93
+292535 Female 48 "High School Diploma" 5 Yes Yes 8.3 Conservative No 500000 60 65
+292632 Female 44 "Bachelor's Degree" 15 Yes No "" Conservative No 1000000 55 80
+292772 Female 51 "Graduate or Professional Degree" 35 Yes Yes 15 Liberal Yes 1500000 65 85
+293531 Female 52 "Graduate or Professional Degree" 10 Yes No "" Conservative Yes 5000000 62 108
+293544 Male 54 "Graduate or Professional Degree" 15 No Yes 9 Moderate Yes 300000 60 95
+293900 Female 25 "Some College" 2 No Yes 9 Conservative Yes 80000 65 66
+293901 Female 50 "High School Diploma" 0 Yes Yes 10 Moderate No 50000 55 80
+293902 Female 23 "Bachelor's Degree" 4 Yes Yes 10 Liberal No 100000 70 85
+293924 Female 36 "Some College" 5 Yes Yes 10 Liberal Yes 1500000 60 90
+293934 Male 48 "Bachelor's Degree" 15 No No "" Conservative No 2000000 55 80
+293965 Female 24 "Some College" 5 No Yes 8.25 Conservative Yes 2500000 60 88
+294097 Female 70 "High School Diploma" 10 Yes Yes 11 Moderate No 500000 65 75
+294154 Female 61 "Bachelor's Degree" 5 Yes Yes 11.5 Moderate No 3500000 62 100
+294528 Female 24 "Some College" 10 No Yes 8.75 Conservative Yes 300000 55 75
+320424 Male 35 "Bachelor's Degree" 20 Yes Yes 9 Moderate Yes 2000000 60 90
+320427 Female 49 "Bachelor's Degree" 15 Yes Yes 9.75 Conservative No 2000000 62 95
+320433 Female 42 "Graduate or Professional Degree" 15 Yes Yes 10.5 Conservative Yes 1750000 65 90
+320438 Female 43 "Graduate or Professional Degree" 8 Yes Yes 9.75 Conservative Yes 2000000 68 80
+320480 Male 64 "Graduate or Professional Degree" 10 No Yes 8.5 Conservative No 1500000 62 20
+320503 Male 47 "Some College" 25 Yes Yes 8 Moderate Yes 800000 65 85
+320508 Female 43 "Bachelor's Degree" 20 Yes No "" Moderate Yes 3500000 65 90
+320512 Female 50 "Some College" 18 Yes No "" Conservative No 1000000000 70 90
+320513 Female 46 "Bachelor's Degree" 25 Yes Yes 10 Moderate No 750000 62 90
+320527 Female 38 "Bachelor's Degree" 3 Yes Yes 15 Moderate No 1000000 62 85
+320530 Female 37 "Some College" 5 Yes Yes "" Conservative No 1250000 50 100
+320531 Female 48 "Some College" 20 Yes Yes 15 Conservative Yes 2000000 60 80
+320538 Male 32 "Graduate or Professional Degree" 20 Yes Yes 12 Liberal Yes 1000000 55 80
+320540 Female 18 "High School Diploma" 10 Yes Yes 11.75 Moderate No 400000 65 90
+320541 Male 44 "Bachelor's Degree" 20 No Yes 11 Moderate Yes 2000000 65 80
+320545 Male 41 "Graduate or Professional Degree" 7 Yes Yes 9 Moderate No 1000000 57 85
+320546 Female 66 "Some College" 2 Yes No "" Moderate No 1000000 65 95
+320549 Female 35 "Graduate or Professional Degree" 10 No Yes 9.75 Moderate Yes 4000000 50 100
+320551 Female 41 "Bachelor's Degree" 30 Yes Yes 10 Moderate No 2000000 60 80
+320556 Male 44 "Bachelor's Degree" 20 Yes Yes 12 Conservative No 2000000 65 85
+320564 Male 43 "Bachelor's Degree" 10 No No "" Conservative Yes 10000000 55 85
+320567 Female 36 "Graduate or Professional Degree" 15 Yes Yes 15 Moderate No 4500000 60 90
+320569 Female 33 "Bachelor's Degree" 3 No Yes 20 Moderate No 1000000 65 100
+320576 Male 18 "Some College" 10 Yes Yes 10 Moderate Yes 750000 60 90
+320577 Male 27 "Some College" 2 Yes Yes 12 Liberal No 1000000 60 90
+320578 Female 18 "Some College" 17 No Yes 8.25 Moderate No 900000 65 95
+320579 Female 18 "High School Diploma" 6 Yes Yes 12 Conservative No 300000 65 78
+320580 Female 49 "Graduate or Professional Degree" 3 Yes Yes 11 Moderate Yes 100000 60 100
+320581 Male 39 "Graduate or Professional Degree" 18 Yes Yes 9 Moderate No 2000000 67 80
+320588 Male 47 "Bachelor's Degree" 18 Yes Yes 11.25 Conservative Yes 2000000 59 44
+320597 Male 50 "Bachelor's Degree" 15 No Yes 8.5 Conservative Yes 2000000 60 90
+320601 Male 19 "High School Diploma" 10 Yes Yes 18 Moderate No 50000 70 85
+320642 Female 29 "Some College" 5 No Yes 10 Conservative Yes 1000000 60 100
+320667 Male 18 "High School Diploma" 4 Yes Yes 9.25 Liberal No 400000 65 100
+320669 Female 18 "High School Diploma" 5 Yes Yes 12 Moderate No 50000 64 100
+320672 Male 48 "High School Diploma" 10 No Yes 10 Conservative No 850000 60 85
+320678 Female 43 "Bachelor's Degree" 15 Yes Yes 11.25 Moderate Yes 1300000 65 85
+320694 Female 37 "Some College" 10 Yes Yes 10 Liberal No 25000000 62 95
+320696 Male 19 "Some College" 5 No Yes 10 Conservative Yes 1550000 50 91
+320701 Female 23 "Some College" 10 Yes Yes 15 Moderate No 5000000 65 80
+320716 Female 44 "Bachelor's Degree" 20 No Yes 10 Moderate No 2000000 70 85
+320796 Male 20 "Some College" 10 Yes Yes 10 Moderate Yes 700000 60 88
+320797 Female 21 "Some College" 2 Yes Yes 11.5 Moderate No 1400000 60 84
+320808 Male 51 "Graduate or Professional Degree" 20 Yes No "" Moderate No 3000000 65 95
+320819 Male 47 "Graduate or Professional Degree" 15 Yes Yes 10 Moderate No 1000000 60 100
+320823 Female 43 "Graduate or Professional Degree" 15 Yes Yes 13 Moderate Yes 500000 58 75
+320844 Female 19 "High School Diploma" 5 Yes Yes 9 Liberal Yes 100000 65 85
+320846 Male 50 "Graduate or Professional Degree" 15 Yes Yes 15 Liberal No 2000000 55 85
+320860 Male 19 "Some College" 15 Yes Yes 10.5 Liberal No 850000 60 85
+320861 Female 18 "High School Diploma" 10 Yes Yes 8.25 Moderate Yes 100000 60 100
+320869 Male 19 "Some College" 15 No Yes 8.25 Conservative No 1000000 70 90
+320889 Male 18 "Some College" 15 Yes Yes 10 Moderate No 2000000 65 75
+320944 Female 19 "Some College" 6 Yes Yes 11 Moderate No 1000000 60 90
+320963 Female 19 "Some College" 10 Yes Yes 8.5 Liberal No 600000 65 85
+320974 Female 52 "Some College" 10 No Yes 11 Moderate No 1000000000 60 20
+320976 Female 39 "Bachelor's Degree" 25 No Yes 10 Liberal Yes 1000000 62 85
+320987 Female 44 "Bachelor's Degree" 20 No Yes 7.5 Moderate Yes 2000000 60 90
+321020 Female 34 "Graduate or Professional Degree" 5 No Yes 10 Conservative No 2000000 60 100
+321029 Female 45 "Some College" 10 Yes Yes 12 Liberal Yes 100000 60 85
+321111 Male 22 "Some College" 6 No Yes 10 Moderate Yes 1000000 65 85
+321169 Male 20 "Some College" 5 No Yes 10 Conservative No 500000 65 75
+321274 Male 37 "Some College" 10 No No "" Moderate Yes 1000000 65 90
+321306 Female 19 "Some College" 1 Yes Yes 12.5 Liberal No 250000 70 90
+321308 Male 51 "Graduate or Professional Degree" 10 No Yes 10.75 Conservative Yes 1500000 70 90
+321309 Female 38 "Graduate or Professional Degree" 10 Yes Yes 10 Moderate Yes 2500000 60 87
+321322 Female 45 "Graduate or Professional Degree" 30 Yes Yes 8.5 Moderate Yes 2000000 57 82
+321350 Male 39 "Bachelor's Degree" 20 No Yes 12 Moderate Yes 2000000 60 85
+321352 Male 23 "Some College" 40 Yes No "" Liberal No 50000 60 80
+321375 Female 42 "Bachelor's Degree" 8 No Yes 10 Liberal No 2000000000 63 92
+321378 Female 22 "Some College" 10 Yes Yes 10 Liberal No 900000 56 78
+321382 Female 44 "Bachelor's Degree" 10 Yes Yes 10 Conservative Yes 200000 60 80
+321399 Male 49 "Graduate or Professional Degree" 25 Yes Yes 10 Conservative Yes 1750000 65 85
+321402 Female 18 "Some College" 5 Yes No "" Liberal Yes 500000 60 36
+321512 Male 19 "Some College" 5 No Yes 8.25 Moderate Yes 1900000 55 90
+321633 Male 33 "Bachelor's Degree" 9 No Yes 12 Moderate No 2000000 50 100
+321695 Male 49 "Graduate or Professional Degree" 25 No No "" Conservative No 3000000 65 100
+321795 Female 19 "Some College" 28 Yes Yes 10 Liberal Yes 750000 60 80
+322409 Female 28 "Some College" 20 Yes Yes 9 Moderate No 800000 65 80
+322664 Female 18 "High School Diploma" 3 Yes No "" Conservative No 50000 60 90

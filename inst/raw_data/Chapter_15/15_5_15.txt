@@ -1,0 +1,16 @@
+Professor A	Professor B
+C	B
+D	B
+F	A
+C	A
+C	C
+B	B
+B	B
+D	C
+C	D
+A	A
+A	B
+C	C
+B	F
+D	C
+C	B

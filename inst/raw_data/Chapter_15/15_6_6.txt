@@ -1,0 +1,9 @@
+State	Population Density	Crime Rate
+Alabama	92.8	448
+Colorado	48.4	348
+Illinois	232.3	533
+Kansas	34.5	453
+Minnesota	66.2	289
+North Carolina	192.6	466
+South Dakota	10.7	169
+Virginia	199.1	270

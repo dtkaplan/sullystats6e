@@ -1,0 +1,11 @@
+Car	Weight (lb)	Miles per Gallon
+Buick LaCrosse	4724	17
+Cadillac XTS	4006	18
+Chevrolet Cruze	3097	22
+Chevrolet Impala	3555	19
+Chrysler 300	4029	19
+Dodge Charger	3934	19
+Dodge Dart	3242	24
+Ford Focus	2960	26
+Ford Mustang	3530	19
+Lincoln MKZ	3823	18

@@ -1,0 +1,33 @@
+Team Dome Plays
+"Atlanta Falcons" Yes 83
+"New Orleans Saints" Yes 80
+"New England Patriots" No 78
+"Houston Texans" Yes 61
+"Minnesota Vikings" Yes 59
+"Baltimore Ravens" No 58
+"Carolina Panthers" No 57
+"San Diego Chargers" No 57
+"Indianapolis Colts" Yes 56
+"Green Bay Packers" No 55
+"New York Giants" No 55
+"Cincinnati Bengals" No 53
+"Pittsburgh Steelers" No 52
+"Kansas City Chiefs" No 52
+"Jacksonville Jaguars" No 51
+"Cleveland Browns" No 50
+"Saint Louis Rams" Yes 50
+"Seattle Seahawks" No 50
+"Detroit Lions" Yes 49
+"Chicago Bears" No 48
+"San Francisco 49ers" No 47
+"New York Jets" No 46
+"Denver Broncos" No 46
+"Tampa Bay Buccaneers" No 45
+"Dallas Cowboys" Yes 45
+"Tennessee Titans" No 45
+"Oakland Raiders" No 44
+"Miami Dolphins" No 44
+"Buffalo Bills" No 43
+"Arizona Cardinals" Yes 43
+"Philadelphia Eagles" No 42
+"Washington Redskins" No 37

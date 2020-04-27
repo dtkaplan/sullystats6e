@@ -1,0 +1,13 @@
+Month	Cases Of Lyme Disease	Drowning Deaths
+Jan	3	0
+Feb	2	1
+March	2	2
+April	4	1
+May	5	2
+June	15	9
+July	22	16
+Aug	13	5
+Sept	6	3
+Oct	5	3
+Nov	4	1
+Dec	1	0

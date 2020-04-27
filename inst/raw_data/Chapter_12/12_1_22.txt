@@ -1,0 +1,8 @@
+Days of the Week	Frequency	
+Sunday	39	
+Monday	40	
+Tuesday	30	
+Wednesday	40	
+Thursday	41	
+Friday	49	
+Saturday	61	

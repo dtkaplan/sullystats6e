@@ -1,0 +1,49 @@
+State "Tax Rate" Smuggling
+Alabama 0.425 -7.5
+Arizona 2 44.8
+Arkansas 1.15 8.5
+California 0.87 28.3
+Colorado 0.84 10.8
+Connecticut 3.4 16.7
+Delaware 1.6 -20.3
+Florida 1.339 15.7
+Georgia 0.37 -4.2
+Idaho 0.57 -22.5
+Illinois 1.98 16.6
+Indiana 0.995 -15.5
+Iowa 1.36 12.9
+Kansas 0.79 12.7
+Kentucky 0.6 -8.3
+Louisiana 0.36 1.1
+Maine 2 10
+Maryland 2 18.7
+Massachusetts 3.51 28.4
+Michigan 2 23
+Minnesota 3.43 35.9
+Mississippi 0.68 6.6
+Missouri 0.17 -15.4
+Montana 1.7 23.3
+Nebraska 0.64 1.1
+Nevada 0.8 -16.4
+"New Hampshire" 1.78 -71.9
+"New Jersey" 2.7 9.3
+"New Mexico" 1.66 41.4
+"New York" 4.35 56.8
+"North Dakota" 0.44 -14.6
+Ohio 1.25 6
+Oklahoma 1.03 2.3
+Oregon 1.31 10.4
+Pennsylvania 1.6 -2
+"Rhode Island" 3.5 12
+"South Carolina" 0.57 -1.9
+"South Dakota" 1.53 17.3
+Tennessee 0.62 -2.4
+Texas 1.41 25.5
+Utah 1.7 24.4
+Vermont 2.75 -5.5
+Virginia 0.3 -20.7
+Washington 3.025 43.7
+"West Virginia" 0.55 -18.4
+Wisconsin 2.52 25.3
+Wyoming 0.6 -17.4
+"Note: Alaska, Hawaii, North Carolina, and the District of Columbia are not included in the study. Cigarette tax rates have changed for some states since 2015. Source: Mackinac Center for Public Policy; Tax Foundation." "" ""

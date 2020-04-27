@@ -1,0 +1,200 @@
+Response_id Gender Age Birth "Text.while.Driving" Language "Number.of.Televisions" Smoke Cigarettes "Q8(a).Do.you.currently.own.a.car?" "Car.Color" Car Party "Political.philosophy" Internet Television "Cell.phone" Texts "Phone.calls" "Cell.phone.bill" Rich Deficit Tickets Children Height Foot Facebook "Facebook.friends" "Facebook.visits" Twitter "Sleep.weekend" "Sleep.weekday" "Job.status" "Hours.worked" "Credit.card" "Number.of.cards" "Credit.card.debt"
+13178 Female 40 July Yes No 2 No "" No "" "" Independent Moderate 25 16 Yes 56 86 140 200000 No 1 2 68 12 Yes 268 10 Yes 8 8 Yes 38 Yes 3 2500
+13183 Female 29 December Yes No 2 No "" Yes Red Foreign Independent Moderate 20 10 Yes 50 36 166 150000 Yes 0 3 66 9 Yes 239 5 No 9 8 Yes 17 Yes 2 1000
+13191 Male 36 October Yes No 4 No "" Yes "Silver or Grey" Domestic Independent Moderate 15 5 Yes 50 15 222.47 1000000 No 2 2 75 12 Yes 138 2 No 8 7 Yes 44 Yes 2 0
+13193 Male 19 October Yes No 5 No "" Yes Red Domestic Democrat Liberal 14 2 Yes 400 4 131 150000 Yes 0 2 71 11 Yes 570 3 No 10 7 Yes 15 No "" ""
+13194 Female 19 August Yes Yes 3 No "" No "" "" Democrat Liberal 4 10 Yes 450 4 70 200000 No 0 3 67 12 Yes 175 4 No 12 7 No "" No "" ""
+13289 Female 19 September Yes Yes 9 No "" Yes Other Foreign Democrat Liberal 10 6 Yes 1305 17 70 500000 No 0 3 65 8.5 Yes 78 1 No 10 7 Yes 16 No "" ""
+13296 Female 45 August No No 1 No "" Yes Green Foreign Republican Moderate 5 6 Yes 6 7 139.67 500000 Yes 1 4 67 9 No "" "" No 6 7 Yes 45 Yes 3 0
+13299 Male 46 May Yes No 5 No "" Yes Blue Domestic Republican Moderate 30 10 Yes 20 40 80 500000 No 0 2 75 13 No "" "" No 6 7 Yes 30 Yes 3 0
+13301 Male 41 November Yes No 2 No "" Yes "Silver or Grey" Foreign Democrat Liberal 20 4 Yes 100 40 228.55 500000 Yes 0 3 72 11 Yes 600 4 Yes 8 6 Yes 50 Yes 5 3400
+13304 Male 48 May Yes No 3 No "" Yes "Silver or Grey" Foreign Independent Moderate 2 21 Yes 10 75 100 150000 Yes 0 2 74 12 No "" "" No 6 6 Yes 45 Yes 1 0
+13305 Male 49 May No No 2 No "" Yes Red Foreign Republican Conservative 4 2 Yes 15 25 30 1000000 No 0 3 72 12 Yes 30 1 No 7 7 Yes 50 Yes 3 0
+13306 Male 28 October No No 2 No "" Yes Black Domestic Republican Conservative 20 10 Yes 2 20 60.07 1000000 No 0 1 75 12 Yes 153 0 No 7 7 Yes 45 Yes 5 0
+13308 Male 43 July No No 4 No "" Yes Red Foreign Independent Moderate 10 12 Yes 8 30 12 1000000 No 1 2 69 10 Yes 50 0 No 7 7 Yes 40 Yes 2 2500
+13310 Male 47 September Yes No 2 No "" Yes Blue Domestic Independent Moderate 21 10 Yes 10 15 95.86 1000000 No 0 2 70 11 No "" "" No 9 6 Yes 47 Yes 2 1000
+13312 Female 29 July Yes No 1 No "" Yes Black Foreign Democrat Moderate 28 4 Yes 40 20 195 500000 Yes 0 2 65 10 Yes 348 1 No 8 7 Yes 52 Yes 5 0
+13313 Female 44 October No No 4 No "" Yes White Domestic Democrat Moderate 21 25 Yes 35 21 189.23 1000000 No 0 3 64 8 Yes 183 0.5 Yes 9 7 Yes 60 Yes 3 5000
+13314 Female 34 January No No 1 No "" No "" "" Independent Moderate 20 10 Yes 15 30 106 300000 No 0 3 68 9 Yes 422 2 No 8 7 Yes 55 Yes 3 4000
+13315 Male 47 December No No 2 No "" Yes Black Foreign Democrat Conservative 40 25 Yes 25 40 120.5 500000 Yes 0 0 73 11 Yes 220 3 Yes 8 7 Yes 51 Yes 8 500
+13317 Male 39 September Yes No 5 No "" Yes "Silver or Grey" Domestic Republican Conservative 40 20 Yes 230 300 77.99 200000 Yes 1 4 70 8 Yes 120 0 No 7 7 Yes 45 Yes 3 0
+13320 Male 30 November No No 1 No "" No "" "" Democrat Liberal 15 15 Yes 20 25 350 200000 No 0 2 76 12 Yes 187 2 Yes 8 8 Yes 55 Yes 5 17000
+13325 Female 29 April Yes Yes 2 No "" Yes Red Domestic Democrat Liberal 15 2 Yes 100 88 135.5 300000 No 0 2 64 8 Yes 400 2 Yes 7 5 Yes 53 Yes 2 2623
+13326 Female 43 July No No 4 No "" Yes "Silver or Grey" Domestic Democrat Moderate 15 6 Yes 25 25 173.38 300000 No 0 2 64 9 Yes 225 20 Yes 8 6 Yes 25 Yes 2 0
+13329 Female 30 June Yes No 1 No "" No "" "" Independent Liberal 30 3 Yes 100 40 107 500000 No 0 2 66 11 Yes 680 20 No 10 8 Yes 55 Yes 4 0
+13333 Female 52 October Yes No 1 No "" Yes Red Foreign Democrat Liberal 40 12 Yes 20 30 100 500000 No 0 1 63 10 Yes 25 0 Yes 8 7 Yes 60 Yes 3 1000
+13335 Male 46 October No No 4 No "" Yes "Silver or Grey" Domestic Republican Conservative 8 13 Yes 6 6 29.95 100000 No 0 2 68 9 Yes 12 0 No 8 8 No "" Yes 2 400
+13336 Female 39 July Yes No 2 No "" Yes "Silver or Grey" Foreign Republican Moderate 10 4 Yes 20 12 175 500000 No 1 2 62 9 No "" "" No 8 7 Yes 60 Yes 8 4000
+13340 Male 45 October No No 1 No "" Yes White Foreign Independent Moderate 9 10 Yes 2 30 99.95 200000 No 0 2 72 11 No "" "" No 8 8 Yes 30 Yes 3 0
+13342 Female 24 October Yes No 1 No "" Yes "Silver or Grey" Domestic Democrat Liberal 16 3 Yes 50 26 125 150000 Yes 0 2 74 11 Yes 229 5 No 7 7 Yes 55 Yes 2 0
+13343 Male 40 August Yes No 4 No "" Yes "Silver or Grey" Domestic Democrat Moderate 20 7 Yes 20 20 150 500000 Yes 0 2 76 12 Yes 582 3 Yes 7 6 Yes 55 Yes 3 3500
+13346 Female 35 August No No 2 No "" Yes "Beige or Brown" Foreign Independent Liberal 10 4 Yes 4 25 152 500000 No 0 2 69 10 Yes 98 1 No 7 8 Yes 60 Yes 4 1400
+13347 Female 27 July No Yes 7 No "" Yes Blue Foreign Democrat Moderate 14 7 Yes 31 20 112.13 500000 No 0 2 65 8 Yes 259 5 No 4 6 Yes 39 No "" ""
+13348 Female 42 November No No 3 No "" Yes "Silver or Grey" Foreign Republican Conservative 40 2 Yes 120 25 192.74 500000 No 1 0 65 7 Yes 126 3 Yes 9 8 Yes 43 Yes 4 11000
+13349 Female 33 August Yes No 2 No "" Yes "Silver or Grey" Domestic Independent Liberal 30 6 Yes 9 23 112.35 200000 Yes 0 2 64 9 Yes 162 3 Yes 10 7 Yes 70 Yes 3 7000
+13351 Female 61 October No No 1 No "" Yes Black Foreign Independent Liberal 25 10 Yes 6 4 70 200000 Yes 0 2 66 10 Yes 91 3 Yes 8 7 Yes 15 Yes 2 0
+13352 Female 66 December No No 1 No "" Yes White Domestic Independent Liberal 0 12 Yes 1 36 82.65 200000 No 0 2 64 13 No "" "" No 8 8 No "" Yes 2 0
+13353 Male 34 December Yes No 2 Yes 10 No "" "" Independent Moderate 15 10 Yes 100 150 179.84 500000 No 0 2 72 12 Yes 323 10 No 8 6 Yes 60 Yes 2 0
+13362 Male 30 September Yes No 5 No "" Yes Green Foreign Republican Moderate 30 5 Yes 30 100 147.33 1000000 No 0 2 74 11 Yes 62 2 Yes 8 6 Yes 63 Yes 2 0
+13364 Female 29 August No No 3 No "" Yes Blue Foreign Independent Conservative 10 3 Yes 50 20 203.47 500000 No 0 4 68 10 Yes 188 0 No 6 6 Yes 49 Yes 2 0
+13368 Female 39 May No No 6 No "" Yes Blue Foreign Republican Moderate 12 6 Yes 20 15 205.26 200000 Yes 0 3 67 12 Yes 201 2 No 8 7 Yes 40 Yes 2 0
+13371 Male 30 June Yes No 3 No "" Yes Black Domestic Democrat Liberal 11 21 Yes 48 15 150 100000 Yes 0 3 74 12 Yes 905 5 No 12 14 Yes 20 Yes 7 1200
+13373 Female 47 July No No 9 No "" Yes "Silver or Grey" Foreign Independent Moderate 7 15 Yes 75 60 108.86 200000 No 0 3 61 9 Yes 99 5 No 7 7 Yes 25 Yes 3 1500
+13377 Female 39 June Yes No 4 No "" Yes "Silver or Grey" Foreign Republican Moderate 25 1 Yes 70 100 82.5 500000 No 0 2 67 9 Yes 48 0 No 4 3 Yes 35 Yes 2 0
+13378 Male 39 November Yes No 3 No "" Yes "Silver or Grey" Foreign Republican Conservative 24 12 Yes 4 10 89.5 500000 No 0 2 76 13 Yes 90 1 No 8 6 Yes 42 Yes 2 3500
+13380 Male 38 August Yes No 4 No "" Yes Black Foreign Republican Conservative 2 4 Yes 100 40 125 1000000 No 0 4 72 12 No "" "" No 8 6 Yes 40 Yes 3 0
+13381 Female 48 May No No 3 No "" Yes White Domestic Republican Moderate 14 7 Yes 7 40 200 1000000 No 0 3 65 8 Yes 30 1 No 7 7 Yes 40 Yes 5 0
+13384 Male 39 November Yes Yes 4 No "" Yes Red Foreign Republican Conservative 5 5 Yes 80 24 150 300000 No 0 2 69 10 Yes 301 4 No 10 10 Yes 44 Yes 2 500
+13386 Male 53 January Yes No 3 No "" Yes Black Foreign Republican Conservative 2 12 Yes 20 75 150 300000 No 1 2 70 9 Yes 10 1 No 8 6 Yes 50 Yes 10 2000
+13387 Female 46 April Yes No 2 No "" No "" "" Democrat Moderate 7 4 Yes 110 75 198.23 500000 Yes 0 6 66 11 Yes "" 5 No 7 6 Yes 55 Yes 4 0
+13388 Male 34 April Yes No 2 No "" Yes White Domestic Independent Moderate 20 10 Yes 100 100 85.55 300000 Yes 0 3 73 15 Yes 179 6 Yes 8 7 Yes 40 Yes 1 5000
+13391 Female 32 October No No 1 No "" Yes Black Foreign Republican Conservative 30 0 Yes 20 100 145 150000 No 0 3 67 12 Yes 450 2 No 7 6 Yes 70 Yes 3 1000
+13392 Male 40 October Yes No 5 No "" Yes Red Foreign Republican Moderate 5 3 Yes 99 26 87.28 300000 Yes 0 2 70 12 No "" "" No 7 6 Yes 40 Yes 3 30000
+13394 Male 40 October No No 2 No "" No "" "" Democrat Liberal 3 7 Yes 17 20 69.99 300000 Yes 0 2 76 12 Yes 310 2 No 8 6 Yes 60 Yes 3 3200
+13395 Female 36 April Yes No 4 Yes 4 Yes Black Foreign Democrat Liberal 35 21 Yes 15 100 134.61 300000 No 0 2 64 9 Yes 45 1 No 7 6 Yes 60 Yes 4 0
+13396 Female 32 June Yes No 2 Yes 25 Yes "Beige or Brown" Foreign Republican Conservative 10 0 Yes 200 370 30 200000 No 0 2 63 13 Yes 174 5 No 8 5 Yes 46 No "" ""
+13398 Male 34 October No No 5 Yes "" Yes Black Foreign Independent Liberal 28 28 Yes 5 15 92.82 500000 No 1 2 72 13 No "" "" Yes 7 6 Yes 40 Yes 2 0
+13399 Female 49 January No No 3 No "" Yes White Foreign Republican Conservative 10 29 Yes 15 20 153.67 500000 No 1 2 68 10 Yes 101 1 No 8 8 No "" Yes 2 500
+13401 Female 44 March No No 4 No "" Yes Black Domestic Republican Conservative 2 10 Yes 4 10 55 500000 No 0 3 64 9.5 Yes 102 0 No 8 7 Yes 46 Yes 20 5000
+13403 Female 40 September Yes No 2 No "" Yes Black Domestic Republican Moderate 15 1 Yes 30 50 150 300000 No 1 2 67 9 Yes 337 2 No 9 7 Yes 80 Yes 3 0
+13408 Male 63 August No Yes 2 No "" Yes "Beige or Brown" Foreign Republican Conservative 5 10 Yes 7 22 100 75000 No 0 3 68 11 No "" "" No 7 6 No "" Yes 4 2000
+13409 Female 38 August Yes No 2 No "" Yes Black Domestic Republican Moderate 20 10 Yes 50 100 150 500000 No 0 2 62 9 No "" "" No 8 7 Yes 70 Yes 3 3000
+13411 Female 62 August No No 2 No "" Yes "Beige or Brown" Domestic Independent Conservative 10 8 Yes 3 6 0 100000 No 0 3 64 9 Yes 42 2 No 9 7 Yes 24 Yes 2 1000
+13412 Male 45 July No Yes 3 No "" Yes Green Domestic Republican Conservative 32 20 Yes 8 238 145.25 150000 No 0 3 71 10 No "" "" No 7 7 Yes 47 Yes 3 30000
+13414 Male 60 April No No 3 No "" No "" "" Democrat Moderate 30 8 Yes 6 3 65.87 200000 Yes 0 2 73 11 Yes 30 0 Yes 7 5 Yes 10 Yes 7 25000
+13415 Male 27 May No No 2 Yes 10 Yes "Beige or Brown" Domestic Republican Moderate 15 14 Yes 31 90 53 200000 Yes 0 3 67 12 Yes 256 1 No 5 5 Yes 45 Yes 2 0
+13416 Male 26 May Yes No 2 No "" Yes Black Domestic Republican Moderate 8 10 Yes 40 15 50 150000 Yes 0 2 72 11.5 Yes 100 2 No 6 6 Yes 40 Yes 1 1500
+13417 Female 43 April No No 1 No "" Yes Red Foreign Democrat Liberal 14 2 Yes 12 9 70 300000 No 1 2 65 8.5 Yes 93 1 No 8 6 Yes 45 Yes 3 2200
+13418 Female 19 July Yes No 6 No "" Yes Black Domestic Independent Moderate 4 8 Yes 2622 18 150 300000 No 0 4 64 6 Yes 364 6 No 9 10 Yes 28 No "" ""
+13419 Male 26 January Yes No 1 No "" Yes "Silver or Grey" Foreign Democrat Moderate 14 1 Yes 624 22 106.93 150000 Yes 0 "" 71 10.75 Yes 181 20 Yes 6 6 No "" Yes 3 0
+13420 Female 37 April No No 1 No "" Yes "Silver or Grey" Foreign Democrat Liberal 20 4 Yes 2 4 56.57 200000 No 0 2 70 10 Yes 4 0 Yes 8 7 Yes 45 Yes 3 0
+13421 Male 45 February No No 6 No "" Yes Black Foreign Republican Conservative 4 2 Yes 50 20 0 500000 No 0 3 71 11 No "" "" No 8 7 Yes 52 Yes 2 0
+13422 Male 50 July Yes No 4 No "" Yes White Foreign Republican Moderate 15 15 Yes 35 35 168 150000 No 0 2 72 11 Yes 350 3 Yes 9 7 Yes 35 Yes 5 1000
+13423 Female 39 April No No 3 No "" Yes Blue Foreign Democrat Moderate 2 14 Yes 1 20 55 500000 Yes 0 2 65 8 Yes 50 0 No 6 6 Yes 9 Yes 2 2500
+13425 Female 46 July Yes No 3 No "" Yes "Silver or Grey" Domestic Democrat Liberal 20 2 Yes 82 100 182.21 200000 Yes 0 3 63 7 Yes 310 15 No 8 6 Yes 32 Yes 9 25000
+13429 Male 40 June No No 1 No "" Yes Green Foreign Democrat Moderate 3 8 Yes 1 25 99 500000 No 1 2 72 11 No "" "" No 9 7 Yes 45 Yes 2 9000
+13431 Male 51 January No No 4 No "" Yes Black Foreign Independent Conservative 4 10 Yes 1 2 14.95 200000 No 0 4 75 12 Yes 130 1 No 6 5 Yes 43 Yes 3 3000
+13434 Female 43 November No No 3 No "" Yes "Silver or Grey" Foreign Independent Moderate 2 4 Yes 30 30 150 500000 No 0 4 60 6 No "" "" No 8 8 No "" Yes 6 0
+13435 Female 35 February No No 1 No "" No "" "" Independent Liberal 55 10 Yes 20 12 55 75000 Yes 0 2 62 8 Yes 223 5 Yes 7 6 Yes 48 Yes 2 0
+13439 Female 19 June No Yes 3 No "" No "" "" Republican Moderate 2 5 Yes 60 5 100 200000 No 0 3 52 12 Yes "" 15 No 8 8 No "" No "" ""
+13442 Female 33 August Yes Yes 1 No "" Yes Black Foreign Democrat Conservative 1 6 Yes 75 50 34.99 500000 No 0 3 68 12 No "" "" No 8 8 Yes 32 Yes 2 1500
+13443 Female 59 May No No 3 No "" Yes "Beige or Brown" Foreign Democrat Liberal 15 15 Yes 20 30 78.98 500000 No 0 3 66 9 Yes 82 2 No 7 7 Yes 50 Yes 3 0
+13444 Female 37 March No No 2 No "" Yes Other Foreign Independent Liberal 10 8 Yes 100 15 60 500000 No 1 2 63 10 Yes 177 3 Yes 9 7 Yes 20 Yes 2 2345.72
+13447 Male 43 September No No 3 No "" Yes "Beige or Brown" Domestic Democrat Conservative 4 12 Yes 90 150 89 300000 No 0 4 74 11.5 No "" "" No 6 6 Yes 48 Yes 1 0
+13448 Female 52 November No No 5 No "" Yes Red Domestic Republican Conservative 12 14 Yes 10 10 109.25 1000000 No 0 2 64 8 No "" "" No 8 8 Yes 30 Yes 4 8000
+13450 Male 28 June Yes No 2 No "" Yes "Beige or Brown" Foreign Independent Moderate 20 12 Yes 50 30 83 200000 No 0 2 73 12 Yes 131 1 No 7 6 Yes 40 Yes 3 0
+13451 Female 33 November Yes No 2 Yes 22 Yes Other Foreign Democrat Liberal 9 2 Yes 16 5 80 150000 No 0 3 66 12 Yes 66 2 No 8 6 Yes 46 Yes 3 2000
+13452 Female 20 June No No 5 Yes 7 Yes "Silver or Grey" Foreign Republican Moderate 5 10 Yes 52 12 52.46 100000 Yes 0 3 66 9 Yes 424 7 No 5 5 No "" No "" 0
+13453 Male 29 November No No 1 No "" Yes "Silver or Grey" Domestic Republican Conservative 20 10 Yes 15 20 103 200000 Yes 0 4 68 11 Yes 151 3 No 7 7 Yes 50 Yes 2 799
+13455 Female 26 November Yes No 2 No "" Yes Black Foreign Independent Liberal 4 2 Yes 25 12 79 150000 No 0 2 60 9 Yes 567 2 Yes 9 6 Yes 40 Yes 2 12000
+13459 Male 44 February Yes No 7 No "" Yes Red Foreign Republican Moderate 8 8 Yes 24 210 80.09 500000 No 0 2 72 12 Yes 60 1 No 7 6 Yes 50 Yes 4 0
+13465 Male 35 October No No 2 No "" Yes Blue Foreign Democrat Liberal 30 14 Yes 10 20 100 500000 No 0 2 80 10 Yes 215 1 Yes 7 7 Yes 54 Yes 3 0
+13467 Female 18 July Yes Yes 5 No "" Yes "Silver or Grey" Domestic Democrat Moderate 1 20 Yes 240 0 186.38 1000000 No 0 2 62 9 Yes 75 2 No 6 6 No "" No "" ""
+13468 Female 53 May No No 4 Yes 5 Yes Red Domestic Democrat Conservative 2 3 Yes 5 10 66.78 1000000 No 0 2 60 7.5 Yes 30 0 No 8 6 Yes 24 No "" ""
+13482 Male 19 October Yes Yes 4 Yes 1 Yes "Silver or Grey" Foreign Democrat Moderate 30 6 Yes 100 8 50 300000 No 0 2 72 11 Yes 270 2 No 6 8 Yes 32 Yes 1 0
+13484 Female 20 September Yes No 4 No "" Yes White Domestic Democrat Moderate 2 3 Yes 3618 81 89.95 500000 No 1 4 61 8.5 Yes 200 0 No 4 7 Yes 19 Yes 1 100
+13486 Male 20 November No No 2 No "" Yes Other Domestic Democrat Liberal 5 30 Yes 30 15 103 75000 No 1 4 66 11 Yes 485 15 No 6 7 Yes 0 Yes 3 1000
+13490 Female 42 April Yes No 1 No "" Yes "Silver or Grey" Foreign Independent Liberal 7 7 Yes 50 50 205 300000 No 0 3 67 11 Yes 103 1 No 8 6 Yes 40 No "" ""
+13494 Female 18 December No No 5 No "" Yes Green Foreign Republican Moderate 5 8 Yes 1 10 20 75000 No 0 3 60 8 No "" "" No 8 6 Yes 21 No "" ""
+13512 Female 67 January No No 2 No "" Yes "Silver or Grey" Foreign Republican Moderate 10 4 Yes 20 8 45 50000 No 0 4 63 10 No "" "" No 7 5 No "" Yes 4 400
+13515 Female 22 June No Yes 5 No "" Yes Black Foreign Independent Liberal 12 4 Yes 6 10 50 100000 No 0 3 60 12 Yes 109 2 Yes 14 5 No "" No "" 0
+13516 Female 21 October Yes No 4 Yes 12 Yes Black Domestic Democrat Liberal 7 12 Yes 450 75 60 500000 Yes 0 3 68 9 Yes 386 4 Yes 7 5 Yes 40 Yes 3 5000
+13517 Male 38 November Yes No 4 No "" Yes Black Foreign Republican Conservative 25 3 Yes 30 60 200 300000 No 0 4 77 13 Yes 365 0 No 6 6 Yes 50 Yes 3 0
+13520 Female 21 May Yes No 4 No "" Yes "Beige or Brown" Foreign Democrat Conservative 8 3 Yes 159 12 135 500000 Yes 0 3 67 13 Yes 123 2 Yes 4 6 Yes 55 Yes 1 1000
+13526 Female 18 February No No 4 No "" Yes Red Foreign Democrat Conservative 4 2 Yes 20 15 30 100000 No 1 2 64 8.5 No "" "" No 7 7 Yes 15 No "" ""
+13528 Female 20 February No No 5 Yes 13 No "" "" Democrat Moderate 8 4 Yes 312 38 32 500000 No 0 2 62 9 Yes "" 0 "" 6 5 Yes 40 Yes 1 302
+13535 Female 23 December Yes No 3 Yes 7 Yes Blue Foreign Democrat Liberal 2 2 Yes 40 10 67.68 500000 No 0 4 63 7 Yes 115 3 No 7 8 Yes 16 Yes 6 1632
+13542 Female 24 June Yes Yes 2 No "" Yes Black Foreign Democrat Liberal 10 2 Yes 976 20 224.85 500000 No 0 2 62 7 Yes 305 4 Yes 7 7 No "" Yes 1 350
+13543 Female 55 March No No 2 No "" Yes "Beige or Brown" Foreign Republican Moderate 3 2 Yes 1 8 0 200000 No 0 2 64 9 No "" "" No 10 7 Yes 50 Yes 3 0
+13548 Female 18 March Yes No 3 No "" Yes Black Domestic Democrat Liberal 15 5 Yes 2500 10 30 200000 Yes 0 2 68 10 Yes 79 12 No 11 9 Yes 10 No "" ""
+13555 Male 36 May Yes No 4 No "" Yes "Silver or Grey" Foreign Republican Moderate 14 14 Yes 100 25 44.95 200000 No 0 2 72 11 No "" "" No 7 6 Yes 50 Yes 1 0
+13560 Male 31 July Yes No 2 No "" No "" "" Republican Moderate 50 2 Yes 10 10 104 1000000 No 0 2 67 12 Yes 50 0 Yes 8 8 Yes 80 Yes 3 0
+13564 Male 35 April Yes No 2 No "" Yes "Silver or Grey" Foreign Democrat Liberal 40 10 Yes 10 2 70 100000 Yes 0 2 75 11.5 Yes 109 10 No 7 8 Yes 35 Yes 2 423
+13571 Male 22 September Yes No 6 Yes 8 Yes Black Foreign Democrat Conservative 6 10 Yes 500 60 80 100000 No 0 2 67 10 Yes 711 1 Yes 8 7 Yes 20 Yes 1 2300
+13572 Male 38 February Yes No 2 No "" Yes Black Domestic Independent Conservative 10 12 Yes 200 50 65 500000 No 0 3 72 10 Yes 30 1 No 9 6 Yes 40 Yes 2 0
+13579 Female 26 April No Yes 1 No "" No "" "" Independent Moderate 24 12 Yes 35 25 166.21 500000 No 1 2 67 9 Yes 444 5 No 10 8 Yes 50 Yes 4 0
+13585 Male 19 March No Yes 1 No "" No "" "" Republican Moderate 15 12 Yes 80 0 60 200000 No 0 3 72 13 Yes 499 3 No 4 6 No "" No "" ""
+13588 Male 36 September No No 4 No "" Yes Red Domestic Independent Moderate 12 8 Yes 20 30 98.46 500000 No 0 3 68 9 Yes 30 1 No 9 7 Yes 35 No "" ""
+13590 Female 18 November Yes No 5 No "" Yes Blue Foreign Democrat Moderate 30 30 Yes 3093 10 250 150000 Yes 0 4 65 10 Yes 150 20 No 8 8 Yes 25 No "" ""
+13599 Female 24 October Yes Yes 3 No "" Yes "Silver or Grey" Domestic Independent Liberal 14 14 Yes 56 26 170 300000 No 1 2 69 10 Yes 659 2 Yes 6 8 Yes 36 No "" ""
+13603 Female 19 June Yes Yes 8 No "" Yes "Beige or Brown" Domestic Independent Conservative 5 1 Yes 200 10 70 1000000 No 0 5 53 9 Yes 337 20 No 4 4 Yes 47 No "" ""
+13609 Female 20 January Yes Yes 5 No "" Yes "Beige or Brown" Domestic Independent Liberal 3 2 Yes 775 4 79.5 200000 No 0 3 61 7 Yes 225 2 No 5 7 Yes 14 Yes 1 250
+13612 Male 17 August No No 2 No "" Yes White Domestic Independent Conservative 5 14 Yes 250 10 10 300000 No 0 3 74 12 No "" "" No 10 8 No "" No "" ""
+13617 Male 48 February No No 5 No "" Yes Black Domestic Democrat Moderate 12 17 Yes 10 15 110.87 200000 No 0 2 71 11 Yes 58 3 No 8 6 Yes 58 Yes 4 5000
+13620 Male 22 November Yes Yes 1 Yes 1 Yes "Silver or Grey" Foreign Independent Conservative 12 2 Yes 50 20 55 500000 No 3 3 74 16 Yes 267 0 Yes 7 6 Yes 60 Yes 3 800
+13634 Female 39 August No No 4 No "" Yes Green Foreign Democrat Moderate 3 7 Yes 12 26 51.17 1000000 No 0 3 55 8 Yes 20 2 No 9 8 No "" Yes 10 3500
+13636 Male 24 August No No 6 No "" Yes "Silver or Grey" Foreign Democrat Liberal 35 29 Yes 330 15 50 300000 Yes 0 2 69 9 Yes 557 10 No 8 8 Yes 15 Yes 1 0
+13637 Female 20 October Yes No 1 No "" Yes "Beige or Brown" Domestic Republican Moderate 30 2 Yes 600 12 50 100000 No 2 2 68 9.5 Yes 912 20 Yes 8 6 Yes 20 Yes 9 5600
+13638 Male 20 December No No 4 No "" Yes "Silver or Grey" Domestic Republican Moderate 5 5 Yes 200 50 75 1000000 No 3 3 73 12 Yes 205 20 No 10 8 Yes 0 No "" ""
+13639 Female 21 April No No 6 No "" Yes Blue Domestic Democrat Liberal 10 2 Yes 500 15 99.95 300000 No 0 2 62 7 Yes 502 6 No 6 7 Yes 26 Yes 1 180
+13640 Male 20 June No No 3 No "" Yes Blue Domestic Republican Conservative 25 6 Yes 60 42 60 100000 No 3 2 74 13 Yes 588 13 Yes 10 7 Yes 0 No "" ""
+13667 Male 50 December No No 8 Yes 30 Yes White Domestic Republican Moderate 2 4 Yes 10 10 75 1000000 No 0 2 75 12.5 Yes 10 0 No 10 4 No "" No "" 0
+13677 Female 31 July Yes No 2 Yes 2 Yes "Silver or Grey" Domestic Republican Moderate 12 20 Yes 30 10 42.26 100000 No 0 3 67 9.4 Yes 220 10 No 8 6 Yes 45 Yes 7 0
+13681 Male 22 May Yes No 3 No "" Yes "Silver or Grey" Domestic Democrat Moderate 10 5 Yes 750 20 30 200000 No 0 2 76 13 Yes 1000 9 Yes 9 7 Yes 45 Yes 1 13.2
+13682 Female 18 October Yes Yes 6 Yes 6 Yes Other Domestic Independent Liberal 20 4 Yes 600 200 200 300000 Yes 0 4 65 9 Yes 530 15 No 4 6 Yes 20 Yes 1 0
+13686 Female 20 August No No 6 No "" Yes Blue Foreign Republican Liberal 4 4 Yes 1000 10 81 150000 No 0 4 63 7 Yes 600 1 Yes 8 7 Yes 40 Yes 5 2000
+13719 Male 34 November Yes No 3 No "" Yes Black Domestic Independent Conservative 60 8 Yes 1 4 20 200000 Yes 0 2 75 13 No "" "" No 7 7 Yes 45 Yes 1 4000
+13850 Female 21 April Yes No 2 No "" Yes Blue Domestic Republican Conservative 16 5 Yes 1653 28 432.23 200000 No 0 2 66 8 Yes 175 1 No 6 6 Yes 20 No "" ""
+13855 Female 27 October No No 6 No "" Yes Black Foreign Democrat Conservative 20 2 Yes 57 13 110 200000 No 0 4 54 7 Yes 879 7 Yes 6 23 Yes 44 Yes 2 400
+13887 Male 19 August Yes No 2 No "" No "" "" Democrat Moderate 5 12 Yes 95 16 35.98 200000 No 0 2 71 10 Yes 516 10 No 9 7 Yes 12 No "" ""
+14003 Female 17 October Yes No 3 No "" Yes Black Domestic Democrat Moderate 10 2 Yes 1906 23 100.55 75000 No 0 5 68 10 Yes 519 3 No 7 6 Yes 39 No "" ""
+14076 Female 19 February Yes No 4 No "" Yes Blue Domestic Independent Conservative 12 10 Yes 400 5 163.96 500000 Yes 0 2 62 8 Yes 311 8 No 9 7 Yes 14 No "" ""
+14178 Female 26 April Yes No 3 No "" Yes "Silver or Grey" Foreign Independent Conservative 5 5 Yes 20 10 130 100000 Yes 0 3 72 14 Yes 500 1 No 7 6 Yes 47 Yes 6 2000
+14184 Female 48 June No No 3 Yes 1 Yes Black Domestic Democrat Moderate 24 4 Yes 30 10 150 1000000 No 0 2 69 9 Yes 10 0 No 8 6 Yes 45 Yes 5 30000
+14233 Female 21 December Yes No 2 No "" Yes Black Domestic Republican Liberal 12 3 Yes 705 112 113 500000 Yes 0 4 67 11 Yes 284 3 No 8 6 Yes 32 Yes 1 955
+14252 Female 20 October No Yes 5 No "" Yes Black Foreign Independent Moderate 10 10 Yes 200 10 150 75000 No 0 3 65 8 Yes 163 1 No 6 7 Yes 26 No "" ""
+14300 Female 31 October No No 2 No "" Yes Black Foreign Independent Moderate 10 15 Yes 1 12 25 500000 No 0 2 67 9.5 Yes 113 4 No 8 7 Yes 15 Yes 1 1500
+14336 Female 42 November No No 3 No "" Yes Black Domestic Independent Conservative 30 21 Yes 0 20 100 1000000 No 0 "" 60 8 No "" "" No 8 8 Yes 18 Yes 3 0
+14342 Female 41 August No No 2 No "" Yes "Silver or Grey" Foreign Democrat Liberal 2 7 Yes 15 12 107.38 500000 No 0 3 63 10 Yes 20 1 No 8 7 Yes 56 Yes 1 2037
+14345 Male 15 November Yes No 7 No "" No "" "" Republican Conservative 6 2 Yes 80 8 370.87 500000 Yes 0 2 69 9.5 Yes 865 4 No 10 7 No "" No "" ""
+14346 Female 44 May Yes No 5 No "" Yes White Domestic Independent Moderate 10 7 Yes 220 140 120 500000 No 0 4 65 11 Yes 10 0 No 7 7 No "" Yes 5 0
+14348 Male 59 November No No 4 No "" Yes Black Domestic Republican Moderate 5 3 Yes 2 7 120 200000 No 0 1 73 11 No "" "" No 9 7 Yes 25 Yes 2 14500
+14353 Male 30 September No No 2 No "" No "" "" Democrat Liberal 30 30 Yes 25 25 40 200000 No 0 2 71 12 Yes 20 2 Yes 8 7 No "" No "" ""
+14354 Female 46 September Yes No 5 No "" Yes "Silver or Grey" Foreign Democrat Conservative 14 14 Yes 30 20 175.4 500000 Yes 0 3 64 8 Yes 79 2 No 8 8 Yes 60 Yes 2 7000
+14357 Female 42 January Yes Yes 4 No "" Yes Red Domestic Democrat Liberal 9 10 Yes 15 35 95 500000 No 0 4 63 7 No "" "" No 7 6 Yes 40 Yes 4 0
+14365 Male 53 February No No 3 No "" Yes Black Foreign Independent Moderate 5 5 Yes 25 10 169 200000 Yes 0 3 67 10 No "" "" No 8 7 Yes 50 Yes 5 0
+14374 Female 40 June No No 4 No "" Yes "Silver or Grey" Foreign Democrat Moderate 5 6 Yes 1 3 10 300000 No 0 4 63 12 No "" "" No 8 7 No "" Yes 2 3000
+14381 Female 39 August Yes No 2 No "" Yes White Foreign Democrat Moderate 20 4 Yes 65 9 134 500000 No 1 2 66 10.5 Yes 296 3 Yes 8 6 Yes 38 Yes 2 4500
+14386 Female 24 June Yes No 2 No "" Yes "Silver or Grey" Domestic Democrat Moderate "" 4 Yes 493 28 161.43 500000 No 3 0 61 9 Yes 183 10 No 7 6 Yes 24 Yes 4 5000
+14393 Female 42 December Yes Yes 4 Yes 5 Yes "Silver or Grey" Foreign Democrat Moderate 9 0 Yes 75 50 80.69 100000 Yes 1 2 68.5 10 Yes 627 20 No 5 7 Yes 37 Yes 4 6000
+14394 Male 59 September No No 2 No "" Yes Black Domestic Republican Conservative 12 18 Yes 4 20 50 200000 No 0 2 69 11 No "" "" No 8 6 Yes 35 Yes 3 0
+14397 Female 21 May Yes Yes 4 No "" Yes White Foreign Republican Moderate 10 14 Yes 700 40 140.5 100000 No 2 3 65 7 Yes 608 20 No 7 6 Yes 35 Yes 3 5200
+14399 Male 39 February No No 1 No "" No "" "" Democrat Liberal 60 35 Yes 1200 4 120 200000 No 0 0 70 14 No "" "" No 12 10 Yes 55 Yes 5 12000
+14403 Female 42 January No No 1 No "" Yes White Foreign Democrat Liberal 30 0 Yes 20 8 120 150000 No 0 2 65 11 Yes 184 5 Yes 10 7 Yes 0 Yes 4 9000
+14411 Male 67 March No No 3 No "" Yes Green Domestic Democrat Conservative 8 10 Yes 1 3 9.16 200000 Yes 0 3 77 10 No "" "" No 7 7 No "" Yes 3 1500
+14416 Female 40 October Yes No 1 No "" No "" "" Democrat Liberal 40 9 Yes 85 35 195.23 200000 Yes 0 3 64 9 Yes 511 3 Yes 9 6 Yes 60 No "" ""
+14424 Female 45 November No No 5 No "" Yes White Foreign Republican Moderate 6 5 Yes 14 10 49 500000 No 0 4 68 9.5 No "" "" No 8 7 No "" Yes 6 0
+14426 Male 30 September Yes No 2 No "" Yes "Silver or Grey" Domestic Republican Moderate 3 4 Yes 10 30 99 500000 Yes 0 3 71 10 No "" "" No 8 8 Yes 47 Yes 2 0
+14427 Female 40 July No No 3 No "" Yes "Silver or Grey" Foreign Independent Conservative 10 9 Yes 3 25 60 200000 No 0 3 70 9 Yes 33 1 No 8 7 No "" Yes 3 0
+14433 Female 35 December No No 5 Yes 4 Yes Black Domestic Democrat Moderate 2 17 Yes 1 4 156 150000 No 0 3 67 8 No "" "" No 5 5 No "" Yes 3 1200
+14449 Female 19 August No No 6 No "" Yes "Silver or Grey" Foreign Republican Moderate 24 24 Yes 500 50 29 200000 No 0 4 70 11 Yes 478 2 No 8 8 Yes 10 No "" ""
+14452 Male 26 May Yes No 4 Yes 20 Yes Black Domestic Independent Moderate 60 15 Yes 150 200 115 1000000 Yes 0 2 72 12 Yes 336 15 Yes 8 5 Yes 55 Yes 3 2200
+14482 Female 63 February No No 2 No "" Yes "Beige or Brown" Domestic Independent Moderate 5 10 Yes 1 10 71.21 200000 No 0 4 64 9 No "" "" No 8 6 Yes 44 Yes 2 0
+14483 Male 60 March No No 3 No "" Yes Blue Foreign Democrat Moderate 21 8 Yes 14 28 121.56 500000 No 0 3 69 10 Yes 10 "" No 7 7 Yes 58 Yes 6 0
+14484 Female 38 June No No 3 No "" Yes Green Foreign Democrat Liberal 20 3 Yes 5 10 42.58 200000 No 2 2 64 9.5 Yes 252 2 No 6 6 Yes 40 Yes 3 0
+14485 Female 46 March No No 4 No "" Yes Other Domestic Independent Conservative 10 8 Yes 7 25 13 300000 No 0 2 65 9 Yes 498 3 Yes 9 7 Yes 40 Yes 4 1900
+14486 Male 30 April Yes No 3 Yes 10 Yes "Silver or Grey" Domestic Democrat Conservative 3 9 Yes 5 100 89 200000 No 0 2 77 13 Yes 80 0 No 7 6 Yes 60 Yes 3 0
+14488 Male 54 October No No 4 No "" Yes Red Domestic Republican Conservative 14 8 Yes 14 8 125.56 1000000 Yes 0 2 74 11 No "" "" No 7 6 Yes 42 Yes 7 14678
+14497 Female 40 November No No 3 Yes 2 Yes "Silver or Grey" Foreign Republican Moderate 35 21 Yes 30 15 85 1000000 No "" 0 65 8.5 Yes 206 3 Yes 9 6 Yes 40 Yes 2 10000
+14550 Female 51 October No No 1 No "" "" Blue Domestic Republican Conservative 10 10 Yes 100 16 45 100000 No 0 4 68 10 Yes 20 1 No 9 7 Yes 40 Yes 2 0
+14615 Male 32 July No No 2 Yes 6 Yes Black Domestic Democrat Liberal 40 24 Yes 40 30 100 150000 No 0 2 71 11 Yes 1000 3 No 9 7 Yes "" No "" ""
+14620 Female 30 June No No 2 No "" Yes Green Foreign Democrat Moderate 10 3 Yes 15 5 80 1000000 No 0 4 67 9 Yes 150 1 No 7 7 Yes 32 Yes 2 0
+14647 Female 20 February Yes Yes 6 No "" Yes Black Domestic Independent Moderate 48 7 Yes 1000 82 170 150000 No 0 4 64 7.5 Yes 625 7 No 10 8 No "" Yes 1 0
+14651 Male 20 October Yes No 7 No "" No "" "" Democrat Moderate 1 35 Yes 777 10 165 75000 No 0 3 68 12 Yes 192 1 No 8 7 Yes 26 No "" ""
+14654 Female 18 February Yes Yes 4 No "" Yes Green Domestic Democrat Moderate 6 24 No 5550 12 228.59 200000 No 0 3 60 9.5 Yes 163 2 No 5 5 Yes 24 No "" ""
+14673 Male 45 January Yes No 4 No "" Yes "Silver or Grey" Domestic Independent Moderate 20 11 Yes 200 200 206.44 500000 No 0 2 73 13 No "" "" No 7 6 Yes 63 Yes 5 0
+14675 Male 27 March Yes No 2 No "" Yes Red Domestic Independent Moderate 4 4 Yes 50 14 98.2 300000 Yes 0 2 71 11.5 Yes 151 1 No 8 8 Yes 50 Yes 3 240
+14676 Male 65 May No No 5 No "" Yes "Beige or Brown" Domestic Independent Moderate 2 15 Yes 1 5 74 500000 Yes 1 2 67 10 No "" "" No 5 5 Yes 52 Yes 2 0
+14711 Female 20 February Yes No 4 No "" Yes Black Domestic Democrat Moderate 1 2 Yes 50 6 60 100000 No 0 2 61.5 8.5 Yes 210 2 No 7 6 Yes 20 No "" ""
+14774 Female 34 August No No 1 No "" No "" "" Democrat Liberal 25 7 Yes 28 10 78.09 500000 Yes 0 2 74 10.5 No "" "" Yes 8 7 Yes 54 Yes 2 0
+14776 Female 36 May Yes No 1 No "" Yes Black Foreign Democrat Moderate 21 10 Yes 30 8 66.49 200000 No 0 2 66 6 Yes 258 3 No 7 8 Yes 5 Yes 2 9000
+14798 Male 35 September No No 1 No "" No "" "" Democrat Liberal 2 2 Yes 40 60 45 50000 No 0 2 70 11 Yes 147 1 No 8 7 Yes 43 Yes 1 0
+14872 Male 68 December No No 4 No "" Yes "Beige or Brown" Domestic Republican Conservative 7 3 Yes 1 1 8 150000 No 0 3 73 11 No "" "" No 8 8 No "" Yes 4 500
+14905 Female 31 May Yes No 1 No "" Yes White Domestic Independent Moderate 10 10 Yes 249 33 74.83 200000 No 0 2 65.5 9.5 Yes 415 10 Yes 10 8 Yes 40 Yes 1 0
+14936 Male 20 September Yes No 2 Yes 1 Yes "Silver or Grey" Domestic Republican Conservative 3 4 Yes 1330 30 90.56 75000 No 0 2 69 11 Yes 265 1 No 8 8 Yes 17 No "" 0
+15008 Female 19 February Yes No 2 No "" Yes Green Domestic Independent Liberal 3 17 Yes 6 20 75 100000 No 0 5 68 9 Yes 79 5 No 6 10 Yes 28 No "" ""
+15068 Female 34 October Yes No 1 No "" No "" "" Republican Moderate 12 30 Yes 100 15 107 500000 No 0 2 63 9 Yes 321 7 Yes 8 8 Yes 40 Yes 6 8000
+15074 Male 52 March No No 3 No "" Yes White Foreign Independent Moderate 20 1 Yes 1 1 80 500000 No 0 2 70 9 Yes 40 0 No 8 6 Yes 40 Yes 6 0
+15160 Female 31 August No No 5 No "" Yes Blue Foreign Republican Conservative 4 10 Yes 40 30 35.46 100000 No 0 3 62 7.5 Yes 164 3 No 8 8 Yes 0 Yes 4 800
+15259 Female 50 June Yes No 5 No "" Yes Other Foreign Democrat Conservative 40 10 Yes 210 21 175 1000000 Yes 0 2 66 12 Yes 183 5 Yes 7 6 Yes 40 Yes 8 30000
+15314 Female 48 April No No 7 No "" Yes "Beige or Brown" Foreign Democrat Liberal 35 28 Yes 40 10 60 1000000 No 0 2 70 10 Yes 429 20 Yes 10 7 Yes 42 Yes 5 3000

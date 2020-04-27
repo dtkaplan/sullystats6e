@@ -1,0 +1,8 @@
+Continent	Land Area	Highest Elevation		
+Africa	"11,608,000"	"19,340"		
+Antarctica	"5,100,000"	"16,066"		
+Asia	"17,212,000"	"29,035"		
+Australia	"3,132,000"	"7,310"		
+Europe	"3,837,000"	"18,510"		
+North America	"9,449,000"	"20,320"		
+South America	"6,879,000"	"22,834"

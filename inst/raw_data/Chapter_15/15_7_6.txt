@@ -1,0 +1,10 @@
+Liberty	Fall plowed	No Till	Chisel Plowed	Round-up ready
+32	29	34	34	27
+31	31	30	37	34
+36	33	31	24	36
+35	22	27	23	32
+41	19	40	32	35
+34	30	33	33	29
+39	36	37	27	35
+37	30	42	34	
+38		39	30	

@@ -1,0 +1,5 @@
+C1-T	Nylon Braided	Polyester Braided	Polypropylene Braided
+1/4 inch	2500	1550	1325
+3/8 inch	4900	3420	2575
+1/2 inch	8400	5940	4170
+5/8 inch	12300	9500	6315

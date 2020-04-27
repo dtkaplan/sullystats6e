@@ -1,0 +1,51 @@
+School "Annual ROI" Cost "Grad Rate"
+"University of Wyoming(In-State)" 9.2 75600 55
+"Texas A & M University-Corpus Christi(In-State)" 8.1 82400 35
+"University of Wisconsin-Eau Claire(In-State)" 9 77200 68
+"University of Southern California(Private)" 5.3 264000 92
+"Columbus College of Art and Design(Private)" 1.2 179000 61
+"University of Central Oklahoma(In-State)" 6.5 76600 38
+"Baker University(Private)" 5 163000 55
+"Colorado School of Mines(In-State)" 11.1 126000 77
+"University of St Francis(Private)" 5 168000 63
+"Jacksonville University(Private)" 4.3 192000 42
+"SUNY College at Potsdam(In-State)" 2.3 89400 52
+"Bryn Mawr College(Private)" 2.2 252000 83
+"Eastern Connecticut State University(Out-of-State)" 4.2 149000 54
+"Greensboro College(Private)" 1.3 160000 44
+"Carthage College(Private)" 2.8 206000 63
+"Jackson State University(In-State)" 1.3 87200 38
+"University of Nebraska at Omaha(In-State)" 7.9 80300 45
+"LaGrange College(Private)" 2.2 169000 47
+"University of Vermont(In-State)" 6.9 122000 74
+"Pennsylvania State University-Main Campus(Out-of-State)" 5.7 193000 86
+"Washburn University(In-State)" 7.1 73500 34
+"Lake Erie College(Private)" 0.8 168000 45
+"University of South Dakota(Out-of-State)" 5.8 93800 55
+"Roger Williams University(Private)" 4 201000 64
+"Oregon Institute of Technology(Out-of-State)" 7.6 153000 47
+"California State University-Fullerton(Out-of-State)" 6.2 145000 62
+"Hamline University(Private)" 0.9 194000 59
+"The University of Texas of the Permian Basin(In-State)" 8.6 72500 34
+"California State University-Sacramento(In-State)" 8.7 95700 49
+"Eastern Oregon University(In-State)" 5.3 85900 31
+"Western New Mexico University(In-State)" 1.6 85200 20
+"Spring Hill College(Private)" 1.1 198000 53
+"D'Youville College(Private)" 4.9 157000 45
+"Southeastern University(Private)" 0.6 141000 41
+"Eastern Nazarene College(Private)" 5.7 165000 46
+"Regis University(Private)" 5.8 191000 68
+"Arkansas State University-Main Campus(In-State)" 5.8 85200 45
+"University of Central Arkansas(In-State)" 6.1 80400 42
+"CUNY Bernard M Baruch College(In-State)" 8.9 116000 66
+"University of Wisconsin-Oshkosh(Out-of-State)" 5.5 103000 53
+"University of Missouri-Columbia(Out-of-State)" 5.6 158000 68
+"Centenary College(Private)" 2.4 182000 60
+"Florida Institute of Technology(Private)" 6.1 223000 58
+"Eastern Washington University(In-State)" 6.7 88000 47
+"Fisher College(Private)" 3.2 194000 34
+"University of California-San Diego(Out-of-State)" 6.4 223000 87
+"Christopher Newport University(In-State)" 6 109000 75
+"The University of Texas of the Permian Basin(Out-of-State)" 7.3 91600 34
+"The University of Texas at Austin(In-State)" 9.5 104000 81
+"Marygrove College(Private)" 0.5 124000 24

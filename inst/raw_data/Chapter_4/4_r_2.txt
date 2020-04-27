@@ -1,0 +1,9 @@
+Sandwich (Restaurant)	Fat	Calories
+Quarter-pound Single (Wendy's)	20	430
+Whataburger(Whataburger)	39	750
+Cheeseburger (In-n-Out)	27	480
+Big Mac (McDonald's)	29	540
+Quarter-pound Single (McDonald's)	26	510
+Whooper with cheese (Burger King)	47	760
+Jumbo Jack (Jack in the Box)	35	690
+Double Steakburger with cheese (Steak'nShake)	38	632

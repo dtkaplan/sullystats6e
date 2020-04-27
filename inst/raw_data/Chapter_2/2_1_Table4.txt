@@ -1,0 +1,7 @@
+"Educational Attainment" 1990 2017
+"Not a high school graduate" 39344 26582
+"High school diploma" 47643 60032
+"Some college, no degree" 29780 45110
+"Associate's degree" 9792 18761
+"Bachelor's degree" 20833 43585
+"Graduate or professional degree" 11478 27181

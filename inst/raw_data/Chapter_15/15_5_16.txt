@@ -1,0 +1,16 @@
+Critic A	Critic B
+Excellent	Fair
+Good	Fair
+Fair	Good
+Fair	Good
+Poor	Fair
+Excellent	Fair
+Good	Poor
+Good	Fair
+Fair	Good
+Fair	Good
+Fair	Excellent
+Good	Fair
+Excellent	Good
+Poor	Fair
+Fair	Poor

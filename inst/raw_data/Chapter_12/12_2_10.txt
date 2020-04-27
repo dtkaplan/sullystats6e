@@ -1,0 +1,6 @@
+	Excellent	Good	Fair	Poor
+Less than High School	72	202	199	62
+High School	465	877	358	108
+Junior College	80	138	49	11
+Bachelor	229	276	64	12
+Graduate	130	147	32	2

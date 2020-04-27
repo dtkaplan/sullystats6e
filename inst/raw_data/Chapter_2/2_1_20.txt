@@ -1,0 +1,10 @@
+Color	Num Luxury Cars	Num Sport Cars	
+White	25	10	
+Black	22	15	
+Silver	16	18	
+Gray	12	15	
+Blue	7	13	
+Red	7	15	
+Gold	6	5	
+Green	3	2	
+Brown	2	7	

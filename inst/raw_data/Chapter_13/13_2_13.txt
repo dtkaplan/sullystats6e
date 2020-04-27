@@ -1,0 +1,8 @@
+Nonsmokers	Moderate Smokers	Heavy Smokers
+56	78	77
+53	62	86
+53	70	68
+65	73	83
+70	67	79
+58	75	80
+51	65	77

@@ -1,0 +1,51 @@
+State	SAT	Percent	Average Salary (thousands)	Starting Salary (thousands)	var6	var7	var8	var9	var0
+Connecticut	512	88	69.165	42.45					
+Michigan	603	4	63.94	34.724					
+Illinois	615	5	64.509	36.636					
+Pennsylvania	501	74	60.76	41.192					
+Ohio	552	19	56.715	33.035					
+Massachusetts	530	89	70.752	40.462					
+Georgia	489	81	52.815	33.673					
+Texas	499	62	48.638	34.234					
+Wyoming	579	5	56.1	43.053					
+Nevada	493	49	53.023	35.449					
+Indiana	501	69	50.801	33.574					
+Washington	530	58	52.926	36.474					
+Wisconsin	605	4	54.195	33.17					
+California	512	55	67.871	41.131					
+Virginia	512	72	48.761	36.737					
+Delaware	462	100	57.934	39.099					
+Idaho	541	20	47.416	29.915					
+Oregon	523	57	56.503	33.241					
+Louisiana	536	9	49.006	38.655					
+Alabama	531	8	47.803	36.201					
+Rhode Island	491	69	60.923	39.006					
+New Jersey	517	78	66.612	48.101					
+Minnesota	606	7	53.68	34.025					
+Kentucky	575	6	48.908	35.075					
+Tennessee	570	10	45.891	33.287					
+Utah	566	6	47.033	33.268					
+Maryland	502	74	63.96	43.003					
+Kansas	594	6	46.598	32.964					
+Oklahoma	566	5	44.343	31.6					
+Iowa	606	3	49.844	32.895					
+New Mexico	546	13	46.888	32.092					
+Nebraska	585	5	47.368	30.086					
+Florida	492	66	45.732	35.236					
+New York	500	90	72.708	44.37					
+North Carolina	506	68	46.605	30.779					
+Colorado	581	17	49.228	32.095					
+South Carolina	488	73	47.05	31.685					
+Missouri	592	5	45.321	29.857					
+West Virginia	502	17	44.26	32.435					
+Mississippi	544	4	41.975	31.187					
+Montana	536	28	47.132	26.734					
+Arizona	525	27	47.553	31.689					
+Alaska	507	54	62.918	42.928					
+North Dakota	610	3	44.807	31.065					
+New Hampshire	525	75	52.792	33.871					
+Vermont	523	69	50.141	34.709					
+Maine	472	93	47.182	31.58					
+South Dakota	570	3	39.85	29.308					
+Arkansas	566	4	46.5	32.478					
+Hawaii	500	66	55.063	38.479					

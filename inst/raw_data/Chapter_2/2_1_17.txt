@@ -1,0 +1,6 @@
+Platform Males Females
+Facebook 326 222
+Instagram 380 535
+Snapchat 56 29
+Twitter 122 57
+None 678 271

@@ -1,0 +1,11 @@
+Gender	One 8-hr session	Two 4-hr sessions	Two 2-hr sessions
+Male	89	95	77
+Male	96	87	78
+Male	95	90	83
+Male	90	91	78
+Male	96	92	78
+Female	88	87	80
+Female	92	92	82
+Female	98	91	79
+Female	99	94	86
+Female	91	93	88

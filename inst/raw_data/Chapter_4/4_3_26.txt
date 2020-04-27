@@ -1,0 +1,8 @@
+"Wind Speed, x (mph)"	"Wind Chill Factor, y"
+5	12
+10	-3
+15	-11
+20	-17
+25	-22
+30	-25
+35	-27

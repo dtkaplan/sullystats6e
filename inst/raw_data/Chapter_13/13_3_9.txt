@@ -1,0 +1,5 @@
+	Jeep Cherokee	Saturn VUE	Toyota RAV4	Hyundai Santa Fe
+Front into flat barrier	652	416	489	539
+Rear into flat barrier	824	556	1897	1504
+Front into angle barrier	1448	1179	1151	1578
+Rear into pole	1553	1335	2377	1988

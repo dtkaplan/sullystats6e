@@ -1,0 +1,6 @@
+Response	Frequency
+Several times a week	103
+Once or twice a week	204
+A few times a month	130
+Very rarely	79
+Never	5

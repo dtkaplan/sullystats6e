@@ -1,0 +1,6 @@
+Number of Children Under 5	Number of Households			
+0	16			
+1	18			
+2	12			
+3	3			
+4	1

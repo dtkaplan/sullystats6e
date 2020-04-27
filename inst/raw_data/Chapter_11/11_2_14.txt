@@ -1,0 +1,11 @@
+City	Thrifty	Hertz
+Chicago	21.81	18.99
+Los Angeles	29.89	37.99
+Houston	17.9	19.99
+Orlando	27.98	35.99
+Boston	24.61	25.6
+Seattle	21.96	22.99
+Pittsburgh	20.9	19.99
+Phoenix	37.75	36.99
+New Orleans	33.81	26.99
+Minneapolis	33.49	30.99

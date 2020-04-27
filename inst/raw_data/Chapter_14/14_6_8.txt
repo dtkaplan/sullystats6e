@@ -1,0 +1,41 @@
+Carat	Color	Clarity	Cut	Price ($)
+0.25	D	IF	Excellent	1060
+0.25	E	VVS1	Good	607
+0.27	D	VVS1	Excellent	1105
+0.31	E	FL	Good	915
+0.48	F	VS2	Very Good	1109
+0.39	E	VVS2	Good	1162
+0.39	D	VS1	Excellent	3043
+0.42	E	IF	Excellent	2790
+0.5	D	VVS1	Very Good	3112
+0.5	D	IF	Very Good	3557
+0.51	E	VVS1	Excellent	2694
+0.55	D	VVS2	Good	2542
+0.56	H	VVS1	Good	2178
+0.61	H	VVS2	Excellent	1977
+0.63	D	FL	Excellent	5459
+0.66	D	IF	Very Good	4816
+0.69	D	VS2	Very Good	6625
+0.7	E	VVS1	Very Good	4726
+0.77	J	SI1	Very Good	1903
+0.77	D	VVS1	Excellent	6121
+0.8	D	IF	Excellent	6680
+0.82	E	SI2	Excellent	5651
+0.9	D	IF	Good	9792
+0.91	G	SI2	Excellent	3266
+0.92	J	SI2	Very Good	2512
+0.92	D	IF	Excellent	11095
+0.93	H	VVS1	Very Good	6038
+0.95	D	VS2	Very Good	5719
+1.05	F	SI1	Very Good	5716
+1.05	F	VS1	Good	8203
+1.06	E	SI1	Very Good	5877
+1.08	G	VS1	Excellent	8391
+1.2	I	IF	Good	8998
+1.21	H	IF	Very Good	9903
+1.33	I	SI2	Excellent	5746
+1.52	J	VVS2	Very Good	10098
+1.51	I	VVS1	Excellent	13295
+1.24	D	VS2	Excellent	11013
+1.34	F	VS2	Excellent	11052
+1.38	G	VS2	Very Good	11017

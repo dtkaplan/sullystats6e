@@ -1,0 +1,8 @@
+Large Family Cars	Chest Compression (mm)	Passenger Vans	Chest Compression (mm)	Midsize Utility Vehicles	Compression
+Hyundai XG6300	33	Toyota Sienna	29	Honda Pilot	29
+Ford Taurus	40	Honda Odyssey	28	Toyota 4Runner	36
+Buick LeSabre	28	Ford Freestar	27	Mitsubishi Endeavor	35
+Chevrolet Impala	30	Mazda MPV	30	Nissan Murano	32
+Chrysler 300	34	Chevrolet Uplander	26	Ford Explorer	34
+Pontiac Grand Prix	34	Nissan Quest	33	Jeep Liberty	42
+Toyota Avalon	31	Kia Sedona	36	Buick Rendezvous	29

@@ -1,0 +1,2001 @@
+Spin1 Spin2 Outcome_Spin1 Outcome_Spin2A Outcome_Spin2B Player1_Spin3 Player2_Spin3 Strategy1 Strategy2
+65 25 "Spin Again" win win 85 95 win win
+30 55 "Spin Again" win win 5 95 win win
+90 65 win win win 65 5 win win
+95 25 win win win 70 40 win win
+25 55 "Spin Again" tie tie 85 55 lose lose
+65 55 "Spin Again" lose lose 50 90 lose lose
+35 70 "Spin Again" lose lose 25 95 lose lose
+20 10 "Spin Again" lose lose 55 10 lose lose
+75 80 "Spin Again" lose lose 65 30 lose lose
+75 30 "Spin Again" lose lose 55 100 lose lose
+100 20 win win win 45 55 win win
+75 45 "Spin Again" lose lose 60 25 lose lose
+65 50 "Spin Again" lose lose 60 100 lose lose
+70 5 "Spin Again" lose lose 40 95 lose lose
+85 50 win win win 75 5 win win
+30 95 "Spin Again" lose lose 15 25 lose lose
+70 75 "Spin Again" lose lose 80 45 lose lose
+35 90 "Spin Again" lose lose 5 65 lose lose
+100 60 win win win 55 20 win win
+70 35 "Spin Again" lose lose 95 15 lose lose
+100 25 win win win 70 90 win win
+20 95 "Spin Again" lose lose 65 20 lose lose
+85 5 win win win 15 100 win win
+70 100 "Spin Again" lose lose 45 70 lose lose
+15 40 "Spin Again" lose lose 75 90 lose lose
+10 5 "Spin Again" lose lose 60 70 lose lose
+15 55 "Spin Again" lose lose 65 30 lose lose
+30 75 "Spin Again" lose lose 80 20 lose lose
+10 35 "Spin Again" lose lose 95 45 lose lose
+20 50 "Spin Again" lose lose 5 70 lose lose
+35 100 "Spin Again" lose lose 5 50 lose lose
+10 90 "Spin Again" win win 95 55 win win
+25 5 "Spin Again" lose lose 25 100 lose lose
+50 100 "Spin Again" lose lose 40 60 lose lose
+15 85 "Spin Again" win win 60 15 win win
+25 60 "Spin Again" win win 65 75 win win
+100 100 win win win 90 15 win win
+65 25 "Spin Again" win win 35 40 win win
+10 60 "Spin Again" lose lose 10 45 lose lose
+65 95 "Spin Again" lose lose 20 100 lose lose
+55 25 "Spin Again" tie tie 95 35 lose lose
+15 30 "Spin Again" lose lose 90 35 lose lose
+100 70 win win win 45 75 win win
+70 70 "Spin Again" lose lose 40 75 lose lose
+70 50 "Spin Again" lose lose 10 65 lose lose
+40 10 "Spin Again" lose lose 10 5 lose lose
+15 30 "Spin Again" lose lose 15 80 lose lose
+5 80 "Spin Again" win win 20 80 win win
+35 95 "Spin Again" lose lose 65 50 lose lose
+95 40 win win win 70 95 win win
+75 15 "Spin Again" win win 100 100 win win
+45 85 "Spin Again" lose lose 25 80 lose lose
+55 75 "Spin Again" lose lose 85 85 lose lose
+55 100 "Spin Again" lose lose 85 60 lose lose
+15 25 "Spin Again" lose lose 25 15 lose lose
+100 65 win win win 35 65 win win
+15 30 "Spin Again" lose lose 5 50 lose lose
+5 10 "Spin Again" lose lose 45 10 lose lose
+75 60 "Spin Again" lose lose 5 70 lose lose
+35 40 "Spin Again" lose lose 30 90 lose lose
+20 70 "Spin Again" win win 20 95 win win
+75 15 "Spin Again" win win 65 90 win win
+40 20 "Spin Again" lose lose 90 70 lose lose
+45 90 "Spin Again" lose lose 30 80 lose lose
+50 55 "Spin Again" lose lose 90 55 lose lose
+90 55 win win win 65 15 win win
+100 50 win win win 5 70 win win
+80 100 tie lose tie 30 5 lose lose
+95 45 win win win 10 85 win win
+60 80 "Spin Again" lose lose 80 35 lose lose
+65 100 "Spin Again" lose lose 35 25 lose lose
+20 60 "Spin Again" tie tie 80 30 lose lose
+15 50 "Spin Again" lose lose 10 70 lose lose
+50 80 "Spin Again" lose lose 70 60 lose lose
+15 20 "Spin Again" lose lose 75 10 lose lose
+15 90 "Spin Again" lose lose 85 90 lose lose
+25 95 "Spin Again" lose lose 60 25 lose lose
+5 25 "Spin Again" lose lose 85 25 lose lose
+5 100 "Spin Again" lose lose 100 95 lose lose
+35 45 "Spin Again" tie tie 95 30 lose lose
+60 75 "Spin Again" lose lose 85 95 lose lose
+55 75 "Spin Again" lose lose 65 40 lose lose
+50 10 "Spin Again" lose lose 50 45 lose lose
+25 80 "Spin Again" lose lose 65 80 lose lose
+75 30 "Spin Again" lose lose 85 15 lose lose
+80 20 tie win tie 25 55 win lose
+50 90 "Spin Again" lose lose 80 55 lose lose
+85 90 win win win 75 50 win win
+90 5 win win win 90 50 win win
+85 15 win win win 75 30 win win
+45 50 "Spin Again" win win 30 5 win win
+15 55 "Spin Again" lose lose 25 15 lose lose
+20 70 "Spin Again" win win 70 95 win win
+15 75 "Spin Again" win win 90 35 win win
+100 25 win win win 60 30 win win
+20 55 "Spin Again" lose lose 100 70 lose lose
+55 20 "Spin Again" lose lose 80 30 lose lose
+35 35 "Spin Again" lose lose 90 80 lose lose
+30 5 "Spin Again" lose lose 30 50 lose lose
+70 5 "Spin Again" lose lose 10 100 lose lose
+15 35 "Spin Again" lose lose 60 25 lose lose
+30 85 "Spin Again" lose lose 25 25 lose lose
+85 60 win win win 80 30 win win
+20 50 "Spin Again" lose lose 45 40 lose lose
+30 85 "Spin Again" lose lose 35 75 lose lose
+100 50 win win win 85 80 win win
+20 30 "Spin Again" lose lose 75 80 lose lose
+25 85 "Spin Again" lose lose 90 5 lose lose
+90 20 win win win 45 15 win win
+35 40 "Spin Again" lose lose 65 90 lose lose
+60 75 "Spin Again" lose lose 90 55 lose lose
+50 55 "Spin Again" lose lose 30 5 lose lose
+45 100 "Spin Again" lose lose 5 70 lose lose
+85 65 win win win 5 65 win win
+55 100 "Spin Again" lose lose 85 30 lose lose
+50 50 "Spin Again" win win 25 95 win win
+30 45 "Spin Again" lose lose 70 85 lose lose
+75 70 "Spin Again" lose lose 95 60 lose lose
+85 35 win win win 25 35 win win
+80 95 tie lose tie 95 50 lose lose
+25 60 "Spin Again" win win 40 70 win win
+75 70 "Spin Again" lose lose 65 15 lose lose
+85 5 win win win 65 85 win win
+40 95 "Spin Again" lose lose 55 75 lose lose
+45 85 "Spin Again" lose lose 95 35 lose lose
+30 100 "Spin Again" lose lose 65 60 lose lose
+70 5 "Spin Again" lose lose 60 65 lose lose
+30 65 "Spin Again" win win 40 65 win win
+95 75 win win win 65 5 win win
+95 95 win win win 100 5 win win
+40 35 "Spin Again" lose lose 5 70 lose lose
+5 20 "Spin Again" lose lose 30 5 lose lose
+45 80 "Spin Again" lose lose 75 25 lose lose
+100 75 win win win 5 40 win win
+35 70 "Spin Again" lose lose 100 30 lose lose
+5 5 "Spin Again" lose lose 15 60 lose lose
+65 40 "Spin Again" lose lose 20 15 lose lose
+65 10 "Spin Again" lose lose 35 10 lose lose
+90 65 win win win 100 100 win win
+60 95 "Spin Again" lose lose 85 95 lose lose
+30 50 "Spin Again" tie tie 90 15 lose lose
+5 55 "Spin Again" lose lose 80 45 lose lose
+20 75 "Spin Again" win win 70 70 win win
+65 45 "Spin Again" lose lose 50 100 lose lose
+35 85 "Spin Again" lose lose 65 75 lose lose
+80 80 tie lose tie 70 90 lose win
+80 75 tie lose tie 35 80 lose win
+45 15 "Spin Again" lose lose 90 75 lose lose
+45 30 "Spin Again" lose lose 40 5 lose lose
+60 35 "Spin Again" win win 95 25 win win
+90 45 win win win 85 35 win win
+65 15 "Spin Again" tie tie 20 60 win win
+5 80 "Spin Again" win win 5 25 win win
+100 90 win win win 30 50 win win
+45 15 "Spin Again" lose lose 30 50 lose lose
+15 85 "Spin Again" win win 25 70 win win
+50 75 "Spin Again" lose lose 20 65 lose lose
+20 50 "Spin Again" lose lose 20 75 lose lose
+20 80 "Spin Again" win win 65 25 win win
+35 60 "Spin Again" win win 20 50 win win
+35 15 "Spin Again" lose lose 10 30 lose lose
+5 95 "Spin Again" win win 20 25 win win
+20 90 "Spin Again" lose lose 65 15 lose lose
+85 85 win win win 85 25 win win
+5 55 "Spin Again" lose lose 85 70 lose lose
+50 20 "Spin Again" lose lose 25 90 lose lose
+45 30 "Spin Again" lose lose 40 70 lose lose
+35 90 "Spin Again" lose lose 85 25 lose lose
+65 20 "Spin Again" win win 65 100 win win
+10 85 "Spin Again" win win 20 60 win win
+5 75 "Spin Again" tie tie 90 95 win win
+30 80 "Spin Again" lose lose 100 35 lose lose
+15 20 "Spin Again" lose lose 65 90 lose lose
+85 60 win win win 90 80 win win
+40 60 "Spin Again" win win 50 95 win win
+45 20 "Spin Again" lose lose 30 40 lose lose
+100 80 win win win 5 80 win win
+65 35 "Spin Again" win win 5 80 win win
+50 65 "Spin Again" lose lose 70 70 lose lose
+25 85 "Spin Again" lose lose 10 45 lose lose
+5 60 "Spin Again" lose lose 30 5 lose lose
+25 40 "Spin Again" lose lose 100 75 lose lose
+15 80 "Spin Again" win win 55 15 win win
+35 90 "Spin Again" lose lose 70 90 lose lose
+90 20 win win win 80 80 win win
+35 70 "Spin Again" lose lose 15 35 lose lose
+70 50 "Spin Again" lose lose 55 50 lose lose
+85 85 win win win 60 25 win win
+80 100 tie lose tie 25 90 lose win
+75 100 "Spin Again" lose lose 100 100 lose lose
+40 80 "Spin Again" lose lose 75 100 lose lose
+70 50 "Spin Again" lose lose 70 55 lose lose
+5 90 "Spin Again" win win 70 55 win win
+25 35 "Spin Again" lose lose 50 10 lose lose
+85 50 win win win 85 5 win win
+95 25 win win win 35 50 win win
+80 85 tie lose tie 55 80 lose win
+5 50 "Spin Again" lose lose 85 75 lose lose
+20 10 "Spin Again" lose lose 10 70 lose lose
+90 90 win win win 45 45 win win
+55 95 "Spin Again" lose lose 100 90 lose lose
+95 90 win win win 50 65 win win
+35 15 "Spin Again" lose lose 95 85 lose lose
+70 45 "Spin Again" lose lose 100 45 lose lose
+40 85 "Spin Again" lose lose 5 60 lose lose
+45 50 "Spin Again" win win 95 20 win win
+100 95 win win win 70 100 win win
+25 35 "Spin Again" lose lose 100 15 lose lose
+40 60 "Spin Again" win win 50 55 win win
+90 70 win win win 95 80 win win
+40 55 "Spin Again" win win 30 30 win win
+100 50 win win win 10 95 win win
+50 60 "Spin Again" lose lose 65 20 lose lose
+85 60 win win win 65 20 win win
+70 75 "Spin Again" lose lose 15 15 lose lose
+90 80 win win win 55 25 win win
+20 30 "Spin Again" lose lose 90 20 lose lose
+45 90 "Spin Again" lose lose 60 75 lose lose
+100 90 win win win 55 30 win win
+35 95 "Spin Again" lose lose 10 75 lose lose
+100 50 win win win 55 90 win win
+10 25 "Spin Again" lose lose 95 5 lose lose
+40 60 "Spin Again" win win 20 5 win win
+15 95 "Spin Again" lose lose 55 65 lose lose
+35 65 "Spin Again" win win 95 15 win win
+45 45 "Spin Again" win win 30 5 win win
+15 35 "Spin Again" lose lose 5 30 lose lose
+5 65 "Spin Again" lose lose 15 25 lose lose
+25 45 "Spin Again" lose lose 50 70 lose lose
+45 35 "Spin Again" tie tie 55 65 win win
+35 55 "Spin Again" win win 100 40 win win
+50 90 "Spin Again" lose lose 90 55 lose lose
+45 25 "Spin Again" lose lose 95 65 lose lose
+45 10 "Spin Again" lose lose 50 50 lose lose
+35 30 "Spin Again" lose lose 70 90 lose lose
+55 35 "Spin Again" win win 70 40 win win
+85 95 win win win 25 100 win win
+65 25 "Spin Again" win win 20 20 win win
+90 75 win win win 95 85 win win
+100 20 win win win 20 45 win win
+95 45 win win win 15 55 win win
+30 35 "Spin Again" lose lose 100 75 lose lose
+70 70 "Spin Again" lose lose 95 45 lose lose
+65 5 "Spin Again" lose lose 80 85 lose lose
+75 25 "Spin Again" win win 10 15 win win
+35 20 "Spin Again" lose lose 40 55 lose lose
+35 35 "Spin Again" lose lose 20 45 lose lose
+55 60 "Spin Again" lose lose 85 65 lose lose
+25 30 "Spin Again" lose lose 100 80 lose lose
+75 95 "Spin Again" lose lose 5 75 lose lose
+75 5 "Spin Again" tie tie 65 40 lose lose
+85 60 win win win 35 85 win win
+80 95 tie lose tie 30 5 lose lose
+10 100 "Spin Again" lose lose 30 75 lose lose
+55 100 "Spin Again" lose lose 50 75 lose lose
+35 35 "Spin Again" lose lose 95 90 lose lose
+15 50 "Spin Again" lose lose 20 40 lose lose
+80 70 tie lose tie 70 100 lose win
+25 30 "Spin Again" lose lose 95 10 lose lose
+90 5 win win win 25 80 win win
+40 80 "Spin Again" lose lose 55 80 lose lose
+10 15 "Spin Again" lose lose 100 25 lose lose
+25 75 "Spin Again" win win 75 50 win win
+25 100 "Spin Again" lose lose 90 60 lose lose
+30 60 "Spin Again" win win 70 55 win win
+55 5 "Spin Again" lose lose 45 55 lose lose
+75 65 "Spin Again" lose lose 65 40 lose lose
+5 40 "Spin Again" lose lose 10 65 lose lose
+55 10 "Spin Again" lose lose 90 65 lose lose
+20 85 "Spin Again" lose lose 35 60 lose lose
+25 10 "Spin Again" lose lose 20 80 lose lose
+35 65 "Spin Again" win win 5 95 win win
+35 70 "Spin Again" lose lose 95 25 lose lose
+95 35 win win win 30 15 win win
+5 85 "Spin Again" win win 100 40 win win
+100 25 win win win 80 55 win win
+45 95 "Spin Again" lose lose 25 60 lose lose
+5 10 "Spin Again" lose lose 50 60 lose lose
+65 25 "Spin Again" win win 100 95 win win
+60 20 "Spin Again" tie tie 65 95 win win
+20 40 "Spin Again" lose lose 20 40 lose lose
+35 15 "Spin Again" lose lose 15 60 lose lose
+25 50 "Spin Again" lose lose 5 30 lose lose
+95 55 win win win 25 35 win win
+100 30 win win win 15 40 win win
+85 90 win win win 50 55 win win
+35 95 "Spin Again" lose lose 45 80 lose lose
+40 70 "Spin Again" lose lose 50 5 lose lose
+50 75 "Spin Again" lose lose 60 35 lose lose
+70 85 "Spin Again" lose lose 40 45 lose lose
+70 50 "Spin Again" lose lose 100 35 lose lose
+90 35 win win win 40 100 win win
+80 95 tie lose tie 65 70 lose win
+75 70 "Spin Again" lose lose 60 100 lose lose
+10 60 "Spin Again" lose lose 80 50 lose lose
+20 35 "Spin Again" lose lose 35 70 lose lose
+85 25 win win win 70 30 win win
+15 20 "Spin Again" lose lose 70 35 lose lose
+5 55 "Spin Again" lose lose 35 60 lose lose
+80 75 tie lose tie 40 100 lose win
+55 5 "Spin Again" lose lose 30 60 lose lose
+90 25 win win win 20 70 win win
+55 35 "Spin Again" win win 60 35 win win
+55 25 "Spin Again" tie tie 10 85 win win
+65 25 "Spin Again" win win 95 100 win win
+5 70 "Spin Again" lose lose 50 10 lose lose
+55 10 "Spin Again" lose lose 25 100 lose lose
+80 65 tie lose tie 55 5 lose lose
+70 75 "Spin Again" lose lose 85 30 lose lose
+75 60 "Spin Again" lose lose 100 90 lose lose
+85 90 win win win 60 30 win win
+55 65 "Spin Again" lose lose 95 95 lose lose
+85 45 win win win 100 10 win win
+25 50 "Spin Again" lose lose 50 55 lose lose
+80 95 tie lose tie 15 55 lose win
+75 95 "Spin Again" lose lose 95 25 lose lose
+40 60 "Spin Again" win win 55 65 win win
+40 85 "Spin Again" lose lose 45 90 lose lose
+55 65 "Spin Again" lose lose 10 5 lose lose
+20 55 "Spin Again" lose lose 20 15 lose lose
+90 15 win win win 30 15 win win
+90 100 win win win 55 60 win win
+70 60 "Spin Again" lose lose 5 35 lose lose
+60 45 "Spin Again" lose lose 5 55 lose lose
+65 40 "Spin Again" lose lose 100 95 lose lose
+85 30 win win win 60 5 win win
+70 50 "Spin Again" lose lose 35 80 lose lose
+80 30 tie lose tie 90 90 lose tie
+70 30 "Spin Again" win win 90 100 win win
+75 65 "Spin Again" lose lose 65 45 lose lose
+75 25 "Spin Again" win win 35 75 win win
+70 10 "Spin Again" tie tie 5 15 win win
+95 50 win win win 45 70 win win
+55 60 "Spin Again" lose lose 15 95 lose lose
+25 95 "Spin Again" lose lose 60 30 lose lose
+50 15 "Spin Again" lose lose 40 70 lose lose
+15 15 "Spin Again" lose lose 85 100 lose lose
+25 90 "Spin Again" lose lose 90 20 lose lose
+75 10 "Spin Again" win win 15 60 win win
+65 85 "Spin Again" lose lose 100 5 lose lose
+25 30 "Spin Again" lose lose 95 25 lose lose
+90 50 win win win 85 90 win win
+85 50 win win win 80 95 win win
+5 100 "Spin Again" lose lose 75 45 lose lose
+5 25 "Spin Again" lose lose 15 35 lose lose
+10 80 "Spin Again" win win 85 100 win win
+60 90 "Spin Again" lose lose 20 70 lose lose
+60 45 "Spin Again" lose lose 60 85 lose lose
+100 80 win win win 55 10 win win
+80 55 tie lose tie 35 85 lose win
+5 45 "Spin Again" lose lose 85 70 lose lose
+15 20 "Spin Again" lose lose 60 85 lose lose
+5 75 "Spin Again" tie tie 30 60 win win
+30 40 "Spin Again" lose lose 100 10 lose lose
+70 70 "Spin Again" lose lose 50 100 lose lose
+20 10 "Spin Again" lose lose 30 75 lose lose
+80 35 tie lose tie 80 40 lose lose
+20 85 "Spin Again" lose lose 10 65 lose lose
+60 80 "Spin Again" lose lose 30 35 lose lose
+35 35 "Spin Again" lose lose 25 25 lose lose
+20 60 "Spin Again" tie tie 60 5 lose lose
+65 40 "Spin Again" lose lose 90 45 lose lose
+30 15 "Spin Again" lose lose 25 20 lose lose
+15 40 "Spin Again" lose lose 70 30 lose lose
+5 35 "Spin Again" lose lose 95 25 lose lose
+90 80 win win win 70 25 win win
+15 60 "Spin Again" lose lose 95 75 lose lose
+70 25 "Spin Again" win win 45 60 win win
+55 80 "Spin Again" lose lose 45 35 lose lose
+35 60 "Spin Again" win win 35 70 win win
+65 100 "Spin Again" lose lose 55 10 lose lose
+5 25 "Spin Again" lose lose 85 5 lose lose
+40 65 "Spin Again" lose lose 55 65 lose lose
+30 20 "Spin Again" lose lose 80 80 lose lose
+30 80 "Spin Again" lose lose 20 10 lose lose
+80 65 tie lose tie 90 20 lose lose
+30 40 "Spin Again" lose lose 95 15 lose lose
+40 65 "Spin Again" lose lose 100 35 lose lose
+85 85 win win win 55 30 win win
+30 90 "Spin Again" lose lose 75 45 lose lose
+75 15 "Spin Again" win win 85 75 win win
+10 80 "Spin Again" win win 70 65 win win
+100 90 win win win 25 25 win win
+40 55 "Spin Again" win win 60 15 win win
+10 80 "Spin Again" win win 55 60 win win
+10 60 "Spin Again" lose lose 10 15 lose lose
+70 30 "Spin Again" win win 20 65 win win
+100 85 win win win 5 60 win win
+50 50 "Spin Again" win win 45 100 win win
+20 65 "Spin Again" win win 95 55 win win
+5 40 "Spin Again" lose lose 50 5 lose lose
+50 15 "Spin Again" lose lose 100 60 lose lose
+70 95 "Spin Again" lose lose 40 35 lose lose
+5 15 "Spin Again" lose lose 100 10 lose lose
+15 40 "Spin Again" lose lose 60 25 lose lose
+90 5 win win win 15 70 win win
+10 55 "Spin Again" lose lose 5 35 lose lose
+85 100 win win win 85 75 win win
+25 35 "Spin Again" lose lose 55 5 lose lose
+40 95 "Spin Again" lose lose 15 100 lose lose
+95 10 win win win 25 10 win win
+45 75 "Spin Again" lose lose 20 40 lose lose
+70 20 "Spin Again" win win 85 85 win win
+45 20 "Spin Again" lose lose 70 10 lose lose
+100 70 win win win 85 70 win win
+40 60 "Spin Again" win win 35 75 win win
+55 40 "Spin Again" win win 20 70 win win
+75 95 "Spin Again" lose lose 30 80 lose lose
+10 25 "Spin Again" lose lose 5 70 lose lose
+30 30 "Spin Again" lose lose 80 10 lose lose
+70 30 "Spin Again" win win 50 85 win win
+5 70 "Spin Again" lose lose 10 80 lose lose
+80 80 tie lose tie 70 20 lose lose
+40 40 "Spin Again" tie tie 30 85 win win
+65 75 "Spin Again" lose lose 15 35 lose lose
+65 10 "Spin Again" lose lose 65 55 lose lose
+45 10 "Spin Again" lose lose 80 80 lose lose
+80 50 tie lose tie 80 65 lose lose
+15 50 "Spin Again" lose lose 55 20 lose lose
+100 25 win win win 80 95 win win
+70 15 "Spin Again" win win 55 80 win win
+80 65 tie lose tie 95 60 lose lose
+95 90 win win win 30 45 win win
+95 40 win win win 80 100 win win
+15 95 "Spin Again" lose lose 45 10 lose lose
+70 30 "Spin Again" win win 55 20 win win
+60 15 "Spin Again" lose lose 100 25 lose lose
+100 90 win win win 40 80 win win
+50 10 "Spin Again" lose lose 65 65 lose lose
+25 25 "Spin Again" lose lose 85 100 lose lose
+75 25 "Spin Again" win win 75 70 win win
+35 40 "Spin Again" lose lose 90 90 lose lose
+55 100 "Spin Again" lose lose 80 15 lose lose
+95 60 win win win 55 70 win win
+85 80 win win win 100 75 win win
+10 85 "Spin Again" win win 55 10 win win
+50 75 "Spin Again" lose lose 30 80 lose lose
+5 100 "Spin Again" lose lose 100 65 lose lose
+65 55 "Spin Again" lose lose 85 50 lose lose
+90 55 win win win 75 100 win win
+60 10 "Spin Again" lose lose 40 75 lose lose
+85 95 win win win 20 85 win win
+20 55 "Spin Again" lose lose 50 5 lose lose
+40 60 "Spin Again" win win 45 70 win win
+25 5 "Spin Again" lose lose 10 70 lose lose
+80 25 tie lose tie 35 40 lose win
+65 5 "Spin Again" lose lose 70 5 lose lose
+35 10 "Spin Again" lose lose 65 90 lose lose
+90 65 win win win 75 80 win win
+15 15 "Spin Again" lose lose 75 5 lose lose
+90 70 win win win 55 5 win win
+30 65 "Spin Again" win win 80 15 win win
+85 15 win win win 70 5 win win
+40 20 "Spin Again" lose lose 60 35 lose lose
+100 70 win win win 5 100 win win
+60 100 "Spin Again" lose lose 20 20 lose lose
+55 100 "Spin Again" lose lose 20 90 lose lose
+30 10 "Spin Again" lose lose 40 60 lose lose
+100 65 win win win 10 50 win win
+5 10 "Spin Again" lose lose 80 30 lose lose
+70 5 "Spin Again" lose lose 25 50 lose lose
+90 65 win win win 20 80 win win
+100 60 win win win 100 65 win win
+5 30 "Spin Again" lose lose 55 75 lose lose
+15 5 "Spin Again" lose lose 50 25 lose lose
+40 60 "Spin Again" win win 90 50 win win
+40 20 "Spin Again" lose lose 40 25 lose lose
+20 35 "Spin Again" lose lose 30 65 lose lose
+100 70 win win win 35 50 win win
+75 35 "Spin Again" lose lose 90 20 lose lose
+35 10 "Spin Again" lose lose 15 100 lose lose
+50 20 "Spin Again" lose lose 100 30 lose lose
+95 100 win win win 45 35 win win
+80 40 tie lose tie 25 30 lose win
+40 10 "Spin Again" lose lose 85 45 lose lose
+35 75 "Spin Again" lose lose 100 15 lose lose
+35 35 "Spin Again" lose lose 65 10 lose lose
+40 15 "Spin Again" lose lose 40 60 lose lose
+65 100 "Spin Again" lose lose 30 50 lose lose
+55 30 "Spin Again" win win 90 70 win win
+45 70 "Spin Again" lose lose 95 15 lose lose
+20 90 "Spin Again" lose lose 90 30 lose lose
+30 80 "Spin Again" lose lose 60 10 lose lose
+70 45 "Spin Again" lose lose 5 35 lose lose
+15 100 "Spin Again" lose lose 75 10 lose lose
+90 20 win win win 35 15 win win
+55 80 "Spin Again" lose lose 75 70 lose lose
+40 5 "Spin Again" lose lose 60 5 lose lose
+60 35 "Spin Again" win win 50 85 win win
+20 55 "Spin Again" lose lose 30 30 lose lose
+60 90 "Spin Again" lose lose 55 40 lose lose
+90 25 win win win 65 10 win win
+20 60 "Spin Again" tie tie 100 85 lose lose
+75 25 "Spin Again" win win 90 35 win win
+60 100 "Spin Again" lose lose 5 100 lose lose
+55 10 "Spin Again" lose lose 40 30 lose lose
+65 95 "Spin Again" lose lose 55 10 lose lose
+75 55 "Spin Again" lose lose 40 40 lose lose
+20 25 "Spin Again" lose lose 5 20 lose lose
+80 65 tie lose tie 50 90 lose win
+5 5 "Spin Again" lose lose 65 45 lose lose
+45 10 "Spin Again" lose lose 15 95 lose lose
+10 80 "Spin Again" win win 65 40 win win
+80 70 tie lose tie 80 25 lose lose
+95 85 win win win 5 95 win win
+65 25 "Spin Again" win win 5 15 win win
+30 15 "Spin Again" lose lose 95 65 lose lose
+20 60 "Spin Again" tie tie 100 40 lose lose
+50 5 "Spin Again" lose lose 60 100 lose lose
+40 100 "Spin Again" lose lose 15 100 lose lose
+65 90 "Spin Again" lose lose 60 30 lose lose
+80 15 tie win tie 10 75 win win
+55 5 "Spin Again" lose lose 85 15 lose lose
+15 45 "Spin Again" lose lose 5 100 lose lose
+15 20 "Spin Again" lose lose 65 80 lose lose
+95 70 win win win 15 50 win win
+15 75 "Spin Again" win win 70 45 win win
+80 15 tie win tie 40 30 win lose
+65 100 "Spin Again" lose lose 15 50 lose lose
+50 70 "Spin Again" lose lose 55 30 lose lose
+85 100 win win win 65 30 win win
+60 40 "Spin Again" win win 15 35 win win
+65 95 "Spin Again" lose lose 95 30 lose lose
+90 30 win win win 70 25 win win
+60 100 "Spin Again" lose lose 80 30 lose lose
+65 25 "Spin Again" win win 15 15 win win
+35 15 "Spin Again" lose lose 100 20 lose lose
+65 80 "Spin Again" lose lose 15 100 lose lose
+40 75 "Spin Again" lose lose 10 30 lose lose
+15 35 "Spin Again" lose lose 85 50 lose lose
+55 30 "Spin Again" win win 35 10 win win
+85 65 win win win 45 85 win win
+90 95 win win win 100 55 win win
+50 15 "Spin Again" lose lose 60 35 lose lose
+5 95 "Spin Again" win win 85 75 win win
+30 5 "Spin Again" lose lose 80 35 lose lose
+35 35 "Spin Again" lose lose 30 45 lose lose
+75 95 "Spin Again" lose lose 80 20 lose lose
+85 100 win win win 30 30 win win
+75 10 "Spin Again" win win 90 90 win win
+5 80 "Spin Again" win win 80 50 win win
+85 60 win win win 85 50 win win
+80 40 tie lose tie 50 20 lose lose
+55 80 "Spin Again" lose lose 55 35 lose lose
+100 55 win win win 80 10 win win
+60 60 "Spin Again" lose lose 45 25 lose lose
+75 70 "Spin Again" lose lose 20 10 lose lose
+75 55 "Spin Again" lose lose 50 100 lose lose
+10 95 "Spin Again" lose lose 65 75 lose lose
+5 90 "Spin Again" win win 80 80 win win
+5 70 "Spin Again" lose lose 90 5 lose lose
+25 30 "Spin Again" lose lose 35 75 lose lose
+65 85 "Spin Again" lose lose 20 10 lose lose
+35 20 "Spin Again" lose lose 100 80 lose lose
+30 75 "Spin Again" lose lose 100 60 lose lose
+75 60 "Spin Again" lose lose 75 10 lose lose
+70 55 "Spin Again" lose lose 5 5 lose lose
+50 70 "Spin Again" lose lose 55 100 lose lose
+30 100 "Spin Again" lose lose 15 80 lose lose
+75 5 "Spin Again" tie tie 10 50 win win
+10 90 "Spin Again" win win 25 30 win win
+5 40 "Spin Again" lose lose 55 50 lose lose
+15 15 "Spin Again" lose lose 35 85 lose lose
+25 10 "Spin Again" lose lose 5 15 lose lose
+30 95 "Spin Again" lose lose 30 75 lose lose
+100 100 win win win 95 55 win win
+10 60 "Spin Again" lose lose 90 85 lose lose
+55 40 "Spin Again" win win 65 5 win win
+70 10 "Spin Again" tie tie 90 5 lose lose
+10 60 "Spin Again" lose lose 80 40 lose lose
+95 90 win win win 20 5 win win
+10 60 "Spin Again" lose lose 45 25 lose lose
+45 10 "Spin Again" lose lose 80 45 lose lose
+5 95 "Spin Again" win win 100 35 win win
+35 25 "Spin Again" lose lose 25 25 lose lose
+70 100 "Spin Again" lose lose 95 20 lose lose
+75 65 "Spin Again" lose lose 10 20 lose lose
+30 60 "Spin Again" win win 95 85 win win
+75 60 "Spin Again" lose lose 20 45 lose lose
+65 95 "Spin Again" lose lose 15 25 lose lose
+85 90 win win win 80 75 win win
+10 100 "Spin Again" lose lose 40 60 lose lose
+20 10 "Spin Again" lose lose 20 80 lose lose
+100 25 win win win 45 95 win win
+30 70 "Spin Again" win win 20 40 win win
+20 15 "Spin Again" lose lose 80 85 lose lose
+65 35 "Spin Again" win win 35 70 win win
+50 85 "Spin Again" lose lose 85 10 lose lose
+15 65 "Spin Again" tie tie 80 5 lose lose
+25 80 "Spin Again" lose lose 95 5 lose lose
+50 75 "Spin Again" lose lose 10 80 lose lose
+80 20 tie win tie 80 10 win lose
+65 15 "Spin Again" tie tie 95 40 lose lose
+10 15 "Spin Again" lose lose 30 65 lose lose
+15 10 "Spin Again" lose lose 50 5 lose lose
+70 65 "Spin Again" lose lose 100 15 lose lose
+60 30 "Spin Again" win win 65 5 win win
+35 50 "Spin Again" win win 80 65 win win
+75 55 "Spin Again" lose lose 75 25 lose lose
+40 10 "Spin Again" lose lose 90 80 lose lose
+40 50 "Spin Again" win win 70 40 win win
+50 20 "Spin Again" lose lose 35 75 lose lose
+50 5 "Spin Again" lose lose 15 60 lose lose
+80 70 tie lose tie 55 40 lose lose
+25 75 "Spin Again" win win 75 30 win win
+5 85 "Spin Again" win win 30 10 win win
+95 50 win win win 25 75 win win
+80 10 tie win tie 35 55 win win
+30 90 "Spin Again" lose lose 85 40 lose lose
+40 80 "Spin Again" lose lose 100 10 lose lose
+30 60 "Spin Again" win win 20 90 win win
+10 75 "Spin Again" win win 85 15 win win
+75 30 "Spin Again" lose lose 55 45 lose lose
+100 35 win win win 90 30 win win
+25 5 "Spin Again" lose lose 25 90 lose lose
+35 20 "Spin Again" lose lose 10 60 lose lose
+70 5 "Spin Again" lose lose 10 80 lose lose
+55 45 "Spin Again" win win 80 80 win win
+85 60 win win win 70 5 win win
+60 30 "Spin Again" win win 30 95 win win
+85 80 win win win 90 75 win win
+80 70 tie lose tie 60 85 lose win
+50 65 "Spin Again" lose lose 60 40 lose lose
+50 20 "Spin Again" lose lose 40 50 lose lose
+45 60 "Spin Again" lose lose 100 90 lose lose
+30 45 "Spin Again" lose lose 70 80 lose lose
+20 75 "Spin Again" win win 80 55 win win
+90 85 win win win 65 95 win win
+70 90 "Spin Again" lose lose 20 85 lose lose
+65 30 "Spin Again" win win 50 50 win win
+30 25 "Spin Again" lose lose 15 25 lose lose
+65 45 "Spin Again" lose lose 10 85 lose lose
+65 70 "Spin Again" lose lose 10 55 lose lose
+60 35 "Spin Again" win win 90 25 win win
+20 50 "Spin Again" lose lose 60 60 lose lose
+80 55 tie lose tie 25 30 lose win
+20 40 "Spin Again" lose lose 50 15 lose lose
+15 30 "Spin Again" lose lose 100 65 lose lose
+35 30 "Spin Again" lose lose 30 25 lose lose
+15 10 "Spin Again" lose lose 35 5 lose lose
+30 40 "Spin Again" lose lose 5 70 lose lose
+15 95 "Spin Again" lose lose 55 90 lose lose
+100 85 win win win 20 85 win win
+35 70 "Spin Again" lose lose 5 35 lose lose
+80 45 tie lose tie 50 85 lose win
+25 45 "Spin Again" lose lose 90 55 lose lose
+10 10 "Spin Again" lose lose 85 35 lose lose
+100 90 win win win 60 30 win win
+85 20 win win win 70 30 win win
+70 80 "Spin Again" lose lose 15 100 lose lose
+85 35 win win win 85 10 win win
+100 40 win win win 50 55 win win
+75 55 "Spin Again" lose lose 60 35 lose lose
+15 60 "Spin Again" lose lose 100 10 lose lose
+85 30 win win win 85 100 win win
+15 65 "Spin Again" tie tie 45 75 win win
+5 55 "Spin Again" lose lose 10 95 lose lose
+80 40 tie lose tie 65 40 lose lose
+45 35 "Spin Again" tie tie 85 95 win win
+30 10 "Spin Again" lose lose 10 25 lose lose
+15 100 "Spin Again" lose lose 35 40 lose lose
+30 25 "Spin Again" lose lose 20 80 lose lose
+70 80 "Spin Again" lose lose 55 95 lose lose
+40 15 "Spin Again" lose lose 75 60 lose lose
+45 80 "Spin Again" lose lose 90 95 lose lose
+75 50 "Spin Again" lose lose 95 5 lose lose
+90 35 win win win 5 75 win win
+35 60 "Spin Again" win win 95 25 win win
+85 100 win win win 40 70 win win
+50 15 "Spin Again" lose lose 50 25 lose lose
+45 5 "Spin Again" lose lose 30 60 lose lose
+55 70 "Spin Again" lose lose 5 80 lose lose
+85 35 win win win 70 95 win win
+25 95 "Spin Again" lose lose 25 65 lose lose
+95 5 win win win 75 40 win win
+70 40 "Spin Again" lose lose 100 25 lose lose
+55 40 "Spin Again" win win 20 20 win win
+85 35 win win win 70 65 win win
+35 50 "Spin Again" win win 60 80 win win
+80 20 tie win tie 10 50 win win
+35 50 "Spin Again" win win 20 25 win win
+55 85 "Spin Again" lose lose 10 80 lose lose
+75 45 "Spin Again" lose lose 40 25 lose lose
+85 10 win win win 15 5 win win
+80 55 tie lose tie 95 70 lose lose
+25 70 "Spin Again" win win 15 100 win win
+35 45 "Spin Again" tie tie 15 40 win win
+70 75 "Spin Again" lose lose 95 45 lose lose
+45 75 "Spin Again" lose lose 85 55 lose lose
+15 25 "Spin Again" lose lose 90 45 lose lose
+35 50 "Spin Again" win win 65 20 win win
+35 85 "Spin Again" lose lose 10 60 lose lose
+100 70 win win win 55 30 win win
+45 95 "Spin Again" lose lose 100 10 lose lose
+65 15 "Spin Again" tie tie 20 25 win win
+75 85 "Spin Again" lose lose 25 30 lose lose
+65 60 "Spin Again" lose lose 25 35 lose lose
+100 95 win win win 5 40 win win
+25 65 "Spin Again" win win 90 75 win win
+15 70 "Spin Again" win win 10 70 win win
+15 40 "Spin Again" lose lose 60 40 lose lose
+30 50 "Spin Again" tie tie 60 40 lose lose
+45 40 "Spin Again" win win 55 95 win win
+60 20 "Spin Again" tie tie 90 40 lose lose
+35 45 "Spin Again" tie tie 50 80 win win
+55 10 "Spin Again" lose lose 20 45 lose lose
+65 20 "Spin Again" win win 90 100 win win
+25 40 "Spin Again" lose lose 50 90 lose lose
+5 60 "Spin Again" lose lose 50 80 lose lose
+35 55 "Spin Again" win win 50 85 win win
+20 30 "Spin Again" lose lose 90 75 lose lose
+75 15 "Spin Again" win win 80 75 win win
+80 85 tie lose tie 20 35 lose win
+90 90 win win win 15 80 win win
+35 55 "Spin Again" win win 20 100 win win
+90 65 win win win 5 75 win win
+10 50 "Spin Again" lose lose 65 15 lose lose
+10 20 "Spin Again" lose lose 10 100 lose lose
+5 5 "Spin Again" lose lose 20 50 lose lose
+70 35 "Spin Again" lose lose 45 70 lose lose
+100 30 win win win 85 55 win win
+10 70 "Spin Again" tie tie 60 50 lose lose
+90 20 win win win 75 90 win win
+30 20 "Spin Again" lose lose 10 10 lose lose
+95 50 win win win 45 25 win win
+60 35 "Spin Again" win win 65 75 win win
+50 85 "Spin Again" lose lose 15 70 lose lose
+100 35 win win win 5 10 win win
+100 85 win win win 60 95 win win
+30 65 "Spin Again" win win 90 50 win win
+95 35 win win win 75 35 win win
+35 15 "Spin Again" lose lose 40 30 lose lose
+85 65 win win win 85 15 win win
+90 15 win win win 45 5 win win
+70 15 "Spin Again" win win 55 65 win win
+40 55 "Spin Again" win win 80 75 win win
+40 65 "Spin Again" lose lose 20 95 lose lose
+15 80 "Spin Again" win win 15 95 win win
+100 90 win win win 20 75 win win
+95 10 win win win 15 10 win win
+10 10 "Spin Again" lose lose 40 20 lose lose
+85 10 win win win 30 10 win win
+65 5 "Spin Again" lose lose 90 50 lose lose
+95 95 win win win 85 50 win win
+55 20 "Spin Again" lose lose 65 80 lose lose
+25 15 "Spin Again" lose lose 60 55 lose lose
+65 50 "Spin Again" lose lose 95 85 lose lose
+10 85 "Spin Again" win win 35 10 win win
+80 15 tie win tie 100 85 win lose
+70 30 "Spin Again" win win 55 95 win win
+10 25 "Spin Again" lose lose 85 60 lose lose
+45 5 "Spin Again" lose lose 75 95 lose lose
+25 55 "Spin Again" tie tie 35 85 win win
+65 60 "Spin Again" lose lose 55 80 lose lose
+55 95 "Spin Again" lose lose 25 10 lose lose
+45 30 "Spin Again" lose lose 30 65 lose lose
+20 50 "Spin Again" lose lose 80 95 lose lose
+80 10 tie win tie 90 95 win win
+30 15 "Spin Again" lose lose 15 70 lose lose
+65 70 "Spin Again" lose lose 45 20 lose lose
+100 5 win win win 95 35 win win
+25 35 "Spin Again" lose lose 25 85 lose lose
+60 45 "Spin Again" lose lose 5 30 lose lose
+40 55 "Spin Again" win win 85 95 win win
+95 80 win win win 45 70 win win
+45 25 "Spin Again" lose lose 50 35 lose lose
+75 30 "Spin Again" lose lose 10 30 lose lose
+75 35 "Spin Again" lose lose 25 45 lose lose
+15 20 "Spin Again" lose lose 35 80 lose lose
+45 90 "Spin Again" lose lose 45 25 lose lose
+55 10 "Spin Again" lose lose 75 25 lose lose
+75 85 "Spin Again" lose lose 25 25 lose lose
+90 60 win win win 95 95 win win
+90 50 win win win 95 35 win win
+40 20 "Spin Again" lose lose 50 5 lose lose
+65 85 "Spin Again" lose lose 25 10 lose lose
+70 20 "Spin Again" win win 95 15 win win
+90 40 win win win 5 65 win win
+45 85 "Spin Again" lose lose 40 30 lose lose
+90 70 win win win 25 85 win win
+15 45 "Spin Again" lose lose 85 55 lose lose
+5 30 "Spin Again" lose lose 20 85 lose lose
+95 45 win win win 30 25 win win
+75 95 "Spin Again" lose lose 30 15 lose lose
+15 20 "Spin Again" lose lose 75 15 lose lose
+10 10 "Spin Again" lose lose 5 100 lose lose
+25 80 "Spin Again" lose lose 75 30 lose lose
+80 20 tie win tie 60 85 win win
+60 40 "Spin Again" win win 55 40 win win
+65 20 "Spin Again" win win 25 70 win win
+90 100 win win win 75 45 win win
+25 100 "Spin Again" lose lose 75 75 lose lose
+95 55 win win win 60 55 win win
+30 55 "Spin Again" win win 85 80 win win
+85 85 win win win 35 35 win win
+15 95 "Spin Again" lose lose 45 65 lose lose
+50 5 "Spin Again" lose lose 45 30 lose lose
+30 70 "Spin Again" win win 50 90 win win
+40 5 "Spin Again" lose lose 30 85 lose lose
+10 75 "Spin Again" win win 100 35 win win
+90 80 win win win 50 80 win win
+15 30 "Spin Again" lose lose 100 25 lose lose
+5 30 "Spin Again" lose lose 15 45 lose lose
+40 80 "Spin Again" lose lose 75 60 lose lose
+35 35 "Spin Again" lose lose 40 90 lose lose
+60 90 "Spin Again" lose lose 20 20 lose lose
+80 80 tie lose tie 40 15 lose lose
+30 35 "Spin Again" lose lose 10 95 lose lose
+30 40 "Spin Again" lose lose 90 25 lose lose
+85 35 win win win 15 95 win win
+55 25 "Spin Again" tie tie 45 85 win win
+15 75 "Spin Again" win win 30 95 win win
+45 30 "Spin Again" lose lose 85 55 lose lose
+20 45 "Spin Again" lose lose 40 25 lose lose
+20 20 "Spin Again" lose lose 95 20 lose lose
+15 85 "Spin Again" win win 90 65 win win
+5 30 "Spin Again" lose lose 20 95 lose lose
+100 50 win win win 10 45 win win
+25 15 "Spin Again" lose lose 30 70 lose lose
+40 70 "Spin Again" lose lose 60 90 lose lose
+55 55 "Spin Again" lose lose 75 75 lose lose
+30 25 "Spin Again" lose lose 5 90 lose lose
+75 15 "Spin Again" win win 30 80 win win
+60 55 "Spin Again" lose lose 20 75 lose lose
+5 55 "Spin Again" lose lose 30 90 lose lose
+60 55 "Spin Again" lose lose 65 95 lose lose
+10 30 "Spin Again" lose lose 25 25 lose lose
+90 80 win win win 65 75 win win
+50 60 "Spin Again" lose lose 50 90 lose lose
+75 50 "Spin Again" lose lose 55 50 lose lose
+60 80 "Spin Again" lose lose 35 45 lose lose
+55 70 "Spin Again" lose lose 35 80 lose lose
+40 35 "Spin Again" lose lose 95 25 lose lose
+15 40 "Spin Again" lose lose 25 25 lose lose
+90 35 win win win 55 5 win win
+60 5 "Spin Again" lose lose 35 5 lose lose
+85 15 win win win 5 90 win win
+55 80 "Spin Again" lose lose 45 20 lose lose
+95 65 win win win 5 35 win win
+45 100 "Spin Again" lose lose 30 25 lose lose
+25 5 "Spin Again" lose lose 55 50 lose lose
+95 35 win win win 50 15 win win
+70 30 "Spin Again" win win 80 5 win win
+5 80 "Spin Again" win win 10 45 win win
+15 70 "Spin Again" win win 20 85 win win
+20 95 "Spin Again" lose lose 55 95 lose lose
+75 25 "Spin Again" win win 55 50 win win
+75 15 "Spin Again" win win 85 35 win win
+45 20 "Spin Again" lose lose 70 75 lose lose
+15 60 "Spin Again" lose lose 15 5 lose lose
+45 85 "Spin Again" lose lose 60 75 lose lose
+5 65 "Spin Again" lose lose 55 90 lose lose
+100 70 win win win 50 15 win win
+30 30 "Spin Again" lose lose 45 10 lose lose
+5 90 "Spin Again" win win 80 45 win win
+45 70 "Spin Again" lose lose 100 30 lose lose
+30 5 "Spin Again" lose lose 5 20 lose lose
+10 35 "Spin Again" lose lose 55 80 lose lose
+90 65 win win win 25 80 win win
+30 90 "Spin Again" lose lose 85 65 lose lose
+30 75 "Spin Again" lose lose 85 10 lose lose
+5 80 "Spin Again" win win 10 35 win win
+55 25 "Spin Again" tie tie 90 50 lose lose
+75 70 "Spin Again" lose lose 15 65 lose lose
+60 10 "Spin Again" lose lose 95 30 lose lose
+70 70 "Spin Again" lose lose 30 15 lose lose
+85 55 win win win 50 15 win win
+85 60 win win win 50 10 win win
+45 40 "Spin Again" win win 50 100 win win
+85 35 win win win 5 65 win win
+70 25 "Spin Again" win win 60 100 win win
+80 55 tie lose tie 90 35 lose lose
+10 45 "Spin Again" lose lose 50 60 lose lose
+80 65 tie lose tie 85 20 lose lose
+60 55 "Spin Again" lose lose 30 40 lose lose
+15 20 "Spin Again" lose lose 55 75 lose lose
+65 80 "Spin Again" lose lose 75 20 lose lose
+10 20 "Spin Again" lose lose 55 95 lose lose
+55 60 "Spin Again" lose lose 5 50 lose lose
+40 5 "Spin Again" lose lose 90 55 lose lose
+35 60 "Spin Again" win win 25 100 win win
+65 25 "Spin Again" win win 40 25 win win
+5 20 "Spin Again" lose lose 70 70 lose lose
+55 75 "Spin Again" lose lose 40 50 lose lose
+55 35 "Spin Again" win win 25 100 win win
+80 95 tie lose tie 40 90 lose win
+65 45 "Spin Again" lose lose 20 80 lose lose
+95 5 win win win 35 35 win win
+50 90 "Spin Again" lose lose 40 55 lose lose
+55 85 "Spin Again" lose lose 70 15 lose lose
+70 70 "Spin Again" lose lose 95 85 lose lose
+35 45 "Spin Again" tie tie 90 5 lose lose
+100 95 win win win 45 10 win win
+50 55 "Spin Again" lose lose 95 95 lose lose
+60 10 "Spin Again" lose lose 85 75 lose lose
+10 85 "Spin Again" win win 55 20 win win
+85 75 win win win 75 100 win win
+25 100 "Spin Again" lose lose 70 55 lose lose
+15 80 "Spin Again" win win 20 30 win win
+70 30 "Spin Again" win win 15 10 win win
+75 5 "Spin Again" tie tie 35 40 win win
+15 20 "Spin Again" lose lose 20 70 lose lose
+45 70 "Spin Again" lose lose 15 15 lose lose
+15 85 "Spin Again" win win 65 40 win win
+45 50 "Spin Again" win win 70 60 win win
+70 15 "Spin Again" win win 10 10 win win
+95 40 win win win 80 55 win win
+50 55 "Spin Again" lose lose 75 35 lose lose
+50 80 "Spin Again" lose lose 5 75 lose lose
+95 40 win win win 55 75 win win
+85 40 win win win 60 70 win win
+45 10 "Spin Again" lose lose 15 100 lose lose
+5 55 "Spin Again" lose lose 70 90 lose lose
+85 70 win win win 40 15 win win
+80 100 tie lose tie 35 10 lose lose
+50 45 "Spin Again" win win 95 5 win win
+25 55 "Spin Again" tie tie 35 80 win win
+45 40 "Spin Again" win win 80 65 win win
+20 45 "Spin Again" lose lose 100 15 lose lose
+10 25 "Spin Again" lose lose 35 80 lose lose
+40 75 "Spin Again" lose lose 25 55 lose lose
+40 55 "Spin Again" win win 15 65 win win
+80 10 tie win tie 95 20 win lose
+55 5 "Spin Again" lose lose 65 85 lose lose
+100 65 win win win 90 70 win win
+55 80 "Spin Again" lose lose 10 25 lose lose
+35 50 "Spin Again" win win 20 15 win win
+65 95 "Spin Again" lose lose 20 20 lose lose
+90 15 win win win 25 30 win win
+45 40 "Spin Again" win win 75 50 win win
+45 35 "Spin Again" tie tie 30 70 win win
+40 90 "Spin Again" lose lose 25 5 lose lose
+90 70 win win win 40 50 win win
+65 40 "Spin Again" lose lose 80 45 lose lose
+40 100 "Spin Again" lose lose 30 65 lose lose
+45 90 "Spin Again" lose lose 45 60 lose lose
+55 5 "Spin Again" lose lose 50 5 lose lose
+75 60 "Spin Again" lose lose 20 80 lose lose
+30 35 "Spin Again" lose lose 15 100 lose lose
+45 90 "Spin Again" lose lose 95 95 lose lose
+40 90 "Spin Again" lose lose 15 55 lose lose
+95 100 win win win 10 10 win win
+10 5 "Spin Again" lose lose 85 5 lose lose
+5 80 "Spin Again" win win 30 90 win win
+5 35 "Spin Again" lose lose 80 55 lose lose
+35 40 "Spin Again" lose lose 45 40 lose lose
+80 50 tie lose tie 70 15 lose lose
+55 30 "Spin Again" win win 55 65 win win
+85 80 win win win 55 20 win win
+40 25 "Spin Again" lose lose 25 40 lose lose
+95 50 win win win 65 45 win win
+35 20 "Spin Again" lose lose 5 60 lose lose
+35 5 "Spin Again" lose lose 85 10 lose lose
+85 80 win win win 15 20 win win
+65 50 "Spin Again" lose lose 85 65 lose lose
+70 70 "Spin Again" lose lose 30 10 lose lose
+75 35 "Spin Again" lose lose 35 50 lose lose
+45 70 "Spin Again" lose lose 5 30 lose lose
+60 65 "Spin Again" lose lose 40 90 lose lose
+95 45 win win win 20 80 win win
+70 60 "Spin Again" lose lose 50 10 lose lose
+40 30 "Spin Again" lose lose 15 65 lose lose
+90 85 win win win 100 100 win win
+30 100 "Spin Again" lose lose 20 60 lose lose
+65 45 "Spin Again" lose lose 60 65 lose lose
+100 65 win win win 80 60 win win
+55 70 "Spin Again" lose lose 70 15 lose lose
+90 90 win win win 10 5 win win
+60 80 "Spin Again" lose lose 55 75 lose lose
+85 45 win win win 100 55 win win
+25 75 "Spin Again" win win 25 40 win win
+80 65 tie lose tie 65 50 lose lose
+95 50 win win win 90 10 win win
+10 20 "Spin Again" lose lose 100 10 lose lose
+90 10 win win win 40 60 win win
+85 10 win win win 45 90 win win
+30 70 "Spin Again" win win 10 10 win win
+5 5 "Spin Again" lose lose 40 10 lose lose
+70 35 "Spin Again" lose lose 40 45 lose lose
+100 60 win win win 30 10 win win
+70 30 "Spin Again" win win 50 100 win win
+40 65 "Spin Again" lose lose 20 20 lose lose
+90 75 win win win 25 40 win win
+100 80 win win win 45 50 win win
+80 20 tie win tie 85 55 win lose
+100 75 win win win 95 75 win win
+45 55 "Spin Again" win win 30 15 win win
+95 80 win win win 10 10 win win
+70 75 "Spin Again" lose lose 70 60 lose lose
+60 30 "Spin Again" win win 55 70 win win
+30 90 "Spin Again" lose lose 10 55 lose lose
+30 40 "Spin Again" lose lose 20 60 lose lose
+60 70 "Spin Again" lose lose 30 10 lose lose
+35 20 "Spin Again" lose lose 35 25 lose lose
+10 45 "Spin Again" lose lose 95 35 lose lose
+40 25 "Spin Again" lose lose 30 20 lose lose
+35 5 "Spin Again" lose lose 100 55 lose lose
+35 5 "Spin Again" lose lose 70 85 lose lose
+35 10 "Spin Again" lose lose 50 95 lose lose
+65 15 "Spin Again" tie tie 35 75 win win
+50 25 "Spin Again" lose lose 95 5 lose lose
+65 95 "Spin Again" lose lose 75 45 lose lose
+30 90 "Spin Again" lose lose 95 35 lose lose
+65 70 "Spin Again" lose lose 60 15 lose lose
+5 95 "Spin Again" win win 70 60 win win
+60 45 "Spin Again" lose lose 40 20 lose lose
+10 35 "Spin Again" lose lose 40 70 lose lose
+25 60 "Spin Again" win win 10 15 win win
+10 55 "Spin Again" lose lose 20 40 lose lose
+5 70 "Spin Again" lose lose 65 15 lose lose
+60 75 "Spin Again" lose lose 65 25 lose lose
+25 60 "Spin Again" win win 100 95 win win
+55 85 "Spin Again" lose lose 15 15 lose lose
+50 25 "Spin Again" lose lose 5 90 lose lose
+80 15 tie win tie 75 55 win lose
+70 20 "Spin Again" win win 55 40 win win
+75 30 "Spin Again" lose lose 30 55 lose lose
+55 30 "Spin Again" win win 95 25 win win
+50 80 "Spin Again" lose lose 95 45 lose lose
+100 5 win win win 70 30 win win
+45 50 "Spin Again" win win 40 75 win win
+40 75 "Spin Again" lose lose 60 20 lose lose
+65 100 "Spin Again" lose lose 15 80 lose lose
+70 50 "Spin Again" lose lose 15 75 lose lose
+25 30 "Spin Again" lose lose 30 90 lose lose
+75 5 "Spin Again" tie tie 20 15 lose lose
+15 85 "Spin Again" win win 40 45 win win
+80 5 tie win tie 35 95 win win
+85 75 win win win 85 95 win win
+40 35 "Spin Again" lose lose 5 70 lose lose
+25 20 "Spin Again" lose lose 80 20 lose lose
+20 100 "Spin Again" lose lose 85 80 lose lose
+15 60 "Spin Again" lose lose 30 55 lose lose
+60 10 "Spin Again" lose lose 45 85 lose lose
+95 20 win win win 15 45 win win
+60 20 "Spin Again" tie tie 60 25 lose lose
+45 80 "Spin Again" lose lose 60 95 lose lose
+50 10 "Spin Again" lose lose 80 5 lose lose
+80 80 tie lose tie 10 10 lose tie
+20 65 "Spin Again" win win 30 20 win win
+95 35 win win win 50 30 win win
+80 55 tie lose tie 15 90 lose win
+95 25 win win win 15 15 win win
+45 45 "Spin Again" win win 15 35 win win
+95 75 win win win 45 70 win win
+55 30 "Spin Again" win win 85 5 win win
+100 20 win win win 80 15 win win
+15 65 "Spin Again" tie tie 25 95 win win
+30 35 "Spin Again" lose lose 70 30 lose lose
+5 100 "Spin Again" lose lose 55 75 lose lose
+95 75 win win win 40 50 win win
+80 70 tie lose tie 80 50 lose lose
+65 45 "Spin Again" lose lose 65 40 lose lose
+25 15 "Spin Again" lose lose 65 5 lose lose
+5 75 "Spin Again" tie tie 80 75 lose lose
+60 15 "Spin Again" lose lose 50 80 lose lose
+65 75 "Spin Again" lose lose 15 100 lose lose
+50 5 "Spin Again" lose lose 30 75 lose lose
+45 5 "Spin Again" lose lose 5 50 lose lose
+35 65 "Spin Again" win win 100 55 win win
+70 40 "Spin Again" lose lose 45 70 lose lose
+45 75 "Spin Again" lose lose 15 45 lose lose
+15 65 "Spin Again" tie tie 40 85 win win
+100 10 win win win 30 10 win win
+15 10 "Spin Again" lose lose 35 35 lose lose
+75 70 "Spin Again" lose lose 40 10 lose lose
+60 80 "Spin Again" lose lose 75 40 lose lose
+55 80 "Spin Again" lose lose 80 30 lose lose
+20 60 "Spin Again" tie tie 30 65 win win
+10 50 "Spin Again" lose lose 5 80 lose lose
+15 65 "Spin Again" tie tie 5 65 win win
+35 10 "Spin Again" lose lose 45 10 lose lose
+80 65 tie lose tie 25 50 lose win
+100 15 win win win 50 20 win win
+80 85 tie lose tie 20 50 lose win
+80 10 tie win tie 95 20 win lose
+85 90 win win win 70 90 win win
+70 40 "Spin Again" lose lose 55 20 lose lose
+65 30 "Spin Again" win win 80 25 win win
+15 55 "Spin Again" lose lose 40 85 lose lose
+15 15 "Spin Again" lose lose 75 25 lose lose
+85 30 win win win 30 40 win win
+100 90 win win win 35 15 win win
+75 25 "Spin Again" win win 30 45 win win
+100 35 win win win 15 60 win win
+55 65 "Spin Again" lose lose 45 65 lose lose
+10 15 "Spin Again" lose lose 50 60 lose lose
+30 30 "Spin Again" lose lose 25 70 lose lose
+10 55 "Spin Again" lose lose 30 90 lose lose
+55 50 "Spin Again" lose lose 75 5 lose lose
+100 60 win win win 10 20 win win
+90 35 win win win 55 65 win win
+95 50 win win win 35 85 win win
+15 90 "Spin Again" lose lose 5 15 lose lose
+85 95 win win win 85 55 win win
+70 15 "Spin Again" win win 30 65 win win
+90 70 win win win 50 90 win win
+10 25 "Spin Again" lose lose 95 65 lose lose
+65 90 "Spin Again" lose lose 70 80 lose lose
+90 50 win win win 55 10 win win
+20 100 "Spin Again" lose lose 20 75 lose lose
+45 10 "Spin Again" lose lose 25 85 lose lose
+70 30 "Spin Again" win win 5 50 win win
+100 60 win win win 50 25 win win
+85 50 win win win 65 60 win win
+50 35 "Spin Again" win win 80 70 win win
+50 15 "Spin Again" lose lose 50 85 lose lose
+20 55 "Spin Again" lose lose 35 15 lose lose
+85 80 win win win 10 5 win win
+70 85 "Spin Again" lose lose 5 65 lose lose
+55 40 "Spin Again" win win 100 60 win win
+80 40 tie lose tie 90 85 lose lose
+100 30 win win win 85 25 win win
+95 40 win win win 80 50 win win
+70 65 "Spin Again" lose lose 55 40 lose lose
+65 65 "Spin Again" lose lose 40 35 lose lose
+35 25 "Spin Again" lose lose 35 5 lose lose
+75 40 "Spin Again" lose lose 5 90 lose lose
+60 50 "Spin Again" lose lose 85 100 lose lose
+55 60 "Spin Again" lose lose 80 95 lose lose
+25 65 "Spin Again" win win 20 85 win win
+30 10 "Spin Again" lose lose 20 55 lose lose
+20 45 "Spin Again" lose lose 40 80 lose lose
+10 20 "Spin Again" lose lose 5 40 lose lose
+15 100 "Spin Again" lose lose 10 55 lose lose
+75 5 "Spin Again" tie tie 80 90 win win
+65 10 "Spin Again" lose lose 50 75 lose lose
+25 95 "Spin Again" lose lose 35 30 lose lose
+75 15 "Spin Again" win win 35 95 win win
+40 10 "Spin Again" lose lose 40 95 lose lose
+40 70 "Spin Again" lose lose 100 35 lose lose
+35 65 "Spin Again" win win 25 55 win win
+65 75 "Spin Again" lose lose 20 10 lose lose
+80 30 tie lose tie 90 90 lose tie
+100 30 win win win 25 10 win win
+100 25 win win win 75 60 win win
+70 20 "Spin Again" win win 85 15 win win
+60 10 "Spin Again" lose lose 75 40 lose lose
+100 5 win win win 35 60 win win
+60 55 "Spin Again" lose lose 95 45 lose lose
+20 45 "Spin Again" lose lose 20 65 lose lose
+85 35 win win win 85 45 win win
+20 20 "Spin Again" lose lose 35 90 lose lose
+15 90 "Spin Again" lose lose 50 40 lose lose
+25 30 "Spin Again" lose lose 45 65 lose lose
+25 20 "Spin Again" lose lose 65 30 lose lose
+15 35 "Spin Again" lose lose 65 15 lose lose
+65 20 "Spin Again" win win 45 50 win win
+55 15 "Spin Again" lose lose 30 10 lose lose
+30 60 "Spin Again" win win 80 90 win win
+55 20 "Spin Again" lose lose 90 75 lose lose
+90 30 win win win 85 40 win win
+10 20 "Spin Again" lose lose 10 100 lose lose
+30 85 "Spin Again" lose lose 90 50 lose lose
+90 5 win win win 20 5 win win
+60 20 "Spin Again" tie tie 20 65 win win
+65 60 "Spin Again" lose lose 60 20 lose lose
+5 95 "Spin Again" win win 10 35 win win
+80 5 tie win tie 45 65 win win
+45 55 "Spin Again" win win 100 85 win win
+85 10 win win win 95 80 win win
+5 25 "Spin Again" lose lose 25 70 lose lose
+15 30 "Spin Again" lose lose 55 70 lose lose
+100 5 win win win 65 80 win win
+70 60 "Spin Again" lose lose 100 10 lose lose
+35 50 "Spin Again" win win 80 5 win win
+100 45 win win win 95 20 win win
+95 95 win win win 10 60 win win
+20 40 "Spin Again" lose lose 70 45 lose lose
+70 85 "Spin Again" lose lose 70 5 lose lose
+60 90 "Spin Again" lose lose 50 40 lose lose
+70 75 "Spin Again" lose lose 10 20 lose lose
+60 55 "Spin Again" lose lose 55 40 lose lose
+85 15 win win win 45 60 win win
+80 20 tie win tie 60 35 win lose
+50 90 "Spin Again" lose lose 95 20 lose lose
+25 40 "Spin Again" lose lose 65 10 lose lose
+30 45 "Spin Again" lose lose 70 25 lose lose
+30 40 "Spin Again" lose lose 35 30 lose lose
+25 70 "Spin Again" win win 5 35 win win
+55 5 "Spin Again" lose lose 70 75 lose lose
+65 40 "Spin Again" lose lose 45 10 lose lose
+20 90 "Spin Again" lose lose 90 90 lose lose
+45 35 "Spin Again" tie tie 85 45 lose lose
+90 85 win win win 15 50 win win
+45 90 "Spin Again" lose lose 65 50 lose lose
+45 25 "Spin Again" lose lose 25 20 lose lose
+75 25 "Spin Again" win win 40 15 win win
+15 35 "Spin Again" lose lose 70 20 lose lose
+30 80 "Spin Again" lose lose 65 20 lose lose
+100 20 win win win 60 20 win win
+50 10 "Spin Again" lose lose 75 10 lose lose
+5 100 "Spin Again" lose lose 85 5 lose lose
+35 60 "Spin Again" win win 5 50 win win
+10 70 "Spin Again" tie tie 30 60 win win
+35 85 "Spin Again" lose lose 65 25 lose lose
+55 50 "Spin Again" lose lose 80 80 lose lose
+30 15 "Spin Again" lose lose 5 65 lose lose
+70 80 "Spin Again" lose lose 80 75 lose lose
+100 20 win win win 75 5 win win
+60 10 "Spin Again" lose lose 15 80 lose lose
+65 10 "Spin Again" lose lose 55 85 lose lose
+10 65 "Spin Again" lose lose 20 60 lose lose
+25 80 "Spin Again" lose lose 75 10 lose lose
+40 30 "Spin Again" lose lose 85 100 lose lose
+5 5 "Spin Again" lose lose 10 85 lose lose
+35 40 "Spin Again" lose lose 25 15 lose lose
+30 25 "Spin Again" lose lose 90 70 lose lose
+100 80 win win win 85 65 win win
+50 55 "Spin Again" lose lose 75 70 lose lose
+20 5 "Spin Again" lose lose 40 85 lose lose
+50 20 "Spin Again" lose lose 90 65 lose lose
+45 25 "Spin Again" lose lose 85 60 lose lose
+25 100 "Spin Again" lose lose 5 40 lose lose
+85 55 win win win 30 85 win win
+100 30 win win win 40 90 win win
+35 45 "Spin Again" tie tie 40 25 lose lose
+85 75 win win win 95 90 win win
+55 40 "Spin Again" win win 85 5 win win
+100 10 win win win 80 10 win win
+5 10 "Spin Again" lose lose 45 10 lose lose
+35 50 "Spin Again" win win 80 90 win win
+85 80 win win win 50 15 win win
+65 85 "Spin Again" lose lose 95 75 lose lose
+20 20 "Spin Again" lose lose 75 70 lose lose
+25 75 "Spin Again" win win 40 10 win win
+50 95 "Spin Again" lose lose 35 80 lose lose
+30 65 "Spin Again" win win 40 45 win win
+60 40 "Spin Again" win win 50 85 win win
+90 75 win win win 15 45 win win
+40 55 "Spin Again" win win 70 95 win win
+5 10 "Spin Again" lose lose 40 15 lose lose
+40 50 "Spin Again" win win 90 40 win win
+30 70 "Spin Again" win win 65 65 win win
+70 55 "Spin Again" lose lose 35 90 lose lose
+75 10 "Spin Again" win win 70 50 win win
+50 50 "Spin Again" win win 5 40 win win
+20 25 "Spin Again" lose lose 90 85 lose lose
+40 70 "Spin Again" lose lose 55 10 lose lose
+5 15 "Spin Again" lose lose 5 35 lose lose
+55 35 "Spin Again" win win 80 70 win win
+100 75 win win win 70 30 win win
+70 50 "Spin Again" lose lose 60 80 lose lose
+70 25 "Spin Again" win win 95 25 win win
+30 95 "Spin Again" lose lose 80 95 lose lose
+65 70 "Spin Again" lose lose 90 80 lose lose
+25 10 "Spin Again" lose lose 95 20 lose lose
+85 30 win win win 80 5 win win
+35 20 "Spin Again" lose lose 80 15 lose lose
+85 15 win win win 75 55 win win
+40 35 "Spin Again" lose lose 85 90 lose lose
+60 45 "Spin Again" lose lose 25 60 lose lose
+30 20 "Spin Again" lose lose 5 75 lose lose
+45 20 "Spin Again" lose lose 90 70 lose lose
+55 80 "Spin Again" lose lose 65 100 lose lose
+20 20 "Spin Again" lose lose 100 60 lose lose
+90 70 win win win 95 15 win win
+50 5 "Spin Again" lose lose 100 40 lose lose
+45 5 "Spin Again" lose lose 60 95 lose lose
+10 40 "Spin Again" lose lose 20 10 lose lose
+20 30 "Spin Again" lose lose 75 65 lose lose
+45 75 "Spin Again" lose lose 85 45 lose lose
+50 10 "Spin Again" lose lose 80 40 lose lose
+55 35 "Spin Again" win win 25 80 win win
+50 35 "Spin Again" win win 65 30 win win
+5 85 "Spin Again" win win 10 90 win win
+15 35 "Spin Again" lose lose 25 65 lose lose
+65 5 "Spin Again" lose lose 35 60 lose lose
+40 50 "Spin Again" win win 15 65 win win
+65 65 "Spin Again" lose lose 85 5 lose lose
+35 65 "Spin Again" win win 50 90 win win
+50 80 "Spin Again" lose lose 95 55 lose lose
+55 90 "Spin Again" lose lose 65 20 lose lose
+65 10 "Spin Again" lose lose 50 60 lose lose
+70 100 "Spin Again" lose lose 70 10 lose lose
+60 70 "Spin Again" lose lose 40 30 lose lose
+35 45 "Spin Again" tie tie 5 65 win win
+30 65 "Spin Again" win win 80 85 win win
+10 85 "Spin Again" win win 80 85 win win
+20 20 "Spin Again" lose lose 60 50 lose lose
+15 70 "Spin Again" win win 20 95 win win
+15 5 "Spin Again" lose lose 60 95 lose lose
+80 25 tie lose tie 55 55 lose tie
+65 80 "Spin Again" lose lose 20 30 lose lose
+45 45 "Spin Again" win win 90 95 win win
+45 75 "Spin Again" lose lose 95 70 lose lose
+5 75 "Spin Again" tie tie 15 100 win win
+70 70 "Spin Again" lose lose 20 15 lose lose
+55 50 "Spin Again" lose lose 10 20 lose lose
+65 60 "Spin Again" lose lose 65 25 lose lose
+5 80 "Spin Again" win win 15 90 win win
+50 35 "Spin Again" win win 55 25 win win
+85 40 win win win 60 10 win win
+10 70 "Spin Again" tie tie 30 5 lose lose
+70 5 "Spin Again" lose lose 45 75 lose lose
+60 50 "Spin Again" lose lose 90 5 lose lose
+5 55 "Spin Again" lose lose 90 40 lose lose
+35 85 "Spin Again" lose lose 50 55 lose lose
+55 35 "Spin Again" win win 70 70 win win
+35 95 "Spin Again" lose lose 85 15 lose lose
+15 25 "Spin Again" lose lose 30 100 lose lose
+25 45 "Spin Again" lose lose 60 70 lose lose
+15 35 "Spin Again" lose lose 100 85 lose lose
+45 60 "Spin Again" lose lose 15 75 lose lose
+70 100 "Spin Again" lose lose 5 30 lose lose
+15 35 "Spin Again" lose lose 30 30 lose lose
+5 65 "Spin Again" lose lose 40 80 lose lose
+25 85 "Spin Again" lose lose 65 15 lose lose
+90 25 win win win 95 25 win win
+75 15 "Spin Again" win win 75 25 win win
+50 30 "Spin Again" tie tie 20 95 win win
+60 50 "Spin Again" lose lose 100 55 lose lose
+50 75 "Spin Again" lose lose 35 30 lose lose
+65 80 "Spin Again" lose lose 70 10 lose lose
+75 80 "Spin Again" lose lose 80 25 lose lose
+20 70 "Spin Again" win win 100 75 win win
+60 45 "Spin Again" lose lose 40 70 lose lose
+65 50 "Spin Again" lose lose 90 85 lose lose
+95 10 win win win 95 20 win win
+80 10 tie win tie 85 10 win lose
+40 35 "Spin Again" lose lose 20 95 lose lose
+5 35 "Spin Again" lose lose 15 60 lose lose
+35 20 "Spin Again" lose lose 100 30 lose lose
+55 35 "Spin Again" win win 15 100 win win
+15 80 "Spin Again" win win 100 90 win win
+25 5 "Spin Again" lose lose 90 95 lose lose
+95 20 win win win 45 15 win win
+95 50 win win win 50 60 win win
+70 35 "Spin Again" lose lose 5 55 lose lose
+5 40 "Spin Again" lose lose 5 15 lose lose
+55 15 "Spin Again" lose lose 10 35 lose lose
+100 85 win win win 95 75 win win
+45 35 "Spin Again" tie tie 75 70 lose lose
+30 55 "Spin Again" win win 85 85 win win
+55 85 "Spin Again" lose lose 50 20 lose lose
+90 5 win win win 15 20 win win
+40 10 "Spin Again" lose lose 90 60 lose lose
+90 100 win win win 15 20 win win
+40 55 "Spin Again" win win 65 90 win win
+25 40 "Spin Again" lose lose 25 30 lose lose
+20 70 "Spin Again" win win 40 100 win win
+60 40 "Spin Again" win win 5 20 win win
+65 5 "Spin Again" lose lose 70 90 lose lose
+50 30 "Spin Again" tie tie 50 75 win win
+20 60 "Spin Again" tie tie 80 70 lose lose
+55 90 "Spin Again" lose lose 70 60 lose lose
+85 20 win win win 5 100 win win
+20 35 "Spin Again" lose lose 45 95 lose lose
+40 25 "Spin Again" lose lose 20 20 lose lose
+100 25 win win win 60 85 win win
+60 75 "Spin Again" lose lose 70 40 lose lose
+35 20 "Spin Again" lose lose 20 95 lose lose
+55 85 "Spin Again" lose lose 60 5 lose lose
+70 95 "Spin Again" lose lose 50 65 lose lose
+35 100 "Spin Again" lose lose 25 5 lose lose
+70 45 "Spin Again" lose lose 100 75 lose lose
+70 85 "Spin Again" lose lose 35 25 lose lose
+10 30 "Spin Again" lose lose 40 15 lose lose
+20 65 "Spin Again" win win 65 80 win win
+100 100 win win win 45 55 win win
+15 45 "Spin Again" lose lose 45 55 lose lose
+20 40 "Spin Again" lose lose 45 90 lose lose
+15 90 "Spin Again" lose lose 30 40 lose lose
+75 85 "Spin Again" lose lose 30 65 lose lose
+45 85 "Spin Again" lose lose 5 30 lose lose
+70 30 "Spin Again" win win 90 50 win win
+5 75 "Spin Again" tie tie 40 85 win win
+95 80 win win win 40 15 win win
+85 45 win win win 55 20 win win
+10 40 "Spin Again" lose lose 35 20 lose lose
+65 75 "Spin Again" lose lose 10 45 lose lose
+45 40 "Spin Again" win win 95 40 win win
+80 50 tie lose tie 90 70 lose lose
+30 80 "Spin Again" lose lose 45 15 lose lose
+95 5 win win win 15 40 win win
+75 35 "Spin Again" lose lose 5 20 lose lose
+60 75 "Spin Again" lose lose 15 60 lose lose
+25 10 "Spin Again" lose lose 95 65 lose lose
+15 100 "Spin Again" lose lose 5 100 lose lose
+40 10 "Spin Again" lose lose 35 80 lose lose
+20 45 "Spin Again" lose lose 5 75 lose lose
+80 40 tie lose tie 50 35 lose lose
+5 55 "Spin Again" lose lose 95 15 lose lose
+20 100 "Spin Again" lose lose 35 20 lose lose
+95 45 win win win 15 45 win win
+45 85 "Spin Again" lose lose 70 40 lose lose
+5 95 "Spin Again" win win 90 90 win win
+75 20 "Spin Again" win win 15 10 win win
+30 85 "Spin Again" lose lose 75 10 lose lose
+5 5 "Spin Again" lose lose 100 5 lose lose
+75 55 "Spin Again" lose lose 30 30 lose lose
+85 45 win win win 85 50 win win
+75 75 "Spin Again" lose lose 25 90 lose lose
+15 5 "Spin Again" lose lose 15 50 lose lose
+85 15 win win win 75 30 win win
+55 80 "Spin Again" lose lose 10 70 lose lose
+5 45 "Spin Again" lose lose 70 40 lose lose
+85 50 win win win 10 35 win win
+70 40 "Spin Again" lose lose 75 50 lose lose
+90 65 win win win 35 90 win win
+20 15 "Spin Again" lose lose 75 45 lose lose
+75 50 "Spin Again" lose lose 15 15 lose lose
+35 30 "Spin Again" lose lose 70 50 lose lose
+15 35 "Spin Again" lose lose 80 50 lose lose
+10 20 "Spin Again" lose lose 65 80 lose lose
+55 55 "Spin Again" lose lose 90 75 lose lose
+100 30 win win win 60 40 win win
+5 10 "Spin Again" lose lose 20 45 lose lose
+30 10 "Spin Again" lose lose 70 30 lose lose
+50 50 "Spin Again" win win 35 100 win win
+15 30 "Spin Again" lose lose 30 20 lose lose
+60 100 "Spin Again" lose lose 90 85 lose lose
+75 35 "Spin Again" lose lose 85 80 lose lose
+95 75 win win win 5 80 win win
+100 85 win win win 85 80 win win
+55 60 "Spin Again" lose lose 50 35 lose lose
+30 35 "Spin Again" lose lose 5 50 lose lose
+90 20 win win win 80 15 win win
+25 85 "Spin Again" lose lose 10 65 lose lose
+100 50 win win win 100 80 win win
+65 30 "Spin Again" win win 95 95 win win
+40 85 "Spin Again" lose lose 5 30 lose lose
+15 30 "Spin Again" lose lose 90 55 lose lose
+10 70 "Spin Again" tie tie 10 35 win win
+85 50 win win win 60 20 win win
+45 80 "Spin Again" lose lose 95 30 lose lose
+65 90 "Spin Again" lose lose 25 90 lose lose
+40 60 "Spin Again" win win 30 65 win win
+55 35 "Spin Again" win win 40 75 win win
+60 55 "Spin Again" lose lose 45 95 lose lose
+40 75 "Spin Again" lose lose 40 65 lose lose
+10 55 "Spin Again" lose lose 35 65 lose lose
+30 15 "Spin Again" lose lose 65 15 lose lose
+55 25 "Spin Again" tie tie 95 10 lose lose
+20 5 "Spin Again" lose lose 25 10 lose lose
+5 100 "Spin Again" lose lose 90 65 lose lose
+80 60 tie lose tie 40 40 lose tie
+80 100 tie lose tie 80 25 lose lose
+75 10 "Spin Again" win win 45 5 win win
+55 55 "Spin Again" lose lose 85 45 lose lose
+15 75 "Spin Again" win win 85 5 win win
+30 50 "Spin Again" tie tie 30 100 win win
+70 55 "Spin Again" lose lose 65 100 lose lose
+30 5 "Spin Again" lose lose 20 30 lose lose
+50 65 "Spin Again" lose lose 70 90 lose lose
+85 70 win win win 50 30 win win
+95 85 win win win 45 40 win win
+50 30 "Spin Again" tie tie 75 75 win tie
+15 65 "Spin Again" tie tie 80 90 win win
+40 95 "Spin Again" lose lose 100 15 lose lose
+95 35 win win win 95 10 win win
+5 60 "Spin Again" lose lose 5 80 lose lose
+65 65 "Spin Again" lose lose 40 95 lose lose
+50 30 "Spin Again" tie tie 30 95 win win
+5 60 "Spin Again" lose lose 15 55 lose lose
+10 40 "Spin Again" lose lose 5 65 lose lose
+40 30 "Spin Again" lose lose 50 85 lose lose
+100 35 win win win 40 10 win win
+95 75 win win win 25 60 win win
+5 90 "Spin Again" win win 55 75 win win
+90 50 win win win 10 25 win win
+40 35 "Spin Again" lose lose 85 80 lose lose
+70 65 "Spin Again" lose lose 5 45 lose lose
+15 60 "Spin Again" lose lose 70 40 lose lose
+90 10 win win win 75 50 win win
+100 20 win win win 15 15 win win
+75 100 "Spin Again" lose lose 65 40 lose lose
+25 70 "Spin Again" win win 65 15 win win
+50 40 "Spin Again" win win 75 25 win win
+75 50 "Spin Again" lose lose 80 95 lose lose
+10 95 "Spin Again" lose lose 35 95 lose lose
+25 35 "Spin Again" lose lose 35 60 lose lose
+50 30 "Spin Again" tie tie 65 85 win win
+90 60 win win win 90 55 win win
+30 75 "Spin Again" lose lose 55 30 lose lose
+100 20 win win win 5 15 win win
+45 80 "Spin Again" lose lose 70 80 lose lose
+45 15 "Spin Again" lose lose 90 5 lose lose
+100 35 win win win 45 85 win win
+50 45 "Spin Again" win win 10 80 win win
+95 25 win win win 45 75 win win
+5 90 "Spin Again" win win 50 85 win win
+85 5 win win win 55 20 win win
+95 20 win win win 5 35 win win
+30 50 "Spin Again" tie tie 10 100 win win
+65 90 "Spin Again" lose lose 90 30 lose lose
+35 25 "Spin Again" lose lose 10 70 lose lose
+85 85 win win win 10 30 win win
+50 10 "Spin Again" lose lose 80 5 lose lose
+95 70 win win win 60 40 win win
+65 50 "Spin Again" lose lose 75 30 lose lose
+20 30 "Spin Again" lose lose 15 5 lose lose
+70 30 "Spin Again" win win 70 95 win win
+15 30 "Spin Again" lose lose 5 5 lose lose
+85 50 win win win 5 90 win win
+70 95 "Spin Again" lose lose 65 40 lose lose
+55 65 "Spin Again" lose lose 95 5 lose lose
+35 75 "Spin Again" lose lose 40 40 lose lose
+55 100 "Spin Again" lose lose 70 45 lose lose
+15 100 "Spin Again" lose lose 70 65 lose lose
+95 55 win win win 65 80 win win
+100 35 win win win 90 70 win win
+40 50 "Spin Again" win win 20 80 win win
+60 85 "Spin Again" lose lose 45 85 lose lose
+90 55 win win win 30 75 win win
+75 70 "Spin Again" lose lose 75 20 lose lose
+75 30 "Spin Again" lose lose 95 50 lose lose
+10 20 "Spin Again" lose lose 80 100 lose lose
+20 80 "Spin Again" win win 20 30 win win
+20 55 "Spin Again" lose lose 15 95 lose lose
+5 90 "Spin Again" win win 40 80 win win
+5 65 "Spin Again" lose lose 55 80 lose lose
+95 90 win win win 25 70 win win
+80 50 tie lose tie 70 65 lose lose
+80 60 tie lose tie 5 75 lose win
+10 45 "Spin Again" lose lose 95 75 lose lose
+60 55 "Spin Again" lose lose 65 50 lose lose
+35 30 "Spin Again" lose lose 15 5 lose lose
+5 30 "Spin Again" lose lose 5 65 lose lose
+85 90 win win win 100 60 win win
+75 15 "Spin Again" win win 20 10 win win
+65 10 "Spin Again" lose lose 20 25 lose lose
+100 65 win win win 15 45 win win
+35 30 "Spin Again" lose lose 25 40 lose lose
+5 65 "Spin Again" lose lose 45 5 lose lose
+30 30 "Spin Again" lose lose 60 80 lose lose
+80 45 tie lose tie 50 80 lose win
+60 5 "Spin Again" lose lose 45 60 lose lose
+70 15 "Spin Again" win win 60 75 win win
+60 90 "Spin Again" lose lose 20 20 lose lose
+10 85 "Spin Again" win win 35 40 win win
+65 100 "Spin Again" lose lose 80 75 lose lose
+95 100 win win win 95 100 win win
+15 95 "Spin Again" lose lose 40 55 lose lose
+100 70 win win win 5 55 win win
+85 100 win win win 55 55 win win
+20 65 "Spin Again" win win 65 65 win win
+70 95 "Spin Again" lose lose 100 100 lose lose
+30 5 "Spin Again" lose lose 30 50 lose lose
+90 75 win win win 70 25 win win
+90 10 win win win 70 50 win win
+100 75 win win win 95 65 win win
+60 75 "Spin Again" lose lose 60 55 lose lose
+70 50 "Spin Again" lose lose 5 100 lose lose
+15 15 "Spin Again" lose lose 5 55 lose lose
+25 95 "Spin Again" lose lose 95 10 lose lose
+45 50 "Spin Again" win win 55 60 win win
+25 70 "Spin Again" win win 85 70 win win
+65 50 "Spin Again" lose lose 45 55 lose lose
+85 15 win win win 90 15 win win
+55 95 "Spin Again" lose lose 50 30 lose lose
+45 5 "Spin Again" lose lose 100 45 lose lose
+85 5 win win win 45 95 win win
+75 100 "Spin Again" lose lose 40 25 lose lose
+80 95 tie lose tie 45 95 lose win
+100 25 win win win 50 15 win win
+60 25 "Spin Again" win win 60 85 win win
+80 80 tie lose tie 90 90 lose tie
+15 30 "Spin Again" lose lose 40 70 lose lose
+75 40 "Spin Again" lose lose 25 100 lose lose
+50 85 "Spin Again" lose lose 30 5 lose lose
+55 70 "Spin Again" lose lose 30 80 lose lose
+90 25 win win win 50 35 win win
+5 100 "Spin Again" lose lose 95 50 lose lose
+45 75 "Spin Again" lose lose 95 55 lose lose
+90 65 win win win 95 85 win win
+60 55 "Spin Again" lose lose 50 55 lose lose
+75 40 "Spin Again" lose lose 25 45 lose lose
+75 15 "Spin Again" win win 65 25 win win
+70 70 "Spin Again" lose lose 45 55 lose lose
+75 35 "Spin Again" lose lose 60 85 lose lose
+55 45 "Spin Again" win win 55 90 win win
+25 85 "Spin Again" lose lose 80 50 lose lose
+30 25 "Spin Again" lose lose 90 70 lose lose
+95 90 win win win 10 30 win win
+35 90 "Spin Again" lose lose 55 65 lose lose
+40 45 "Spin Again" win win 95 65 win win
+85 40 win win win 70 80 win win
+50 25 "Spin Again" lose lose 30 65 lose lose
+65 90 "Spin Again" lose lose 10 90 lose lose
+70 20 "Spin Again" win win 45 90 win win
+70 5 "Spin Again" lose lose 15 95 lose lose
+35 70 "Spin Again" lose lose 25 75 lose lose
+45 45 "Spin Again" win win 85 5 win win
+100 70 win win win 10 65 win win
+25 25 "Spin Again" lose lose 5 55 lose lose
+25 75 "Spin Again" win win 10 30 win win
+55 45 "Spin Again" win win 45 45 win win
+70 20 "Spin Again" win win 50 80 win win
+15 80 "Spin Again" win win 15 15 win win
+30 70 "Spin Again" win win 45 80 win win
+30 55 "Spin Again" win win 15 55 win win
+5 80 "Spin Again" win win 25 60 win win
+80 70 tie lose tie 45 60 lose win
+25 5 "Spin Again" lose lose 10 50 lose lose
+85 90 win win win 35 100 win win
+45 95 "Spin Again" lose lose 75 75 lose lose
+85 85 win win win 60 45 win win
+5 40 "Spin Again" lose lose 10 30 lose lose
+75 30 "Spin Again" lose lose 80 80 lose lose
+100 80 win win win 100 25 win win
+15 65 "Spin Again" tie tie 50 20 lose lose
+25 95 "Spin Again" lose lose 30 45 lose lose
+100 70 win win win 95 70 win win
+60 75 "Spin Again" lose lose 15 55 lose lose
+15 100 "Spin Again" lose lose 30 60 lose lose
+5 95 "Spin Again" win win 70 100 win win
+85 80 win win win 80 95 win win
+50 90 "Spin Again" lose lose 50 65 lose lose
+80 55 tie lose tie 55 45 lose lose
+60 30 "Spin Again" win win 40 90 win win
+90 25 win win win 30 35 win win
+95 55 win win win 20 95 win win
+20 65 "Spin Again" win win 35 15 win win
+5 15 "Spin Again" lose lose 40 50 lose lose
+45 5 "Spin Again" lose lose 60 15 lose lose
+70 30 "Spin Again" win win 55 5 win win
+30 85 "Spin Again" lose lose 55 100 lose lose
+10 80 "Spin Again" win win 10 45 win win
+20 5 "Spin Again" lose lose 20 25 lose lose
+10 20 "Spin Again" lose lose 80 55 lose lose
+35 65 "Spin Again" win win 40 5 win win
+35 85 "Spin Again" lose lose 100 25 lose lose
+50 40 "Spin Again" win win 35 15 win win
+20 90 "Spin Again" lose lose 80 55 lose lose
+65 35 "Spin Again" win win 55 15 win win
+55 85 "Spin Again" lose lose 100 95 lose lose
+20 85 "Spin Again" lose lose 35 60 lose lose
+90 80 win win win 100 60 win win
+75 95 "Spin Again" lose lose 60 30 lose lose
+35 75 "Spin Again" lose lose 85 65 lose lose
+95 60 win win win 80 30 win win
+95 85 win win win 35 15 win win
+60 75 "Spin Again" lose lose 100 65 lose lose
+50 10 "Spin Again" lose lose 45 75 lose lose
+30 85 "Spin Again" lose lose 15 20 lose lose
+85 5 win win win 80 10 win win
+5 50 "Spin Again" lose lose 40 45 lose lose
+55 30 "Spin Again" win win 5 35 win win
+35 25 "Spin Again" lose lose 70 95 lose lose
+95 65 win win win 55 65 win win
+100 95 win win win 15 80 win win
+30 10 "Spin Again" lose lose 10 15 lose lose
+90 40 win win win 20 30 win win
+80 50 tie lose tie 95 75 lose lose
+90 60 win win win 15 65 win win
+60 15 "Spin Again" lose lose 30 20 lose lose
+55 15 "Spin Again" lose lose 100 95 lose lose
+75 45 "Spin Again" lose lose 10 85 lose lose
+30 15 "Spin Again" lose lose 80 95 lose lose
+40 30 "Spin Again" lose lose 95 90 lose lose
+5 10 "Spin Again" lose lose 65 5 lose lose
+35 65 "Spin Again" win win 20 80 win win
+85 45 win win win 50 95 win win
+100 75 win win win 35 80 win win
+75 80 "Spin Again" lose lose 75 65 lose lose
+60 85 "Spin Again" lose lose 90 45 lose lose
+15 85 "Spin Again" win win 40 90 win win
+15 25 "Spin Again" lose lose 25 95 lose lose
+45 45 "Spin Again" win win 65 85 win win
+5 50 "Spin Again" lose lose 95 70 lose lose
+30 45 "Spin Again" lose lose 55 90 lose lose
+80 25 tie lose tie 95 65 lose lose
+10 75 "Spin Again" win win 40 15 win win
+75 70 "Spin Again" lose lose 15 45 lose lose
+90 10 win win win 45 35 win win
+60 40 "Spin Again" win win 55 80 win win
+25 20 "Spin Again" lose lose 15 45 lose lose
+40 65 "Spin Again" lose lose 65 75 lose lose
+95 70 win win win 25 30 win win
+85 100 win win win 40 75 win win
+95 55 win win win 95 75 win win
+10 55 "Spin Again" lose lose 50 15 lose lose
+25 100 "Spin Again" lose lose 15 70 lose lose
+20 90 "Spin Again" lose lose 60 40 lose lose
+10 40 "Spin Again" lose lose 70 10 lose lose
+60 15 "Spin Again" lose lose 60 85 lose lose
+15 65 "Spin Again" tie tie 65 85 win win
+15 75 "Spin Again" win win 50 80 win win
+55 90 "Spin Again" lose lose 95 10 lose lose
+30 5 "Spin Again" lose lose 100 75 lose lose
+10 70 "Spin Again" tie tie 35 25 lose lose
+80 85 tie lose tie 70 70 lose tie
+20 50 "Spin Again" lose lose 40 10 lose lose
+35 35 "Spin Again" lose lose 50 45 lose lose
+75 65 "Spin Again" lose lose 10 10 lose lose
+80 100 tie lose tie 50 5 lose lose
+50 85 "Spin Again" lose lose 35 90 lose lose
+90 20 win win win 80 25 win win
+20 10 "Spin Again" lose lose 10 55 lose lose
+25 85 "Spin Again" lose lose 80 70 lose lose
+45 65 "Spin Again" lose lose 5 50 lose lose
+5 50 "Spin Again" lose lose 60 20 lose lose
+15 70 "Spin Again" win win 50 90 win win
+85 85 win win win 95 65 win win
+55 5 "Spin Again" lose lose 5 90 lose lose
+100 15 win win win 90 50 win win
+10 25 "Spin Again" lose lose 5 25 lose lose
+15 10 "Spin Again" lose lose 60 15 lose lose
+55 85 "Spin Again" lose lose 55 40 lose lose
+35 90 "Spin Again" lose lose 90 15 lose lose
+40 10 "Spin Again" lose lose 65 5 lose lose
+100 80 win win win 95 40 win win
+100 10 win win win 30 45 win win
+20 25 "Spin Again" lose lose 100 5 lose lose
+95 70 win win win 40 15 win win
+65 5 "Spin Again" lose lose 10 60 lose lose
+20 65 "Spin Again" win win 100 45 win win
+95 60 win win win 60 70 win win
+50 40 "Spin Again" win win 20 30 win win
+95 25 win win win 95 55 win win
+95 10 win win win 10 60 win win
+80 30 tie lose tie 40 15 lose lose
+55 30 "Spin Again" win win 40 50 win win
+25 60 "Spin Again" win win 90 30 win win
+50 15 "Spin Again" lose lose 65 45 lose lose
+70 80 "Spin Again" lose lose 75 55 lose lose
+50 25 "Spin Again" lose lose 80 50 lose lose
+85 5 win win win 15 35 win win
+50 70 "Spin Again" lose lose 20 60 lose lose
+35 30 "Spin Again" lose lose 15 20 lose lose
+40 90 "Spin Again" lose lose 70 85 lose lose
+5 25 "Spin Again" lose lose 60 35 lose lose
+40 80 "Spin Again" lose lose 45 50 lose lose
+20 10 "Spin Again" lose lose 50 100 lose lose
+5 15 "Spin Again" lose lose 70 40 lose lose
+15 65 "Spin Again" tie tie 60 20 lose lose
+35 15 "Spin Again" lose lose 75 65 lose lose
+55 45 "Spin Again" win win 90 40 win win
+60 85 "Spin Again" lose lose 30 90 lose lose
+5 65 "Spin Again" lose lose 20 75 lose lose
+80 85 tie lose tie 75 60 lose lose
+25 90 "Spin Again" lose lose 85 20 lose lose
+45 75 "Spin Again" lose lose 35 40 lose lose
+75 15 "Spin Again" win win 55 35 win win
+10 35 "Spin Again" lose lose 40 95 lose lose
+20 35 "Spin Again" lose lose 10 50 lose lose
+40 90 "Spin Again" lose lose 75 5 lose lose
+20 85 "Spin Again" lose lose 90 70 lose lose
+35 90 "Spin Again" lose lose 50 5 lose lose
+40 10 "Spin Again" lose lose 15 10 lose lose
+40 65 "Spin Again" lose lose 55 100 lose lose
+55 100 "Spin Again" lose lose 75 90 lose lose
+75 100 "Spin Again" lose lose 40 5 lose lose
+5 75 "Spin Again" tie tie 25 60 win win
+100 15 win win win 60 70 win win
+35 10 "Spin Again" lose lose 65 75 lose lose
+85 70 win win win 45 65 win win
+60 5 "Spin Again" lose lose 5 25 lose lose
+25 80 "Spin Again" lose lose 95 100 lose lose
+100 90 win win win 80 85 win win
+55 75 "Spin Again" lose lose 5 50 lose lose
+25 35 "Spin Again" lose lose 95 5 lose lose
+10 70 "Spin Again" tie tie 40 50 win win
+80 85 tie lose tie 65 15 lose lose
+90 70 win win win 20 5 win win
+90 90 win win win 90 70 win win
+75 35 "Spin Again" lose lose 80 75 lose lose
+55 95 "Spin Again" lose lose 85 25 lose lose
+15 60 "Spin Again" lose lose 100 90 lose lose
+60 95 "Spin Again" lose lose 35 40 lose lose
+10 95 "Spin Again" lose lose 60 45 lose lose
+85 20 win win win 40 20 win win
+55 10 "Spin Again" lose lose 85 30 lose lose
+45 20 "Spin Again" lose lose 95 85 lose lose
+70 15 "Spin Again" win win 80 90 win win
+60 25 "Spin Again" win win 85 35 win win
+80 5 tie win tie 85 25 win lose
+100 20 win win win 40 20 win win
+60 30 "Spin Again" win win 15 50 win win
+20 50 "Spin Again" lose lose 25 70 lose lose
+10 45 "Spin Again" lose lose 65 95 lose lose
+55 95 "Spin Again" lose lose 5 75 lose lose
+35 10 "Spin Again" lose lose 70 25 lose lose
+65 80 "Spin Again" lose lose 25 65 lose lose
+80 70 tie lose tie 15 45 lose win
+15 35 "Spin Again" lose lose 50 35 lose lose
+95 55 win win win 25 55 win win
+95 40 win win win 45 65 win win
+80 80 tie lose tie 40 15 lose lose
+80 75 tie lose tie 60 85 lose win
+45 30 "Spin Again" lose lose 70 35 lose lose
+90 35 win win win 80 40 win win
+55 50 "Spin Again" lose lose 85 25 lose lose
+50 35 "Spin Again" win win 60 85 win win
+45 75 "Spin Again" lose lose 40 40 lose lose
+50 10 "Spin Again" lose lose 5 35 lose lose
+85 50 win win win 65 45 win win
+55 40 "Spin Again" win win 60 35 win win
+5 70 "Spin Again" lose lose 70 65 lose lose
+15 25 "Spin Again" lose lose 5 95 lose lose
+20 40 "Spin Again" lose lose 65 65 lose lose
+70 50 "Spin Again" lose lose 25 40 lose lose
+40 75 "Spin Again" lose lose 65 55 lose lose
+45 20 "Spin Again" lose lose 80 50 lose lose
+10 40 "Spin Again" lose lose 65 50 lose lose
+60 90 "Spin Again" lose lose 85 25 lose lose
+15 40 "Spin Again" lose lose 40 80 lose lose
+70 100 "Spin Again" lose lose 25 85 lose lose
+85 100 win win win 25 20 win win
+30 95 "Spin Again" lose lose 65 20 lose lose
+35 25 "Spin Again" lose lose 65 75 lose lose
+5 10 "Spin Again" lose lose 40 65 lose lose
+35 85 "Spin Again" lose lose 35 35 lose lose
+15 45 "Spin Again" lose lose 70 85 lose lose
+85 50 win win win 100 65 win win
+15 40 "Spin Again" lose lose 20 80 lose lose
+35 80 "Spin Again" lose lose 35 20 lose lose
+55 20 "Spin Again" lose lose 85 60 lose lose
+15 10 "Spin Again" lose lose 20 30 lose lose
+50 90 "Spin Again" lose lose 40 100 lose lose
+5 95 "Spin Again" win win 95 5 win win
+60 5 "Spin Again" lose lose 90 80 lose lose
+30 40 "Spin Again" lose lose 5 100 lose lose
+85 85 win win win 15 70 win win
+60 55 "Spin Again" lose lose 35 45 lose lose
+100 20 win win win 100 15 win win
+45 5 "Spin Again" lose lose 100 55 lose lose
+35 45 "Spin Again" tie tie 70 20 lose lose
+70 70 "Spin Again" lose lose 40 30 lose lose
+75 35 "Spin Again" lose lose 20 75 lose lose
+70 75 "Spin Again" lose lose 70 15 lose lose
+20 30 "Spin Again" lose lose 70 60 lose lose
+50 40 "Spin Again" win win 5 25 win win
+70 15 "Spin Again" win win 65 35 win win
+75 80 "Spin Again" lose lose 95 50 lose lose
+25 55 "Spin Again" tie tie 45 30 lose lose
+85 45 win win win 60 85 win win
+5 85 "Spin Again" win win 20 65 win win
+45 5 "Spin Again" lose lose 30 40 lose lose
+100 95 win win win 95 20 win win
+20 5 "Spin Again" lose lose 15 65 lose lose
+55 65 "Spin Again" lose lose 20 90 lose lose
+20 85 "Spin Again" lose lose 30 90 lose lose
+95 85 win win win 60 50 win win
+45 5 "Spin Again" lose lose 50 70 lose lose
+10 10 "Spin Again" lose lose 25 20 lose lose
+50 60 "Spin Again" lose lose 20 20 lose lose
+15 90 "Spin Again" lose lose 50 60 lose lose
+45 65 "Spin Again" lose lose 30 20 lose lose
+10 95 "Spin Again" lose lose 100 40 lose lose
+65 80 "Spin Again" lose lose 85 75 lose lose
+85 60 win win win 20 45 win win
+5 55 "Spin Again" lose lose 20 10 lose lose
+90 75 win win win 50 70 win win
+35 10 "Spin Again" lose lose 85 35 lose lose
+75 60 "Spin Again" lose lose 70 10 lose lose
+100 70 win win win 30 70 win win
+40 55 "Spin Again" win win 30 70 win win
+65 40 "Spin Again" lose lose 60 95 lose lose
+25 20 "Spin Again" lose lose 80 100 lose lose
+20 25 "Spin Again" lose lose 30 40 lose lose
+100 45 win win win 85 45 win win
+45 100 "Spin Again" lose lose 45 60 lose lose
+15 95 "Spin Again" lose lose 65 95 lose lose
+55 85 "Spin Again" lose lose 5 60 lose lose
+85 45 win win win 45 100 win win
+50 90 "Spin Again" lose lose 35 15 lose lose
+5 70 "Spin Again" lose lose 5 65 lose lose
+90 85 win win win 85 80 win win
+85 25 win win win 90 45 win win
+70 20 "Spin Again" win win 55 65 win win
+5 35 "Spin Again" lose lose 90 40 lose lose
+90 40 win win win 95 45 win win
+10 15 "Spin Again" lose lose 65 15 lose lose
+45 5 "Spin Again" lose lose 30 35 lose lose
+25 75 "Spin Again" win win 25 30 win win
+15 50 "Spin Again" lose lose 30 60 lose lose
+20 40 "Spin Again" lose lose 35 40 lose lose
+80 15 tie win tie 30 15 win lose
+5 60 "Spin Again" lose lose 35 65 lose lose
+80 20 tie win tie 75 80 win win
+80 35 tie lose tie 55 75 lose win
+85 80 win win win 30 35 win win
+25 75 "Spin Again" win win 85 5 win win
+15 80 "Spin Again" win win 85 75 win win
+15 20 "Spin Again" lose lose 5 25 lose lose
+70 5 "Spin Again" lose lose 80 55 lose lose
+30 55 "Spin Again" win win 95 80 win win
+100 80 win win win 45 55 win win
+25 95 "Spin Again" lose lose 15 90 lose lose
+65 35 "Spin Again" win win 70 65 win win
+30 65 "Spin Again" win win 30 5 win win
+50 45 "Spin Again" win win 40 70 win win
+5 50 "Spin Again" lose lose 25 40 lose lose
+15 5 "Spin Again" lose lose 80 75 lose lose
+70 40 "Spin Again" lose lose 100 90 lose lose
+65 80 "Spin Again" lose lose 85 5 lose lose
+60 15 "Spin Again" lose lose 35 5 lose lose
+45 10 "Spin Again" lose lose 50 95 lose lose
+10 50 "Spin Again" lose lose 65 15 lose lose
+35 5 "Spin Again" lose lose 35 35 lose lose
+45 10 "Spin Again" lose lose 95 20 lose lose
+55 40 "Spin Again" win win 90 35 win win
+10 25 "Spin Again" lose lose 80 30 lose lose
+10 25 "Spin Again" lose lose 15 30 lose lose
+15 10 "Spin Again" lose lose 5 15 lose lose
+15 50 "Spin Again" lose lose 95 50 lose lose
+10 90 "Spin Again" win win 60 15 win win
+45 85 "Spin Again" lose lose 10 90 lose lose
+50 100 "Spin Again" lose lose 40 55 lose lose
+35 95 "Spin Again" lose lose 60 5 lose lose
+35 95 "Spin Again" lose lose 25 80 lose lose
+60 95 "Spin Again" lose lose 90 85 lose lose
+15 65 "Spin Again" tie tie 95 60 lose lose
+25 45 "Spin Again" lose lose 5 100 lose lose
+50 30 "Spin Again" tie tie 5 45 win win
+65 100 "Spin Again" lose lose 45 25 lose lose
+40 40 "Spin Again" tie tie 35 40 win win
+95 30 win win win 30 55 win win
+95 15 win win win 35 75 win win
+20 90 "Spin Again" lose lose 40 45 lose lose
+85 70 win win win 50 30 win win
+50 20 "Spin Again" lose lose 80 90 lose lose
+35 5 "Spin Again" lose lose 30 65 lose lose
+15 5 "Spin Again" lose lose 95 35 lose lose
+65 35 "Spin Again" win win 85 35 win win
+60 35 "Spin Again" win win 10 55 win win
+75 90 "Spin Again" lose lose 5 65 lose lose
+60 90 "Spin Again" lose lose 20 35 lose lose
+85 30 win win win 100 5 win win
+50 65 "Spin Again" lose lose 50 95 lose lose
+20 20 "Spin Again" lose lose 100 95 lose lose
+15 45 "Spin Again" lose lose 70 35 lose lose
+90 80 win win win 50 65 win win
+5 85 "Spin Again" win win 5 25 win win
+20 25 "Spin Again" lose lose 15 45 lose lose
+20 95 "Spin Again" lose lose 15 90 lose lose
+65 100 "Spin Again" lose lose 90 45 lose lose
+15 70 "Spin Again" win win 55 75 win win
+65 25 "Spin Again" win win 5 5 win win
+85 40 win win win 50 60 win win
+100 50 win win win 35 40 win win
+65 85 "Spin Again" lose lose 85 95 lose lose
+75 60 "Spin Again" lose lose 85 100 lose lose
+80 15 tie win tie 55 60 win win
+90 40 win win win 50 55 win win
+70 55 "Spin Again" lose lose 35 25 lose lose
+80 50 tie lose tie 95 80 lose lose
+65 10 "Spin Again" lose lose 20 45 lose lose
+35 75 "Spin Again" lose lose 45 5 lose lose
+35 50 "Spin Again" win win 80 25 win win
+75 80 "Spin Again" lose lose 90 65 lose lose
+25 30 "Spin Again" lose lose 80 80 lose lose
+35 95 "Spin Again" lose lose 70 100 lose lose
+30 5 "Spin Again" lose lose 60 95 lose lose
+30 65 "Spin Again" win win 95 10 win win
+10 5 "Spin Again" lose lose 30 70 lose lose
+65 10 "Spin Again" lose lose 80 75 lose lose
+70 50 "Spin Again" lose lose 85 40 lose lose
+30 5 "Spin Again" lose lose 45 70 lose lose
+95 40 win win win 20 75 win win
+70 40 "Spin Again" lose lose 100 40 lose lose
+85 20 win win win 10 65 win win
+45 65 "Spin Again" lose lose 15 65 lose lose
+10 25 "Spin Again" lose lose 15 25 lose lose
+95 45 win win win 85 55 win win
+95 5 win win win 45 75 win win
+100 85 win win win 15 20 win win
+60 5 "Spin Again" lose lose 20 95 lose lose
+45 20 "Spin Again" lose lose 90 10 lose lose
+10 85 "Spin Again" win win 55 75 win win
+5 70 "Spin Again" lose lose 90 5 lose lose
+30 55 "Spin Again" win win 30 95 win win
+80 75 tie lose tie 90 45 lose lose
+40 65 "Spin Again" lose lose 100 100 lose lose
+20 50 "Spin Again" lose lose 20 75 lose lose
+5 70 "Spin Again" lose lose 70 70 lose lose
+10 40 "Spin Again" lose lose 45 40 lose lose
+35 100 "Spin Again" lose lose 85 30 lose lose
+80 5 tie win tie 25 65 win win
+20 15 "Spin Again" lose lose 95 95 lose lose
+10 45 "Spin Again" lose lose 45 45 lose lose
+50 75 "Spin Again" lose lose 30 30 lose lose
+50 40 "Spin Again" win win 55 100 win win
+90 20 win win win 20 100 win win
+70 70 "Spin Again" lose lose 60 40 lose lose
+70 70 "Spin Again" lose lose 75 10 lose lose
+100 55 win win win 30 70 win win
+60 5 "Spin Again" lose lose 10 45 lose lose
+95 65 win win win 75 45 win win
+20 10 "Spin Again" lose lose 5 95 lose lose
+75 50 "Spin Again" lose lose 5 70 lose lose
+80 30 tie lose tie 55 90 lose win
+75 20 "Spin Again" win win 70 55 win win
+10 60 "Spin Again" lose lose 50 30 lose lose
+60 95 "Spin Again" lose lose 80 45 lose lose
+95 70 win win win 75 25 win win
+75 70 "Spin Again" lose lose 50 95 lose lose
+35 30 "Spin Again" lose lose 45 25 lose lose
+90 5 win win win 85 70 win win
+95 15 win win win 65 5 win win
+20 80 "Spin Again" win win 40 45 win win
+35 90 "Spin Again" lose lose 40 5 lose lose
+35 15 "Spin Again" lose lose 50 35 lose lose
+5 30 "Spin Again" lose lose 45 35 lose lose
+15 55 "Spin Again" lose lose 30 75 lose lose
+15 15 "Spin Again" lose lose 40 85 lose lose
+85 65 win win win 60 55 win win
+45 5 "Spin Again" lose lose 5 30 lose lose

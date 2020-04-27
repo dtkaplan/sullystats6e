@@ -1,0 +1,5 @@
+Type of Weapon	Frequency			
+Firearms	844			
+Knives or cutting instruments	149						
+"Personal weapons (hands, fists, etc.)"	69						
+Other weapon or not stated	162

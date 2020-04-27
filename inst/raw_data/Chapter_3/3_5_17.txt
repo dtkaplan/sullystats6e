@@ -1,0 +1,72 @@
+"Sample Location" "Sample Date" Lead(ppb) Copper(ppb)
+"2205 Flushing Rd." 2/15/15 0 0.13
+"212 Browning Ave." 2/18/15 104 0
+"1809 Stevenson St." 2/10/15 10 0
+"4202 Cluster Ave." 3/4/15 6 0.27
+"401 E. Newall St." 3/2/15 5 0
+"215 Browning Ave." 3/21/15 0 0.16
+"2615 Trumbull Ave." 2/27/15 3 0
+"201 Browning Ave." 3/5/15 0 0
+"1224 Decker St." 3/17/15 13 0.1
+"1220 Decker St." 3/17/15 4 0
+"1379 Washington Ave." 3/19/15 8 0
+"1383 Washington Ave." 3/19/15 6 0.17
+"1372 Washington Ave." 3/19/15 2 0.14
+"1367 Washingotn Ave." 3/17/15 1 0
+"1701 Marquette Dr." 3/14/15 1 0.19
+"778 Bundy Ave." 3/24/15 0 0
+"3714 Beecher Rd." 3/24/15 2 0.52
+"1016 Ingleside Ave." 4/9/15 7 0.07
+"1818 Rock Creek Ln." 4/6/15 3 0.11
+"3010 Cheyenne St." 4/3/15 5 0.1
+"2606 Mountain Ave." 4/15/15 0 0
+"2020 Crooked Ln." 4/24/15 5 0.1
+"310 E. Moore St." 4/22/15 5 0
+"531 Alvord Ave." 5/6/15 42 0
+"216 Browning Ave." 5/7/15 22 0.31
+"3714 Beecher Rd." 5/14/15 8 0.15
+"625 S. Grand Traverse" 5/18/15 20 0.14
+"912 Lexington Ave." 5/15/15 6 0
+"349 Robbie Ln." 5/31/15 2 0
+"353 Robbie Ln." 5/30/15 5 0.11
+"341 Robbie Ln." 5/31/15 3 0.05
+"328 Robbie Ln." 5/30/15 2 0.09
+"357 Robbie Ln." 5/31/15 3 0.2
+"344 Robbie Ln." 5/31/15 4 0.11
+"1807 Oren Ave." 6/8/15 21 0
+"421 Lyon St." 6/14/15 7 0.14
+"1528 Delaware Ave." 6/12/15 3 0
+"3811 Brentwood Dr." 6/14/15 42 0
+"1615 S. Franklin Ave." 6/14/15 0 0
+"853 E. 7th St." 6/12/15 7 0.07
+"1150 Woodside Dr." 6/14/15 28 0
+"547 Copeman Blvd." 6/14/15 18 0
+"920 Stocker Ave." 6/21/15 1 0
+"742 Lincoln Ave." 6/19/15 2 0
+"3517 Bennett Ave." 6/24/15 3 0.06
+"1730 Overhill Dr." 6/22/15 1 0.08
+"2117 Stanford Ave." 6/23/15 5 0.08
+"2432 Beta Ln." 6/21/15 0 0
+"2023 Miller Rd." 6/21/15 3 0.06
+"721 East St. Apt #2" 6/25/15 10 0.16
+"3814 Whitter" 6/25/15 2 0
+"3120 Norwood" 6/24/15 5 0
+"2122 Pierce St." 6/21/15 2 0
+"3521 Bennett Ave." 6/25/15 3 0
+"1602 Raspberry Ln." 6/24/15 0 0
+"1809 Lynbrook" 6/26/15 3 0
+"2112 Sherff" 6/24/15 9 0.06
+"1205 Blanchard Ave." 6/24/15 11 0.05
+"860 Schafer St." 6/26/15 0 0.06
+"2110 Flushing Rd." 6/30/15 0 0.1
+"2300 Flushing Rd." 6/29/15 3 0.28
+"2130 Flushing Rd." 6/28/15 6 0.05
+"2202 Flushing Rd" 6/29/15 2 0.06
+"2429 Flushing Rd." 6/30/15 0 0.06
+"4013 Brownell Blvd." 6/29/15 2 0.08
+"2414 Flushing Rd." 6/30/15 0 0
+"1914 Penbrook Ln." 6/29/15 2 0
+"3901 Leedra St." 6/26/15 0 0
+"3142 McClure" 6/26/15 3 0
+"2114 Flushing Rd." 6/30/15 5 0.05
+"709 Frost St." 6/30/15 2 0

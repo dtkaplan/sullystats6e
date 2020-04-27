@@ -1,0 +1,12 @@
+City	Avis	Hertz
+Chicago	67.54	59.14
+Los Angeles	97.16	97.15
+Houston	103.43	103.14
+Orlando	38.79	36.63
+Boston	87.90	87.80
+Seattle	109.86	110.09
+Pittsburgh	109.35	109.35
+Phoenix	82.86	83.03
+New Orleans	112.65	113.32
+Minneapolis	116.46	114.53
+St. Louis	105.49	107.04

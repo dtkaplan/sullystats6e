@@ -1,0 +1,8 @@
+Large Family Cars	Head Injury (hic)	Passenger Vans	Head Injury (hic)	Midsize Utility Vehicles	Head injury (hic)
+Hyundai XG6300	264	Toyota Sienna	148	Honda Pilot	225
+Ford Taurus	134	Honda Odyssey	238	Toyota 4Runner	216
+Buick LeSabre	409	Ford Freestar	340	Mitsubishi Endeavor	186
+Chevrolet Impala	530	Mazda MPV	693	Nissan Murrano	307
+Chrysler 300	149	Chevrolet Uplander	550	Ford Explorer	353
+Pontiac Grand Prix	627	Nissan Quest	470	Kia Sorento	411
+Toyota Avalon	166	Kia Sedona	322	Chevy Trailblazer	397

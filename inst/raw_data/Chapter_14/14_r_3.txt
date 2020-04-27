@@ -1,0 +1,23 @@
+Location "Square Footage" "Rent per Month"
+Queens 500 650
+Queens 588 1215
+Queens 1000 2000
+Queens 688 1655
+Queens 825 1250
+Queens 1259 2700
+Queens 650 1200
+Queens 560 1250
+Queens 1073 2350
+Queens 1452 3300
+Queens 1305 3100
+"Nassau County" 1100 1875
+"Nassau County" 588 1075
+"Nassau County" 1250 1775
+"Nassau County" 556 1050
+"Nassau County" 825 1300
+"Nassau County" 743 1475
+"Nassau County" 660 1315
+"Nassau County" 975 1400
+"Nassau County" 1429 1900
+"Nassau County" 800 1650
+"Nassau County" 1077 1395

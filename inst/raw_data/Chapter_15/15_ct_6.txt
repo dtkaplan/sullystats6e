@@ -1,0 +1,8 @@
+Large Family Cars	Femur Force (kN)	Passenger Vans	Femur Force)	Midsize Utility Vehicles	Force (kN)
+Chevrolet Lumina	5.8	Toyota Sienna	4.7	Mazda CX-7	1.0
+Ford Taurus	1.9	Honda Odyssey	4.3	Toyota 4Runner	0.2
+Buick LeSabre	2.8	Ford Windstar	2.1	Mitsubishi Montero	3.6
+Chevrolet Impala	0.9	Mazda MPV	6.3	Nissan Xterra	1.8
+Chrysler LHS	4.2	Chevrolet Astro	8.2	Ford Explorer	0.2
+Pontiac Grand Prix	2.4	Nissan Quest	2.6	Jeep Grand Cherokee	2.3
+Dodge Intrepid	4.7	Pontiac Trans Sport	6.7	Nissan Pathfinder	1.9

@@ -1,0 +1,6 @@
+Response	Men	Women		
+Professional athlete	40	18		
+Actor/actress	26	37		
+President of the United States	13	13		
+Rock star	13	13		
+Not sure	7	19		

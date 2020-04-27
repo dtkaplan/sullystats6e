@@ -1,0 +1,101 @@
+Time Fare Payment
+1020 13.75 Cash
+711 8.5 Cash
+420 6 "Credit Card"
+240 5 Cash
+600 9 Cash
+360 6.5 "Credit Card"
+480 7.25 Cash
+1320 18 "Credit Card"
+300 5.5 "Credit Card"
+900 15.25 Cash
+480 6.5 Cash
+540 8.25 Cash
+660 10.25 Cash
+916 11.75 Cash
+420 7.75 Cash
+372 6.75 Cash
+360 7.5 Cash
+120 4 Cash
+540 7 "Credit Card"
+120 5 Cash
+600 8.5 "Credit Card"
+840 10.75 "Credit Card"
+1380 22.5 Cash
+360 6 Cash
+960 10.25 Cash
+824 16 "Credit Card"
+3335 44.5 "Credit Card"
+1680 31.25 "Credit Card"
+1140 14.75 Cash
+180 4.75 "Credit Card"
+540 7 "Credit Card"
+1320 35.25 Cash
+480 7 "Credit Card"
+540 7.25 "Credit Card"
+986 10.75 Cash
+1320 43.75 "Credit Card"
+240 6 "Credit Card"
+616 11 Cash
+453 7.25 "Credit Card"
+120 4.25 "Credit Card"
+540 9 Cash
+60 3.5 Cash
+60 3.5 Cash
+780 10.25 Cash
+1705 42.75 "Credit Card"
+1422 20.5 "Credit Card"
+480 7.25 Cash
+226 4.75 Cash
+1744 43.75 "Credit Card"
+960 12.5 "Credit Card"
+540 8 Cash
+1920 35 Cash
+600 7 Cash
+360 5.75 Cash
+300 5.25 "Credit Card"
+720 9.25 Cash
+1560 20.75 Cash
+240 5.25 Cash
+60 4 Cash
+180 5.5 Cash
+2880 38.25 Cash
+1560 44 "Credit Card"
+600 8.25 Cash
+2400 37 "Credit Card"
+540 7.25 Cash
+300 6.75 "Credit Card"
+456 6.5 "Credit Card"
+456 7.25 "Credit Card"
+840 21.5 Cash
+1680 37.5 "Credit Card"
+420 6.5 Cash
+420 6.5 "Credit Card"
+780 15.5 "Credit Card"
+2520 40.25 "Credit Card"
+480 8.25 "Credit Card"
+540 8 Cash
+1140 11 Cash
+1380 18.25 "Credit Card"
+240 5 "Credit Card"
+1560 15.75 Cash
+660 8.5 Cash
+300 5.75 "Credit Card"
+1440 44.25 "Credit Card"
+2640 43.25 "Credit Card"
+300 6.75 "Credit Card"
+720 8.25 Cash
+1080 35.25 Cash
+900 10.5 "Credit Card"
+360 6.25 Cash
+180 4.75 "Credit Card"
+360 7 "Credit Card"
+660 11.25 "Credit Card"
+300 5.25 "Credit Card"
+600 8.5 "Credit Card"
+1017 27 "Credit Card"
+660 8.25 "Credit Card"
+420 6.75 Cash
+960 20.5 Cash
+2700 44.5 "Credit Card"
+240 5.5 Cash

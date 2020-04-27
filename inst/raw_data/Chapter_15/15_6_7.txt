@@ -1,0 +1,10 @@
+State	Personal Income	Birthrate
+Delaware	39,817	14.1
+Maryland	48,285	13.9
+District of Columbia	66,000	15.1
+Virginia	43,874	14.1
+West Virginia	32,219	12.1
+North Carolina	34,453	14.5
+South Carolina	31,799	14.3
+Georgia	33,786	15.8
+Florida	37,780	13.1

@@ -1,0 +1,9 @@
+Carpeted Rooms (Bacteria/cubic foot) 	Uncarpeted Rooms (Bacteria/cubic foot)
+11.8	12.1
+8.2	8.3
+7.1	3.8
+13.0	7.2
+10.8	12.0
+10.1	11.1
+14.6	10.1
+14.0	13.7

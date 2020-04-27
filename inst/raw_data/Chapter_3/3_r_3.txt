@@ -1,0 +1,18 @@
+Justice	Age
+John Jay	44
+John Rutledge	56
+Oliver Ellsworth	51
+John Marshall	46
+Roger B. Taney	59
+Salmon P. Chase	56
+Morrison R. Waite	58
+Melville W. Fuller	55
+Edward D. White	65
+William H. Taft	64
+Charles E. Hughes	68
+Harlan F. Stone	69
+Frederick M. Vinson	56
+Earl Warren	62
+Warren E. Burger	62
+William H. Rehnquist	62
+John G. Roberts	50

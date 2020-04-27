@@ -1,0 +1,9 @@
+Number of Rockets	Observed number of hits in each region	
+0	229	
+1	211	
+2	93	
+3	35	
+4	7	
+5	0	
+6	0	
+7	1	

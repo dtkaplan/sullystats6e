@@ -1,0 +1,21 @@
+Hospital Admissions
+Cancer
+Gun Shot Wound
+Gun Shot Wound
+Assault
+Motor Vehicle Accident
+Motor Vehicle Accident
+Fall
+Motor Vehicle Accident
+Fall
+Motor Vehicle Accident
+Motor Vehicle Accident
+Motor Vehicle Accident
+Gun Shot Wound
+Gun Shot Wound
+Congestive Heart Failure
+Gun Shot Wound
+Gun Shot Wound
+Gun Shot Wound
+Gun Shot Wound
+Motor Vehicle Accident

@@ -1,0 +1,7 @@
+Speed (mph)	Braking Distance (ft)	
+30	48	
+40	79	
+50	123	
+60	184	
+70	243	
+80	315

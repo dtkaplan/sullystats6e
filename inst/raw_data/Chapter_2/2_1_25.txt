@@ -1,0 +1,46 @@
+President "State of Birth"
+Washington Virginia
+"J. Adams" Massachusetts
+Jefferson Virginia
+Madison Virginia
+Monroe Virginia
+"J.Q. Adams" Massachusetts
+Jackson "South Carolina"
+"Van Buren" "New York"
+"W.H. Harrison" Virginia
+Tyler Virginia
+Polk "North Carolina"
+Taylor Virginia
+Fillmore "New York"
+Pierce "New Hampshire"
+Buchanan Pennsylvania
+Lincoln Kentucky
+"A. Johnson" "North Carolina"
+Grant Ohio
+Hayes Ohio
+Garfield Ohio
+Arthur Vermont
+Cleveland "New Jersey"
+"B. Harrison" Ohio
+Cleveland "New Jersey"
+McKinley Ohio
+"T. Roosevelt" "New York"
+Taft Ohio
+Wilson Virginia
+Harding Ohio
+Coolidge Vermont
+Hoover Iowa
+"F.D. Roosevelt" "New York"
+Truman Missouri
+Eisenhower Texas
+Kennedy Massachusetts
+"L.B. Johnson" Texas
+Nixon California
+Ford Nebraska
+Carter Georgia
+Reagan Illinois
+"George H. Bush" Massachusetts
+Clinton Arkansas
+"George W. Bush" Connecticut
+"Barack Obama" Hawaii
+"Donald Trump" "New York"

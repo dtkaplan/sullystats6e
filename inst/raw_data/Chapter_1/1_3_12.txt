@@ -1,0 +1,46 @@
+President
+Washington
+J. Adams
+Jefferson
+Madison
+Monroe
+J.Q. Adams
+Jackson
+Van Buren
+W.H. Harrison
+Tyler
+Polk
+Taylor
+Fillmore
+Pierce
+Buchanan
+Lincoln
+A. Johnson
+Grant
+Hayes
+Garfield
+Arthur
+Cleveland
+B. Harrison
+Cleveland
+McKinley
+T. Roosevelt
+Taft
+Wilson
+Harding
+Coolidge
+Hoover
+F.D. Roosevelt
+Truman
+Eisenhower
+Kennedy
+L.B. Johnson
+Nixon
+Ford
+Carter
+Reagan
+George H. Bush
+Clinton
+George W. Bush
+Barack Obama
+Donald Trump

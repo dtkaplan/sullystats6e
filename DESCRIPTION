@@ -1,0 +1,16 @@
+Package: sullystats6e
+Type: Package
+Title: Data sets from Statistics: Informed Decisions Using Data 6e
+Version: 0.1.0
+Author: Data collected by Michael Sullivan, organized by D. Kaplan
+Maintainer: Danny Kaplan <kaplan@macalester.edu>
+Description: Micheal Sullivan has collected hundreds of data sets 
+    to go with his series of statistics books. This package contains
+    those data converted from the format on his  website into R-compatible
+    files.  Data sets named in the  format S10_2_35 refer to specific
+    chapters in the sixth edition  of Informed Decisions Using Data with 
+    the number following the S  giving the chapter number.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2

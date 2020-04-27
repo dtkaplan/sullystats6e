@@ -1,0 +1,18 @@
+Restaurant	Fat (g)	Protein (g)	Sugar (g)	Carbs (g)	Colories
+1/4 pound single with cheese (Wendy's)	20	25	9	39	430
+Whataburger (Whataburger)	32	30	10	61	640
+Cheeseburger (In-n-Out)	27	22	10	39	480
+Bic Mac (McDonald's)	29	25	9	45	540
+Whopper with cheese (Burger King)	47	33	11	52	760
+Jumbo Jack (Jack in the Box)	42	25	12	54	690
+1/4 pounder with Cheese (McDonald's)	26	29	9	40	510
+Cheeseburger (Sonic)	31	29	15	59	630
+					
+					
+					
+					
+					
+					
+					
+					
+					

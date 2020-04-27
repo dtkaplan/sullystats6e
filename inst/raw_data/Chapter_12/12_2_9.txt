@@ -1,0 +1,9 @@
+	Excellent	Good	Fair	Poor
+Very Happy	271	261	82	20
+Pretty Happy	247	567	231	53
+Not Too Happy	33	103	92	36
+
+				
+				
+				
+				

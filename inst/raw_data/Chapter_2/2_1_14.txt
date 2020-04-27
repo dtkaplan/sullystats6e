@@ -1,0 +1,7 @@
+Response	Frequency
+I do not drive a car	249
+Never	118
+Rarely	249
+Sometimes	345
+Most of the time	716
+Always	3093

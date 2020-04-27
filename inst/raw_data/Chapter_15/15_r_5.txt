@@ -1,0 +1,16 @@
+Car	Engine Displacement	City MPG
+Acura RL	3.5	16
+Buick LeCrosse	3.8	17
+Cadillac DTS	4.6	15
+Chevrolet Cobalt	2.2	24
+Chevrolet Impala	3.5	18
+Chevrolet Malibu	2.4	22
+Chrysler Sebring	2.4	21
+Dodge Magnum	2.7	18
+Ford Taurus	3.5	18
+Ford Focus	2.0	24
+Ford Mustang	4.0	17
+Lexus LS 460	4.6	16
+Pontiac Grand Prix	3.8	18
+Pontiac G5	2.2	24
+Saturn Aura	2.4	22

@@ -1,0 +1,10 @@
+Student	Travel Time
+Amanda	39
+Amber	21
+Tim	9
+Mike	32
+Nicole	30
+Scot	45
+Erica	11
+Tiffany	12
+Glenn	39

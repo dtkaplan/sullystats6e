@@ -1,0 +1,8 @@
+Car into SUV	SUV Damage	Car Damage
+Kia Forte into Hyundai Tucson	2091	1510
+Dodge Caliber into Jeep Patriot	1338	2559
+Hosda Civic into Honda CR-V	1053	4921
+Volkswagon Golf into Volkswagon Tiguan	1872	4555
+Nissan Sentra into Nissan Rogue	1428	5114
+ Ford Focus into Ford Escape	2208	5203
+Toyota Corolla into Toyota RAV4	6015	3852

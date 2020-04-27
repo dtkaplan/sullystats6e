@@ -1,0 +1,10 @@
+Planet	Distance from Sun, x (millions of miles)	Sidereal Year, y
+Mercury	36	0.24
+Venus	67	0.62
+Earth	93	1.00
+Mars	142	1.88
+Jupiter	483	11.9
+Saturn	887	29.5
+Uranus	1785	84.0
+Neptune	2797	165.0
+Pluto	3675	248.0

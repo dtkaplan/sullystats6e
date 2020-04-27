@@ -1,0 +1,10 @@
+Day	Wait Time Before	Wait Time After
+Mon (2 PM)	11.6	10.7
+Tues (2 PM)	25.9	28.3
+Wed (2 PM)	20.0	19.2
+Thurs (2 PM)	38.2	35.9
+Fri (2 PM)	57.3	59.2
+Sat (11 AM)	32.1	31.8
+Sat (4 PM)	81.8	77.3
+Sun (12 Noon)	57.1	54.9
+Sun (4 PM)	62.8	62.0
