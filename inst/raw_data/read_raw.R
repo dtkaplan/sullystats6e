@@ -65,3 +65,7 @@ save_one  <- function(name, the_list) {
 
 lapply(names(Hoo),  function(x) {save_one(x, Hoo)})
 lapply(names(Goo2), function(x) {save_one(x,  Goo2)})
+
+#  Late comers
+
+CollegeData <- read_plain("inst/raw_data/CollegeData.txt")
