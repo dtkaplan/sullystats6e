@@ -15,11 +15,10 @@
 \item \code{Length}: The number of miles the tornado is on the ground.
 \item \code{Width}: The width of the tornado in yards.
 \item \code{Number_States}: The number of states in which the tornado was on the ground.
-
-@keywords datasets
-
-@source spc.noaa.gov/wcm/#data
 }}
+\source{
+spc.noaa.gov/wcm/#data
+}
 \usage{
 data(Tornadoes_2017)
 }

@@ -21,8 +21,8 @@
 
 #'
 #'
-#'   @keywords datasets
+#' @keywords datasets
 #'
-#'   @source spc.noaa.gov/wcm/#data
+#' @source spc.noaa.gov/wcm/#data
 #'
 "Tornadoes_2017"
